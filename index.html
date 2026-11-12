@@ -129,6 +129,75 @@ footer a { color: var(--gold); }
   nav a { margin-left: 1rem; font-size: 0.9rem; }
   .header-inner { flex-direction: column; gap: 1rem; }
 }
+
+/* Quote cart (zapytanie o wycenę) */
+.quote-row { display:flex; gap:0.5rem; align-items:center; margin-top:1rem; }
+.qty-ctrl { display:flex; align-items:center; border:1px solid #ddd; border-radius:50px; overflow:hidden; background:#fff; flex-shrink:0; }
+.qty-ctrl button { background:none; border:0; width:30px; height:38px; font-size:1.1rem; cursor:pointer; color:var(--dark); }
+.qty-ctrl button:hover { background:var(--light-gray); }
+.qty-ctrl input { width:36px; height:38px; border:0; text-align:center; font-size:0.95rem; font-family:inherit; -moz-appearance:textfield; }
+.qty-ctrl input::-webkit-outer-spin-button, .qty-ctrl input::-webkit-inner-spin-button { -webkit-appearance:none; margin:0; }
+.add-quote { flex:1; background:var(--red); color:#fff; border:0; border-radius:50px; padding:0 0.6rem; height:40px; font-weight:600; font-family:inherit; font-size:0.88rem; white-space:nowrap; cursor:pointer; transition:background .2s; }
+.add-quote:hover { background:var(--red-dark); }
+.add-quote.added { background:var(--gold); color:var(--dark); }
+.in-quote { font-size:0.78rem; color:var(--red); font-weight:600; margin-top:0.5rem; min-height:1em; }
+#quoteFab { position:fixed; right:1.5rem; bottom:1.5rem; z-index:1500; background:var(--red); color:#fff; border:0; border-radius:50px; padding:0.9rem 1.4rem; font-weight:600; font-family:inherit; font-size:1rem; cursor:pointer; box-shadow:0 8px 24px rgba(200,16,46,0.35); display:flex; align-items:center; gap:0.5rem; }
+#quoteFab:hover { background:var(--red-dark); }
+#quoteFab .badge { background:var(--gold); color:var(--dark); border-radius:50px; min-width:1.6rem; height:1.6rem; padding:0 0.4rem; display:inline-flex; align-items:center; justify-content:center; font-size:0.85rem; }
+#quoteFab.bump { animation:qbump .35s; }
+@keyframes qbump { 50% { transform:scale(1.12); } }
+.q-overlay { position:fixed; inset:0; background:rgba(0,0,0,0.45); z-index:2000; display:none; }
+.q-overlay.open { display:block; }
+.q-drawer { position:fixed; top:0; right:0; height:100%; width:min(520px,100%); background:#fff; z-index:2001; transform:translateX(100%); transition:transform .3s; display:flex; flex-direction:column; box-shadow:-8px 0 30px rgba(0,0,0,0.15); }
+.q-drawer.open { transform:none; }
+.q-head { display:flex; justify-content:space-between; align-items:center; padding:1.2rem 1.4rem; border-bottom:3px solid var(--red); }
+.q-head h2 { font-size:1.5rem; color:var(--red); }
+.q-close { background:none; border:0; font-size:1.8rem; cursor:pointer; line-height:1; color:var(--gray); }
+.q-body { flex:1; overflow-y:auto; padding:1rem 1.4rem; }
+.q-empty { text-align:center; color:#888; padding:3rem 1rem; }
+.q-item { display:flex; gap:0.8rem; align-items:center; padding:0.8rem 0; border-bottom:1px solid #f0f0f0; }
+.q-item img { width:52px; height:52px; object-fit:contain; background:#f8f8f8; border-radius:8px; flex-shrink:0; }
+.q-info { flex:1; min-width:0; }
+.q-info .brand { font-size:0.7rem; }
+.q-name { font-weight:600; font-size:0.92rem; line-height:1.3; }
+.q-meta { color:var(--gray); font-size:0.8rem; margin-top:0.15rem; }
+.q-actions { display:flex; flex-direction:column; align-items:flex-end; gap:0.35rem; }
+.q-actions select { border:1px solid #ddd; border-radius:8px; padding:0.2rem 0.3rem; font-family:inherit; font-size:0.8rem; }
+.q-actions .qty-ctrl button { width:28px; height:32px; }
+.q-actions .qty-ctrl input { width:38px; height:32px; }
+.q-remove { background:none; border:0; color:var(--red); font-size:0.8rem; cursor:pointer; text-decoration:underline; font-family:inherit; }
+.q-foot { border-top:1px solid #eee; padding:1rem 1.4rem; display:flex; flex-direction:column; gap:0.6rem; }
+.q-summary { color:var(--gray); font-size:0.9rem; }
+.q-btn { border:0; border-radius:50px; padding:0.85rem 1.2rem; font-weight:600; font-family:inherit; font-size:0.95rem; cursor:pointer; }
+.q-primary { background:var(--red); color:#fff; }
+.q-primary:hover { background:var(--red-dark); }
+.q-primary:disabled { background:#ccc; cursor:not-allowed; }
+.q-secondary { background:var(--light-gray); color:var(--dark); }
+.q-secondary:hover { background:#e4ded5; }
+.q-link { background:none; border:0; color:var(--gray); text-decoration:underline; cursor:pointer; font-family:inherit; font-size:0.85rem; }
+.q-row2 { display:flex; gap:0.5rem; }
+.q-row2 > * { flex:1; }
+.q-form label { display:block; font-size:0.85rem; font-weight:600; margin:0.8rem 0 0.3rem; }
+.q-form input, .q-form textarea { width:100%; padding:0.75rem 1rem; border:1px solid #ddd; border-radius:10px; font-size:1rem; font-family:inherit; outline:none; }
+.q-form input:focus, .q-form textarea:focus { border-color:var(--red); }
+.q-form textarea { min-height:90px; resize:vertical; }
+.q-note { font-size:0.8rem; color:var(--gray); margin-top:0.6rem; line-height:1.5; }
+.q-warn { font-size:0.82rem; color:#8a5a00; background:#fff6dd; border-radius:8px; padding:0.6rem 0.8rem; margin-top:0.6rem; display:none; }
+.q-toast { position:fixed; left:50%; bottom:5.5rem; transform:translateX(-50%); background:var(--dark); color:#fff; padding:0.7rem 1.2rem; border-radius:50px; font-size:0.9rem; z-index:2100; opacity:0; pointer-events:none; transition:opacity .25s; }
+.q-toast.show { opacity:1; }
+#quotePrint { display:none; }
+@media (max-width: 768px) {
+  #quoteFab { right:1rem; bottom:1rem; padding:0.8rem 1.1rem; }
+  .q-row2 { flex-direction:column; }
+  .filters input, .filters select { min-width:0; max-width:100%; flex:1 1 100%; }
+  .container { padding-left:1rem; padding-right:1rem; }
+}
+@media print {
+  body.q-printing > *:not(#quotePrint) { display:none !important; }
+  body.q-printing #quotePrint { display:block !important; padding:1rem; font-family:'Inter',sans-serif; color:#000; }
+  #quotePrint table { width:100%; border-collapse:collapse; margin-top:1rem; font-size:11pt; }
+  #quotePrint th, #quotePrint td { border:1px solid #999; padding:4px 6px; text-align:left; }
+}
 </style>
 </head>
 <body>
@@ -181,6 +250,52 @@ footer a { color: var(--gold); }
   <p>© 2026 Polski Sklep Online USA</p>
   <p style="margin-top:0.5rem;">Autentyczne polskie produkty</p>
 </footer>
+
+
+<button id="quoteFab" type="button" aria-label="Zapytanie o wycenę">🧾 Wycena <span class="badge" id="quoteCount">0</span></button>
+<div class="q-overlay" id="quoteOverlay"></div>
+<aside class="q-drawer" id="quoteDrawer" aria-hidden="true" role="dialog" aria-labelledby="quoteTitle">
+  <div class="q-head">
+    <h2 id="quoteTitle">Zapytanie o wycenę</h2>
+    <button class="q-close" id="quoteClose" type="button" aria-label="Zamknij">&times;</button>
+  </div>
+  <div class="q-body" id="quoteListView">
+    <div id="quoteItems"></div>
+  </div>
+  <div class="q-foot" id="quoteListFoot">
+    <div class="q-summary" id="quoteSummary"></div>
+    <button class="q-btn q-primary" id="quoteToForm" type="button">Dalej: dane kontaktowe</button>
+    <div class="q-row2">
+      <button class="q-btn q-secondary" id="quoteCopy" type="button">Kopiuj listę</button>
+      <button class="q-btn q-secondary" id="quotePrintBtn" type="button">Drukuj / PDF</button>
+    </div>
+    <button class="q-link" id="quoteClear" type="button">Wyczyść listę</button>
+  </div>
+  <form class="q-body q-form" id="quoteFormView" style="display:none" novalidate>
+    <button class="q-link" id="quoteBack" type="button">&larr; Wróć do listy</button>
+    <label for="qName">Imię i nazwisko *</label>
+    <input id="qName" name="name" autocomplete="name" required>
+    <label for="qCompany">Firma (opcjonalnie)</label>
+    <input id="qCompany" name="company" autocomplete="organization">
+    <label for="qEmail">E-mail *</label>
+    <input id="qEmail" name="email" type="email" autocomplete="email" required>
+    <label for="qPhone">Telefon</label>
+    <input id="qPhone" name="phone" type="tel" autocomplete="tel">
+    <label for="qNote">Uwagi (adres dostawy, termin, pytania)</label>
+    <textarea id="qNote" name="note"></textarea>
+    <p class="q-note">Po kliknięciu „Wyślij zapytanie” otworzy się Twój program pocztowy z gotową wiadomością — wystarczy ją wysłać. Odpowiemy z aktualnymi cenami i dostępnością.</p>
+    <div class="q-warn" id="quoteWarn"></div>
+    <div class="q-foot" style="padding:1rem 0 0;border:0;">
+      <button class="q-btn q-primary" id="quoteSend" type="submit">Wyślij zapytanie</button>
+      <div class="q-row2">
+        <button class="q-btn q-secondary" id="quoteCopy2" type="button">Kopiuj zapytanie</button>
+        <button class="q-btn q-secondary" id="quotePrintBtn2" type="button">Drukuj / PDF</button>
+      </div>
+    </div>
+  </form>
+</aside>
+<div class="q-toast" id="quoteToast"></div>
+<div id="quotePrint"></div>
 
 <script>
 
@@ -666,6 +781,11 @@ function render(list) {
           <div class="case-price">${p.CASE_PRICE ? 'Karton<br>$' + Number(p.CASE_PRICE).toFixed(2) : ''}</div>
         </div>
         <div class="cat">${p.CATEGORY}</div>
+        <div class="quote-row" data-qkey="${qAttr(quoteKey(p))}">
+          <div class="qty-ctrl"><button type="button" data-qstep="-1" aria-label="Mniej">−</button><input type="number" min="1" value="1" inputmode="numeric" aria-label="Ilość"><button type="button" data-qstep="1" aria-label="Więcej">+</button></div>
+          <button type="button" class="add-quote${quoteFind(quoteKey(p)) ? ' added' : ''}">Dodaj do wyceny</button>
+        </div>
+        <div class="in-quote">${quoteBadge(p)}</div>
       </div>
     </div>
     `;
@@ -688,7 +808,217 @@ document.getElementById('search').oninput = filter;
 document.getElementById('categoryFilter').onchange = filter;
 document.getElementById('brandFilter').onchange = filter;
 
+/* ===== Koszyk zapytania o wycenę (quote cart) — bez cen i płatności ===== */
+// Adres, na który trafiają zapytania o wycenę — zmień tutaj w razie potrzeby.
+const QUOTE_RECIPIENT_EMAIL = 'matthewzimanyc@gmail.com';
+const QUOTE_EMAIL_SUBJECT = 'Quote request';
+const QUOTE_STORAGE_KEY = 'polishStoreQuoteCart.v1';
+const QUOTE_MAILTO_SAFE_LENGTH = 1900; // dłuższe linki mailto niektóre programy pocztowe ucinają
+
+function quoteKey(p) { return [p.CODE, p.NAME, p.SIZE || ''].join('|'); }
+function qAttr(v) { return String(v).replace(/&/g,'&amp;').replace(/"/g,'&quot;').replace(/</g,'&lt;'); }
+function qEsc(v) { return String(v == null ? '' : v).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;'); }
+
+let quoteCart = [];
+function quoteLoad() {
+  try { const d = JSON.parse(localStorage.getItem(QUOTE_STORAGE_KEY) || '[]'); quoteCart = Array.isArray(d) ? d.filter(i => i && i.key && i.qty > 0) : []; }
+  catch (e) { quoteCart = []; }
+}
+function quoteSave() { try { localStorage.setItem(QUOTE_STORAGE_KEY, JSON.stringify(quoteCart)); } catch (e) {} }
+function quoteFind(key) { return quoteCart.find(i => i.key === key); }
+function quoteUnitsLabel(u) { return u === 'case' ? 'kart.' : 'szt.'; }
+function quoteBadge(p) { const it = quoteFind(quoteKey(p)); return it ? '✓ W wycenie: ' + it.qty + ' ' + quoteUnitsLabel(it.unit) : ''; }
+const quoteByKey = new Map();
+function quoteProduct(key) {
+  if (!quoteByKey.size) PRODUCTS.forEach(p => { const k = quoteKey(p); if (!quoteByKey.has(k)) quoteByKey.set(k, p); });
+  return quoteByKey.get(key);
+}
+function quoteClampQty(v) { v = parseInt(v, 10); return isNaN(v) || v < 1 ? 1 : Math.min(v, 9999); }
+
+function quoteAdd(key, qty) {
+  const p = quoteProduct(key); if (!p) return;
+  const it = quoteFind(key);
+  if (it) it.qty = quoteClampQty(it.qty + qty);
+  else quoteCart.push({ key, code: p.CODE, brand: p.BRAND, name: p.NAME, size: p.SIZE || '', caseCt: p.CASE_CT || 0, qty: quoteClampQty(qty), unit: 'unit' });
+  quoteSave(); quoteRefresh(true);
+  quoteToast('Dodano do wyceny: ' + p.NAME);
+}
+function quoteSetQty(key, qty) { const it = quoteFind(key); if (!it) return; it.qty = quoteClampQty(qty); quoteSave(); quoteRefresh(); }
+function quoteSetUnit(key, unit) { const it = quoteFind(key); if (!it) return; it.unit = unit === 'case' ? 'case' : 'unit'; quoteSave(); quoteRefresh(); }
+function quoteRemove(key) { quoteCart = quoteCart.filter(i => i.key !== key); quoteSave(); quoteRefresh(); }
+function quoteClear() { if (!quoteCart.length || !confirm('Wyczyścić całą listę wyceny?')) return; quoteCart = []; quoteSave(); quoteRefresh(); }
+
+function quoteTotalQty() { return quoteCart.reduce((a, i) => a + i.qty, 0); }
+
+function quoteRefresh(bump) {
+  const fab = document.getElementById('quoteFab');
+  document.getElementById('quoteCount').textContent = quoteCart.length;
+  if (bump) { fab.classList.remove('bump'); void fab.offsetWidth; fab.classList.add('bump'); }
+  // odśwież oznaczenia „W wycenie” na widocznych kartach
+  document.querySelectorAll('.quote-row').forEach(row => {
+    const it = quoteFind(row.dataset.qkey);
+    const badge = row.nextElementSibling;
+    if (badge && badge.classList.contains('in-quote')) badge.textContent = it ? '✓ W wycenie: ' + it.qty + ' ' + quoteUnitsLabel(it.unit) : '';
+    row.querySelector('.add-quote').classList.toggle('added', !!it);
+  });
+  const box = document.getElementById('quoteItems');
+  if (!quoteCart.length) {
+    box.innerHTML = '<div class="q-empty">Lista jest pusta.<br>Dodaj produkty z katalogu przyciskiem „Dodaj do wyceny”.</div>';
+  } else {
+    box.innerHTML = quoteCart.map(i => {
+      const p = quoteProduct(i.key);
+      const img = p ? (getProductImage(p.NAME, p.CODE) || 'images/logo.jpg') : 'images/logo.jpg';
+      return `<div class="q-item" data-qkey="${qAttr(i.key)}">
+        <img src="${qAttr(img)}" alt="" onerror="this.src='images/logo.jpg'">
+        <div class="q-info"><div class="brand">${qEsc(i.brand)}</div><div class="q-name">${qEsc(i.name)}</div>
+          <div class="q-meta">Kod: ${qEsc(i.code)}${i.size ? ' · ' + qEsc(i.size) : ''}${i.caseCt > 1 ? ' · ' + i.caseCt + ' szt./karton' : ''}</div></div>
+        <div class="q-actions">
+          <div class="qty-ctrl"><button type="button" data-qstep="-1" aria-label="Mniej">−</button><input type="number" min="1" value="${i.qty}" inputmode="numeric" aria-label="Ilość"><button type="button" data-qstep="1" aria-label="Więcej">+</button></div>
+          <select aria-label="Jednostka"><option value="unit"${i.unit !== 'case' ? ' selected' : ''}>szt.</option>${i.caseCt > 1 || i.unit === 'case' ? `<option value="case"${i.unit === 'case' ? ' selected' : ''}>karton</option>` : ''}</select>
+          <button type="button" class="q-remove">Usuń</button>
+        </div></div>`;
+    }).join('');
+  }
+  document.getElementById('quoteSummary').textContent = quoteCart.length ? `Pozycji: ${quoteCart.length} · łączna ilość: ${quoteTotalQty()}` : '';
+  ['quoteToForm', 'quoteCopy', 'quotePrintBtn'].forEach(id => document.getElementById(id).disabled = !quoteCart.length);
+  document.getElementById('quoteClear').style.display = quoteCart.length ? '' : 'none';
+}
+
+function quoteOpen(view) {
+  document.getElementById('quoteDrawer').classList.add('open');
+  document.getElementById('quoteDrawer').setAttribute('aria-hidden', 'false');
+  document.getElementById('quoteOverlay').classList.add('open');
+  quoteView(view || 'list');
+}
+function quoteCloseDrawer() {
+  document.getElementById('quoteDrawer').classList.remove('open');
+  document.getElementById('quoteDrawer').setAttribute('aria-hidden', 'true');
+  document.getElementById('quoteOverlay').classList.remove('open');
+}
+function quoteView(v) {
+  const form = v === 'form' && quoteCart.length;
+  document.getElementById('quoteListView').style.display = form ? 'none' : '';
+  document.getElementById('quoteListFoot').style.display = form ? 'none' : '';
+  document.getElementById('quoteFormView').style.display = form ? '' : 'none';
+  document.getElementById('quoteTitle').textContent = form ? 'Dane kontaktowe' : 'Zapytanie o wycenę';
+  if (form) setTimeout(() => document.getElementById('qName').focus(), 50);
+}
+
+function quoteCustomer() {
+  const g = id => document.getElementById(id).value.trim();
+  return { name: g('qName'), company: g('qCompany'), email: g('qEmail'), phone: g('qPhone'), note: g('qNote') };
+}
+function quoteItemLines() {
+  return quoteCart.map((i, n) => `${n + 1}. [${i.code}] ${i.brand} ${i.name}${i.size ? ' ' + i.size : ''} — ${i.qty} ${quoteUnitsLabel(i.unit)}`);
+}
+function quoteText(withCustomer) {
+  const lines = [];
+  if (withCustomer) {
+    const c = quoteCustomer();
+    lines.push('ZAPYTANIE O WYCENĘ / QUOTE REQUEST', '');
+    lines.push('Imię i nazwisko: ' + c.name);
+    if (c.company) lines.push('Firma: ' + c.company);
+    lines.push('E-mail: ' + c.email);
+    if (c.phone) lines.push('Telefon: ' + c.phone);
+    if (c.note) lines.push('Uwagi: ' + c.note);
+    lines.push('');
+  }
+  lines.push(`Produkty (${quoteCart.length} poz.):`);
+  lines.push(...quoteItemLines());
+  return lines.join('\n');
+}
+function quoteMailto() {
+  const body = quoteText(true);
+  return 'mailto:' + QUOTE_RECIPIENT_EMAIL + '?subject=' + encodeURIComponent(QUOTE_EMAIL_SUBJECT) + '&body=' + encodeURIComponent(body);
+}
+
+async function quoteCopy(withCustomer) {
+  const t = quoteText(withCustomer);
+  try { await navigator.clipboard.writeText(t); }
+  catch (e) {
+    const ta = document.createElement('textarea'); ta.value = t; ta.style.position = 'fixed'; ta.style.opacity = '0';
+    document.body.appendChild(ta); ta.select(); try { document.execCommand('copy'); } catch (e2) {} ta.remove();
+  }
+  quoteToast('Skopiowano do schowka');
+}
+
+function quotePrint() {
+  const c = quoteCustomer();
+  const date = new Date().toLocaleDateString('pl-PL');
+  const cust = [c.name && 'Imię i nazwisko: ' + qEsc(c.name), c.company && 'Firma: ' + qEsc(c.company), c.email && 'E-mail: ' + qEsc(c.email), c.phone && 'Telefon: ' + qEsc(c.phone), c.note && 'Uwagi: ' + qEsc(c.note)].filter(Boolean).join('<br>');
+  document.getElementById('quotePrint').innerHTML = `<h2>Zapytanie o wycenę — Polski Sklep Online USA</h2><p>Data: ${date}</p>${cust ? '<p style="margin-top:.6rem">' + cust + '</p>' : ''}
+    <table><thead><tr><th>#</th><th>Kod</th><th>Marka</th><th>Produkt</th><th>Rozmiar</th><th>Ilość</th></tr></thead><tbody>
+    ${quoteCart.map((i, n) => `<tr><td>${n + 1}</td><td>${qEsc(i.code)}</td><td>${qEsc(i.brand)}</td><td>${qEsc(i.name)}</td><td>${qEsc(i.size)}</td><td>${i.qty} ${quoteUnitsLabel(i.unit)}</td></tr>`).join('')}
+    </tbody></table><p style="margin-top:1rem">Kontakt: ${qEsc(QUOTE_RECIPIENT_EMAIL)}</p>`;
+  document.body.classList.add('q-printing');
+  const done = () => { document.body.classList.remove('q-printing'); window.removeEventListener('afterprint', done); };
+  window.addEventListener('afterprint', done);
+  window.print();
+  setTimeout(done, 1000);
+}
+
+let quoteToastTimer;
+function quoteToast(msg) {
+  const t = document.getElementById('quoteToast'); t.textContent = msg; t.classList.add('show');
+  clearTimeout(quoteToastTimer); quoteToastTimer = setTimeout(() => t.classList.remove('show'), 1800);
+}
+
+function quoteSubmit(e) {
+  e.preventDefault();
+  const c = quoteCustomer(); const warn = document.getElementById('quoteWarn');
+  warn.style.display = 'none';
+  if (!c.name) { warn.textContent = 'Podaj imię i nazwisko.'; warn.style.display = 'block'; document.getElementById('qName').focus(); return; }
+  if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(c.email)) { warn.textContent = 'Podaj poprawny adres e-mail.'; warn.style.display = 'block'; document.getElementById('qEmail').focus(); return; }
+  const url = quoteMailto();
+  if (url.length > QUOTE_MAILTO_SAFE_LENGTH) {
+    warn.innerHTML = 'Lista jest długa — niektóre programy pocztowe mogą uciąć wiadomość. Jeśli lista w e-mailu jest niepełna, kliknij „Kopiuj zapytanie” i wklej ją do wiadomości do <b>' + qEsc(QUOTE_RECIPIENT_EMAIL) + '</b>.';
+    warn.style.display = 'block';
+  }
+  window.location.href = url;
+}
+
+function quoteInit() {
+  quoteLoad();
+  // Kontrolki na kartach produktów (delegacja zdarzeń — działa po każdym render())
+  document.getElementById('grid').addEventListener('click', e => {
+    const row = e.target.closest('.quote-row'); if (!row) return;
+    const input = row.querySelector('input');
+    if (e.target.dataset.qstep) { input.value = quoteClampQty(+input.value + +e.target.dataset.qstep); return; }
+    if (e.target.classList.contains('add-quote')) { quoteAdd(row.dataset.qkey, quoteClampQty(input.value)); input.value = 1; }
+  });
+  document.getElementById('grid').addEventListener('change', e => { if (e.target.matches('.quote-row input')) e.target.value = quoteClampQty(e.target.value); });
+  // Lista w szufladzie
+  const items = document.getElementById('quoteItems');
+  items.addEventListener('click', e => {
+    const row = e.target.closest('.q-item'); if (!row) return;
+    const key = row.dataset.qkey; const it = quoteFind(key);
+    if (e.target.dataset.qstep && it) { const n = it.qty + +e.target.dataset.qstep; if (n < 1) quoteRemove(key); else quoteSetQty(key, n); }
+    else if (e.target.classList.contains('q-remove')) quoteRemove(key);
+  });
+  items.addEventListener('change', e => {
+    const row = e.target.closest('.q-item'); if (!row) return;
+    if (e.target.tagName === 'SELECT') quoteSetUnit(row.dataset.qkey, e.target.value);
+    else if (e.target.tagName === 'INPUT') quoteSetQty(row.dataset.qkey, e.target.value);
+  });
+  document.getElementById('quoteFab').onclick = () => quoteOpen('list');
+  document.getElementById('quoteClose').onclick = quoteCloseDrawer;
+  document.getElementById('quoteOverlay').onclick = quoteCloseDrawer;
+  document.addEventListener('keydown', e => { if (e.key === 'Escape') quoteCloseDrawer(); });
+  document.getElementById('quoteToForm').onclick = () => quoteView('form');
+  document.getElementById('quoteBack').onclick = () => quoteView('list');
+  document.getElementById('quoteClear').onclick = quoteClear;
+  document.getElementById('quoteCopy').onclick = () => quoteCopy(false);
+  document.getElementById('quoteCopy2').onclick = () => quoteCopy(true);
+  document.getElementById('quotePrintBtn').onclick = quotePrint;
+  document.getElementById('quotePrintBtn2').onclick = quotePrint;
+  document.getElementById('quoteFormView').addEventListener('submit', quoteSubmit);
+  // synchronizacja między kartami przeglądarki
+  window.addEventListener('storage', e => { if (e.key === QUOTE_STORAGE_KEY) { quoteLoad(); quoteRefresh(); } });
+  quoteRefresh();
+}
+
 init();
+quoteInit();
 </script>
 </body>
 </html>
