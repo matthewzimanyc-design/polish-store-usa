@@ -1,0 +1,5082 @@
+[
+  {
+    "CODE": "118",
+    "BRAND": "RUNOLAND",
+    "NAME": "BOROWIKI DELIKATES. CALE PREMIUM",
+    "SIZE": "300g",
+    "CASE_CT": 12,
+    "CASE_PRICE": 90.0,
+    "UNIT_PRICE": 7.5,
+    "CATEGORY": "Grzyby / Mushrooms"
+  },
+  {
+    "CODE": "14",
+    "BRAND": "RUNOLAND",
+    "NAME": "BOROWIKI SUSZONE DISPLAY",
+    "SIZE": "20g",
+    "CASE_CT": 10,
+    "CASE_PRICE": 24.9,
+    "UNIT_PRICE": 2.49,
+    "CATEGORY": "Grzyby / Mushrooms"
+  },
+  {
+    "CODE": "172",
+    "BRAND": "RUNOLAND",
+    "NAME": "BOROWIKI SUSZONE LUBIANKA",
+    "SIZE": "60g",
+    "CASE_CT": 12,
+    "CASE_PRICE": 87.0,
+    "UNIT_PRICE": 7.25,
+    "CATEGORY": "Grzyby / Mushrooms"
+  },
+  {
+    "CODE": "1316",
+    "BRAND": "RUNOLAND",
+    "NAME": "Do zupy grzybowej I dań z grzybów 50g",
+    "SIZE": "",
+    "CASE_CT": 10,
+    "CASE_PRICE": 32.5,
+    "UNIT_PRICE": 3.25,
+    "CATEGORY": "Grzyby / Mushrooms"
+  },
+  {
+    "CODE": "189",
+    "BRAND": "RUNOLAND",
+    "NAME": "FARSZ KAPUSCI- GRZYB. DO PIEROGOW",
+    "SIZE": "680g",
+    "CASE_CT": 12,
+    "CASE_PRICE": 42.0,
+    "UNIT_PRICE": 3.5,
+    "CATEGORY": "Grzyby / Mushrooms"
+  },
+  {
+    "CODE": "156",
+    "BRAND": "RUNOLAND",
+    "NAME": "KURKI MARYNOWANE CALE",
+    "SIZE": "300g",
+    "CASE_CT": 12,
+    "CASE_PRICE": 66.0,
+    "UNIT_PRICE": 5.5,
+    "CATEGORY": "Grzyby / Mushrooms"
+  },
+  {
+    "CODE": "120",
+    "BRAND": "RUNOLAND",
+    "NAME": "MASLAKI MARYNOWANE CALE",
+    "SIZE": "300g",
+    "CASE_CT": 12,
+    "CASE_PRICE": 45.0,
+    "UNIT_PRICE": 3.75,
+    "CATEGORY": "Grzyby / Mushrooms"
+  },
+  {
+    "CODE": "107",
+    "BRAND": "RUNOLAND",
+    "NAME": "PIECZARKI MARYNOWANE",
+    "SIZE": "900g",
+    "CASE_CT": 12,
+    "CASE_PRICE": 57.0,
+    "UNIT_PRICE": 4.75,
+    "CATEGORY": "Grzyby / Mushrooms"
+  },
+  {
+    "CODE": "372",
+    "BRAND": "RUNOLAND",
+    "NAME": "PIECZARKI MARYNOWANE CALE",
+    "SIZE": "280g",
+    "CASE_CT": 12,
+    "CASE_PRICE": 30.0,
+    "UNIT_PRICE": 2.5,
+    "CATEGORY": "Grzyby / Mushrooms"
+  },
+  {
+    "CODE": "190",
+    "BRAND": "RUNOLAND",
+    "NAME": "PODGRZYBKI CALE W ZAL. SLONEJ",
+    "SIZE": "500g",
+    "CASE_CT": 12,
+    "CASE_PRICE": 81.0,
+    "UNIT_PRICE": 6.75,
+    "CATEGORY": "Grzyby / Mushrooms"
+  },
+  {
+    "CODE": "173",
+    "BRAND": "RUNOLAND",
+    "NAME": "PODGRZYBKI MARYNOWANE EXTRA",
+    "SIZE": "900g",
+    "CASE_CT": 12,
+    "CASE_PRICE": 138.0,
+    "UNIT_PRICE": 11.5,
+    "CATEGORY": "Grzyby / Mushrooms"
+  },
+  {
+    "CODE": "112",
+    "BRAND": "RUNOLAND",
+    "NAME": "PODGRZYBKI MARYNOWANE EXTRA",
+    "SIZE": "300g",
+    "CASE_CT": 1,
+    "CASE_PRICE": "",
+    "UNIT_PRICE": 4.5,
+    "CATEGORY": "Grzyby / Mushrooms"
+  },
+  {
+    "CODE": "15",
+    "BRAND": "RUNOLAND",
+    "NAME": "PODGRZYBKI SUSZONE DISPLAY 5",
+    "SIZE": "20g",
+    "CASE_CT": 15,
+    "CASE_PRICE": 37.35,
+    "UNIT_PRICE": 2.49,
+    "CATEGORY": "Grzyby / Mushrooms"
+  },
+  {
+    "CODE": "177",
+    "BRAND": "RUNOLAND",
+    "NAME": "PODGRZYBKI SUSZONE LUBIANKA",
+    "SIZE": "60g",
+    "CASE_CT": 12,
+    "CASE_PRICE": 87.0,
+    "UNIT_PRICE": 7.25,
+    "CATEGORY": "Grzyby / Mushrooms"
+  },
+  {
+    "CODE": "121",
+    "BRAND": "RUNOLAND",
+    "NAME": "PODGRZYBKI SUSZONE LUZ 1Kg",
+    "SIZE": "2.205",
+    "CASE_CT": 2,
+    "CASE_PRICE": 198.0,
+    "UNIT_PRICE": 99.0,
+    "CATEGORY": "Grzyby / Mushrooms"
+  },
+  {
+    "CODE": "140",
+    "BRAND": "RUNOLAND",
+    "NAME": "POLSKI BIGOS DOMOWY Z GRZYBAMI",
+    "SIZE": "830g",
+    "CASE_CT": 12,
+    "CASE_PRICE": 42.0,
+    "UNIT_PRICE": 3.5,
+    "CATEGORY": "Grzyby / Mushrooms"
+  },
+  {
+    "CODE": "1184",
+    "BRAND": "DARY NATURY",
+    "NAME": "Babka lancetowata Eko 25g",
+    "SIZE": "25g",
+    "CASE_CT": 10,
+    "CASE_PRICE": 25.0,
+    "UNIT_PRICE": 2.5,
+    "CATEGORY": "Herbaty i Zioła Lecznicze / Herbal Teas"
+  },
+  {
+    "CODE": "1184",
+    "BRAND": "DARY NATURY",
+    "NAME": "Babka lancetowata Eko 25g",
+    "SIZE": "25g",
+    "CASE_CT": 10,
+    "CASE_PRICE": 16.9,
+    "UNIT_PRICE": 1.69,
+    "CATEGORY": "Herbaty i Zioła Lecznicze / Herbal Teas"
+  },
+  {
+    "CODE": "1423",
+    "BRAND": "DARY NATURY",
+    "NAME": "Bez Czarny kwiat EKO 50g",
+    "SIZE": "50g",
+    "CASE_CT": 10,
+    "CASE_PRICE": 39.5,
+    "UNIT_PRICE": 3.95,
+    "CATEGORY": "Herbaty i Zioła Lecznicze / Herbal Teas"
+  },
+  {
+    "CODE": "1423",
+    "BRAND": "DARY NATURY",
+    "NAME": "Bez Czarny kwiat EKO 50g",
+    "SIZE": "50g",
+    "CASE_CT": 10,
+    "CASE_PRICE": 19.5,
+    "UNIT_PRICE": 1.95,
+    "CATEGORY": "Herbaty i Zioła Lecznicze / Herbal Teas"
+  },
+  {
+    "CODE": "1424",
+    "BRAND": "DARY NATURY",
+    "NAME": "Bez Czarny owoc EKO 100g",
+    "SIZE": "100g",
+    "CASE_CT": 10,
+    "CASE_PRICE": 45.0,
+    "UNIT_PRICE": 4.5,
+    "CATEGORY": "Herbaty i Zioła Lecznicze / Herbal Teas"
+  },
+  {
+    "CODE": "1424",
+    "BRAND": "DARY NATURY",
+    "NAME": "Bez Czarny owoc EKO 100g",
+    "SIZE": "100g",
+    "CASE_CT": 10,
+    "CASE_PRICE": 25.0,
+    "UNIT_PRICE": 2.5,
+    "CATEGORY": "Herbaty i Zioła Lecznicze / Herbal Teas"
+  },
+  {
+    "CODE": "1226",
+    "BRAND": "DARY NATURY",
+    "NAME": "Bez czarny owoc EKO 2g",
+    "SIZE": "",
+    "CASE_CT": 25,
+    "CASE_PRICE": 62.5,
+    "UNIT_PRICE": 2.5,
+    "CATEGORY": "Herbaty i Zioła Lecznicze / Herbal Teas"
+  },
+  {
+    "CODE": "1376",
+    "BRAND": "DARY NATURY",
+    "NAME": "Bio Energia Eco 2g x 10",
+    "SIZE": "50g",
+    "CASE_CT": 25,
+    "CASE_PRICE": 56.25,
+    "UNIT_PRICE": 2.25,
+    "CATEGORY": "Herbaty i Zioła Lecznicze / Herbal Teas"
+  },
+  {
+    "CODE": "1377",
+    "BRAND": "DARY NATURY",
+    "NAME": "Bomba witaminowa EKO 100g",
+    "SIZE": "100g",
+    "CASE_CT": 10,
+    "CASE_PRICE": 42.5,
+    "UNIT_PRICE": 4.25,
+    "CATEGORY": "Herbaty i Zioła Lecznicze / Herbal Teas"
+  },
+  {
+    "CODE": "1101",
+    "BRAND": "DARY NATURY",
+    "NAME": "Bulion warzywny Eko 200g",
+    "SIZE": "200g",
+    "CASE_CT": 10,
+    "CASE_PRICE": 42.5,
+    "UNIT_PRICE": 4.25,
+    "CATEGORY": "Herbaty i Zioła Lecznicze / Herbal Teas"
+  },
+  {
+    "CODE": "1216",
+    "BRAND": "DARY NATURY",
+    "NAME": "Bądź Optymistą EKO 50g",
+    "SIZE": "50g",
+    "CASE_CT": 10,
+    "CASE_PRICE": 16.9,
+    "UNIT_PRICE": 1.69,
+    "CATEGORY": "Herbaty i Zioła Lecznicze / Herbal Teas"
+  },
+  {
+    "CODE": "1394",
+    "BRAND": "DARY NATURY",
+    "NAME": "Cukier rozany eko 150g",
+    "SIZE": "150g",
+    "CASE_CT": 12,
+    "CASE_PRICE": 39.0,
+    "UNIT_PRICE": 3.25,
+    "CATEGORY": "Herbaty i Zioła Lecznicze / Herbal Teas"
+  },
+  {
+    "CODE": "1441",
+    "BRAND": "DARY NATURY",
+    "NAME": "Czystek 2g",
+    "SIZE": "",
+    "CASE_CT": 15,
+    "CASE_PRICE": 50.25,
+    "UNIT_PRICE": 3.35,
+    "CATEGORY": "Herbaty i Zioła Lecznicze / Herbal Teas"
+  },
+  {
+    "CODE": "1425",
+    "BRAND": "DARY NATURY",
+    "NAME": "Czystek eco 50g",
+    "SIZE": "50g",
+    "CASE_CT": 10,
+    "CASE_PRICE": 39.5,
+    "UNIT_PRICE": 3.95,
+    "CATEGORY": "Herbaty i Zioła Lecznicze / Herbal Teas"
+  },
+  {
+    "CODE": "1425",
+    "BRAND": "DARY NATURY",
+    "NAME": "Czystek eco 50g",
+    "SIZE": "50g",
+    "CASE_CT": 10,
+    "CASE_PRICE": 22.5,
+    "UNIT_PRICE": 2.25,
+    "CATEGORY": "Herbaty i Zioła Lecznicze / Herbal Teas"
+  },
+  {
+    "CODE": "1209",
+    "BRAND": "DARY NATURY",
+    "NAME": "Dla niejadka EKO 2g x 10",
+    "SIZE": "50g",
+    "CASE_CT": 25,
+    "CASE_PRICE": 48.75,
+    "UNIT_PRICE": 1.95,
+    "CATEGORY": "Herbaty i Zioła Lecznicze / Herbal Teas"
+  },
+  {
+    "CODE": "1438",
+    "BRAND": "DARY NATURY",
+    "NAME": "Expresowe Herbaty Ekologiczne Dary Natury",
+    "SIZE": "",
+    "CASE_CT": 1,
+    "CASE_PRICE": "",
+    "UNIT_PRICE": 3.75,
+    "CATEGORY": "Herbaty i Zioła Lecznicze / Herbal Teas"
+  },
+  {
+    "CODE": "1936",
+    "BRAND": "DARY NATURY",
+    "NAME": "Glog Kwiat EKO 50g",
+    "SIZE": "50g",
+    "CASE_CT": 10,
+    "CASE_PRICE": 19.5,
+    "UNIT_PRICE": 1.95,
+    "CATEGORY": "Herbaty i Zioła Lecznicze / Herbal Teas"
+  },
+  {
+    "CODE": "1931",
+    "BRAND": "DARY NATURY",
+    "NAME": "Glog kwiat EKO 2g x 10",
+    "SIZE": "50g",
+    "CASE_CT": 25,
+    "CASE_PRICE": 39.75,
+    "UNIT_PRICE": 1.59,
+    "CATEGORY": "Herbaty i Zioła Lecznicze / Herbal Teas"
+  },
+  {
+    "CODE": "1936",
+    "BRAND": "DARY NATURY",
+    "NAME": "Glog owoc EKO 100g",
+    "SIZE": "100g",
+    "CASE_CT": 10,
+    "CASE_PRICE": 25.0,
+    "UNIT_PRICE": 2.5,
+    "CATEGORY": "Herbaty i Zioła Lecznicze / Herbal Teas"
+  },
+  {
+    "CODE": "1936",
+    "BRAND": "DARY NATURY",
+    "NAME": "Glog owoc EKO 100g",
+    "SIZE": "100g",
+    "CASE_CT": 10,
+    "CASE_PRICE": 19.5,
+    "UNIT_PRICE": 1.95,
+    "CATEGORY": "Herbaty i Zioła Lecznicze / Herbal Teas"
+  },
+  {
+    "CODE": "1932",
+    "BRAND": "DARY NATURY",
+    "NAME": "Glog owoc EKO 2g x 10",
+    "SIZE": "50g",
+    "CASE_CT": 25,
+    "CASE_PRICE": 56.25,
+    "UNIT_PRICE": 2.25,
+    "CATEGORY": "Herbaty i Zioła Lecznicze / Herbal Teas"
+  },
+  {
+    "CODE": "1451",
+    "BRAND": "DARY NATURY",
+    "NAME": "Gripoherbs EKO 2g",
+    "SIZE": "",
+    "CASE_CT": 25,
+    "CASE_PRICE": 56.25,
+    "UNIT_PRICE": 2.25,
+    "CATEGORY": "Herbaty i Zioła Lecznicze / Herbal Teas"
+  },
+  {
+    "CODE": "1639",
+    "BRAND": "DARY NATURY",
+    "NAME": "Guz Brzozy EKO 50g",
+    "SIZE": "50g",
+    "CASE_CT": 10,
+    "CASE_PRICE": 25.0,
+    "UNIT_PRICE": 2.5,
+    "CATEGORY": "Herbaty i Zioła Lecznicze / Herbal Teas"
+  },
+  {
+    "CODE": "2170",
+    "BRAND": "DARY NATURY",
+    "NAME": "H. Polecana przy zaparciach EKO 50g",
+    "SIZE": "",
+    "CASE_CT": 1,
+    "CASE_PRICE": "",
+    "UNIT_PRICE": 2.95,
+    "CATEGORY": "Herbaty i Zioła Lecznicze / Herbal Teas"
+  },
+  {
+    "CODE": "2171",
+    "BRAND": "DARY NATURY",
+    "NAME": "H. Zgagoherbs EKO 50g",
+    "SIZE": "",
+    "CASE_CT": 1,
+    "CASE_PRICE": "",
+    "UNIT_PRICE": 2.5,
+    "CATEGORY": "Herbaty i Zioła Lecznicze / Herbal Teas"
+  },
+  {
+    "CODE": "2163",
+    "BRAND": "DARY NATURY",
+    "NAME": "Herbata Lipa kwiat Eco",
+    "SIZE": "30g",
+    "CASE_CT": 10,
+    "CASE_PRICE": 42.5,
+    "UNIT_PRICE": 4.25,
+    "CATEGORY": "Herbaty i Zioła Lecznicze / Herbal Teas"
+  },
+  {
+    "CODE": "1566",
+    "BRAND": "DARY NATURY",
+    "NAME": "Herbata dla nerwusow Eco",
+    "SIZE": "50g",
+    "CASE_CT": 10,
+    "CASE_PRICE": 19.5,
+    "UNIT_PRICE": 1.95,
+    "CATEGORY": "Herbaty i Zioła Lecznicze / Herbal Teas"
+  },
+  {
+    "CODE": "1896",
+    "BRAND": "DARY NATURY",
+    "NAME": "Herbata dla nerwusow Eco 1.5g x 10",
+    "SIZE": "50g",
+    "CASE_CT": 25,
+    "CASE_PRICE": 42.25,
+    "UNIT_PRICE": 1.69,
+    "CATEGORY": "Herbaty i Zioła Lecznicze / Herbal Teas"
+  },
+  {
+    "CODE": "1524",
+    "BRAND": "DARY NATURY",
+    "NAME": "Herbata morwa biala lisc 50gpcs",
+    "SIZE": "50g",
+    "CASE_CT": 10,
+    "CASE_PRICE": 27.5,
+    "UNIT_PRICE": 2.75,
+    "CATEGORY": "Herbaty i Zioła Lecznicze / Herbal Teas"
+  },
+  {
+    "CODE": "1524",
+    "BRAND": "DARY NATURY",
+    "NAME": "Herbata morwa biala lisc 50gpcs",
+    "SIZE": "50g",
+    "CASE_CT": 10,
+    "CASE_PRICE": 19.5,
+    "UNIT_PRICE": 1.95,
+    "CATEGORY": "Herbaty i Zioła Lecznicze / Herbal Teas"
+  },
+  {
+    "CODE": "1523",
+    "BRAND": "DARY NATURY",
+    "NAME": "Herbata na Oczyszczanie EKO 50g",
+    "SIZE": "50g",
+    "CASE_CT": 10,
+    "CASE_PRICE": 22.5,
+    "UNIT_PRICE": 2.25,
+    "CATEGORY": "Herbaty i Zioła Lecznicze / Herbal Teas"
+  },
+  {
+    "CODE": "1523",
+    "BRAND": "DARY NATURY",
+    "NAME": "Herbata na Oczyszczanie EKO 50g",
+    "SIZE": "50g",
+    "CASE_CT": 10,
+    "CASE_PRICE": 16.9,
+    "UNIT_PRICE": 1.69,
+    "CATEGORY": "Herbaty i Zioła Lecznicze / Herbal Teas"
+  },
+  {
+    "CODE": "1383",
+    "BRAND": "DARY NATURY",
+    "NAME": "Herbata na Odtruwanie EKO 50g",
+    "SIZE": "50g",
+    "CASE_CT": 10,
+    "CASE_PRICE": 16.9,
+    "UNIT_PRICE": 1.69,
+    "CATEGORY": "Herbaty i Zioła Lecznicze / Herbal Teas"
+  },
+  {
+    "CODE": "1428",
+    "BRAND": "DARY NATURY",
+    "NAME": "Jarzebina owoc EKO 50g",
+    "SIZE": "50g",
+    "CASE_CT": 10,
+    "CASE_PRICE": 19.5,
+    "UNIT_PRICE": 1.95,
+    "CATEGORY": "Herbaty i Zioła Lecznicze / Herbal Teas"
+  },
+  {
+    "CODE": "1428",
+    "BRAND": "DARY NATURY",
+    "NAME": "Jarzębina owoc EKO 50g",
+    "SIZE": "50g",
+    "CASE_CT": 10,
+    "CASE_PRICE": 25.0,
+    "UNIT_PRICE": 2.5,
+    "CATEGORY": "Herbaty i Zioła Lecznicze / Herbal Teas"
+  },
+  {
+    "CODE": "2128",
+    "BRAND": "DARY NATURY",
+    "NAME": "Kwietna EKO 2,5g",
+    "SIZE": "",
+    "CASE_CT": 5,
+    "CASE_PRICE": 40.0,
+    "UNIT_PRICE": 8.0,
+    "CATEGORY": "Herbaty i Zioła Lecznicze / Herbal Teas"
+  },
+  {
+    "CODE": "1213",
+    "BRAND": "DARY NATURY",
+    "NAME": "Laktacyjna EKO 2g x 10",
+    "SIZE": "50g",
+    "CASE_CT": 25,
+    "CASE_PRICE": 56.25,
+    "UNIT_PRICE": 2.25,
+    "CATEGORY": "Herbaty i Zioła Lecznicze / Herbal Teas"
+  },
+  {
+    "CODE": "1392",
+    "BRAND": "DARY NATURY",
+    "NAME": "Len nasiona EKO 250g",
+    "SIZE": "250g",
+    "CASE_CT": 20,
+    "CASE_PRICE": 99.0,
+    "UNIT_PRICE": 4.95,
+    "CATEGORY": "Herbaty i Zioła Lecznicze / Herbal Teas"
+  },
+  {
+    "CODE": "1392",
+    "BRAND": "DARY NATURY",
+    "NAME": "Len nasiona EKO 250g",
+    "SIZE": "250g",
+    "CASE_CT": 20,
+    "CASE_PRICE": 45.0,
+    "UNIT_PRICE": 2.25,
+    "CATEGORY": "Herbaty i Zioła Lecznicze / Herbal Teas"
+  },
+  {
+    "CODE": "1941",
+    "BRAND": "DARY NATURY",
+    "NAME": "Malinowa kresowa EKO 50g",
+    "SIZE": "50g",
+    "CASE_CT": 10,
+    "CASE_PRICE": 22.5,
+    "UNIT_PRICE": 2.25,
+    "CATEGORY": "Herbaty i Zioła Lecznicze / Herbal Teas"
+  },
+  {
+    "CODE": "1388",
+    "BRAND": "DARY NATURY",
+    "NAME": "Melisa liść EKO 100g",
+    "SIZE": "100g",
+    "CASE_CT": 10,
+    "CASE_PRICE": 32.5,
+    "UNIT_PRICE": 3.25,
+    "CATEGORY": "Herbaty i Zioła Lecznicze / Herbal Teas"
+  },
+  {
+    "CODE": "1472",
+    "BRAND": "DARY NATURY",
+    "NAME": "Melisa liść EKO 25g",
+    "SIZE": "25g",
+    "CASE_CT": 10,
+    "CASE_PRICE": 29.5,
+    "UNIT_PRICE": 2.95,
+    "CATEGORY": "Herbaty i Zioła Lecznicze / Herbal Teas"
+  },
+  {
+    "CODE": "1472",
+    "BRAND": "DARY NATURY",
+    "NAME": "Melisa liść EKO 25g",
+    "SIZE": "25g",
+    "CASE_CT": 10,
+    "CASE_PRICE": 16.9,
+    "UNIT_PRICE": 1.69,
+    "CATEGORY": "Herbaty i Zioła Lecznicze / Herbal Teas"
+  },
+  {
+    "CODE": "1678",
+    "BRAND": "DARY NATURY",
+    "NAME": "Mieta lisc EKO 25g",
+    "SIZE": "25g",
+    "CASE_CT": 10,
+    "CASE_PRICE": 25.0,
+    "UNIT_PRICE": 2.5,
+    "CATEGORY": "Herbaty i Zioła Lecznicze / Herbal Teas"
+  },
+  {
+    "CODE": "1678",
+    "BRAND": "DARY NATURY",
+    "NAME": "Mieta lisc EKO 25g",
+    "SIZE": "25g",
+    "CASE_CT": 10,
+    "CASE_PRICE": 16.9,
+    "UNIT_PRICE": 1.69,
+    "CATEGORY": "Herbaty i Zioła Lecznicze / Herbal Teas"
+  },
+  {
+    "CODE": "2129",
+    "BRAND": "DARY NATURY",
+    "NAME": "Mięta EKO 1,5gx 4pcs",
+    "SIZE": "",
+    "CASE_CT": 5,
+    "CASE_PRICE": 40.0,
+    "UNIT_PRICE": 8.0,
+    "CATEGORY": "Herbaty i Zioła Lecznicze / Herbal Teas"
+  },
+  {
+    "CODE": "1935",
+    "BRAND": "DARY NATURY",
+    "NAME": "Mniszek Lisc EKO 25g",
+    "SIZE": "25g",
+    "CASE_CT": 10,
+    "CASE_PRICE": 25.0,
+    "UNIT_PRICE": 2.5,
+    "CATEGORY": "Herbaty i Zioła Lecznicze / Herbal Teas"
+  },
+  {
+    "CODE": "1934",
+    "BRAND": "DARY NATURY",
+    "NAME": "Mniszek korzen EKO 100g",
+    "SIZE": "100g",
+    "CASE_CT": 10,
+    "CASE_PRICE": 59.5,
+    "UNIT_PRICE": 5.95,
+    "CATEGORY": "Herbaty i Zioła Lecznicze / Herbal Teas"
+  },
+  {
+    "CODE": "1934",
+    "BRAND": "DARY NATURY",
+    "NAME": "Mniszek korzen EKO 100g",
+    "SIZE": "25g",
+    "CASE_CT": 10,
+    "CASE_PRICE": 27.5,
+    "UNIT_PRICE": 2.75,
+    "CATEGORY": "Herbaty i Zioła Lecznicze / Herbal Teas"
+  },
+  {
+    "CODE": "1935",
+    "BRAND": "DARY NATURY",
+    "NAME": "Mniszek kwiat EKO 25g",
+    "SIZE": "25g",
+    "CASE_CT": 10,
+    "CASE_PRICE": 16.9,
+    "UNIT_PRICE": 1.69,
+    "CATEGORY": "Herbaty i Zioła Lecznicze / Herbal Teas"
+  },
+  {
+    "CODE": "1430",
+    "BRAND": "DARY NATURY",
+    "NAME": "Moringa lisc EKO 80g",
+    "SIZE": "80g",
+    "CASE_CT": 10,
+    "CASE_PRICE": 67.5,
+    "UNIT_PRICE": 6.75,
+    "CATEGORY": "Herbaty i Zioła Lecznicze / Herbal Teas"
+  },
+  {
+    "CODE": "1430",
+    "BRAND": "DARY NATURY",
+    "NAME": "Moringa lisc EKO 80g",
+    "SIZE": "80g",
+    "CASE_CT": 10,
+    "CASE_PRICE": 32.5,
+    "UNIT_PRICE": 3.25,
+    "CATEGORY": "Herbaty i Zioła Lecznicze / Herbal Teas"
+  },
+  {
+    "CODE": "1393",
+    "BRAND": "DARY NATURY",
+    "NAME": "Nasiona lnu odtłuszczone EKO 100g",
+    "SIZE": "100g",
+    "CASE_CT": 10,
+    "CASE_PRICE": 25.0,
+    "UNIT_PRICE": 2.5,
+    "CATEGORY": "Herbaty i Zioła Lecznicze / Herbal Teas"
+  },
+  {
+    "CODE": "1393",
+    "BRAND": "DARY NATURY",
+    "NAME": "Nasiona lnu odtłuszczone EKO 100g",
+    "SIZE": "100g",
+    "CASE_CT": 10,
+    "CASE_PRICE": 15.0,
+    "UNIT_PRICE": 1.5,
+    "CATEGORY": "Herbaty i Zioła Lecznicze / Herbal Teas"
+  },
+  {
+    "CODE": "2130",
+    "BRAND": "DARY NATURY",
+    "NAME": "Oczyszczanie EKO 2,5g",
+    "SIZE": "",
+    "CASE_CT": 5,
+    "CASE_PRICE": 40.0,
+    "UNIT_PRICE": 8.0,
+    "CATEGORY": "Herbaty i Zioła Lecznicze / Herbal Teas"
+  },
+  {
+    "CODE": "2131",
+    "BRAND": "DARY NATURY",
+    "NAME": "Odporność EKO 2,5g",
+    "SIZE": "",
+    "CASE_CT": 5,
+    "CASE_PRICE": 40.0,
+    "UNIT_PRICE": 8.0,
+    "CATEGORY": "Herbaty i Zioła Lecznicze / Herbal Teas"
+  },
+  {
+    "CODE": "2169",
+    "BRAND": "DARY NATURY",
+    "NAME": "Odporność EKO 50g",
+    "SIZE": "50g",
+    "CASE_CT": 10,
+    "CASE_PRICE": 22.5,
+    "UNIT_PRICE": 2.25,
+    "CATEGORY": "Herbaty i Zioła Lecznicze / Herbal Teas"
+  },
+  {
+    "CODE": "1940",
+    "BRAND": "DARY NATURY",
+    "NAME": "Organic Tea Lipa kwiat EKO 2g x 10",
+    "SIZE": "50g",
+    "CASE_CT": 25,
+    "CASE_PRICE": 62.5,
+    "UNIT_PRICE": 2.5,
+    "CATEGORY": "Herbaty i Zioła Lecznicze / Herbal Teas"
+  },
+  {
+    "CODE": "1939",
+    "BRAND": "DARY NATURY",
+    "NAME": "Organic Tea Pokrzywa liść EKO 1,5g x 10",
+    "SIZE": "75g",
+    "CASE_CT": 25,
+    "CASE_PRICE": 50.0,
+    "UNIT_PRICE": 2.0,
+    "CATEGORY": "Herbaty i Zioła Lecznicze / Herbal Teas"
+  },
+  {
+    "CODE": "1419",
+    "BRAND": "DARY NATURY",
+    "NAME": "Organic Tea Pokrzywa liść EKO 25g",
+    "SIZE": "25g",
+    "CASE_CT": 10,
+    "CASE_PRICE": 25.0,
+    "UNIT_PRICE": 2.5,
+    "CATEGORY": "Herbaty i Zioła Lecznicze / Herbal Teas"
+  },
+  {
+    "CODE": "1419",
+    "BRAND": "DARY NATURY",
+    "NAME": "Organic Tea Pokrzywa liść EKO 25g",
+    "SIZE": "25g",
+    "CASE_CT": 10,
+    "CASE_PRICE": 16.9,
+    "UNIT_PRICE": 1.69,
+    "CATEGORY": "Herbaty i Zioła Lecznicze / Herbal Teas"
+  },
+  {
+    "CODE": "1422",
+    "BRAND": "DARY NATURY",
+    "NAME": "Organic Tea Rumianek 2g x 10",
+    "SIZE": "50g",
+    "CASE_CT": 25,
+    "CASE_PRICE": 56.25,
+    "UNIT_PRICE": 2.25,
+    "CATEGORY": "Herbaty i Zioła Lecznicze / Herbal Teas"
+  },
+  {
+    "CODE": "1214",
+    "BRAND": "DARY NATURY",
+    "NAME": "Polecana przy alergii EKO 2g x 10",
+    "SIZE": "40g",
+    "CASE_CT": 20,
+    "CASE_PRICE": 33.8,
+    "UNIT_PRICE": 1.69,
+    "CATEGORY": "Herbaty i Zioła Lecznicze / Herbal Teas"
+  },
+  {
+    "CODE": "1214",
+    "BRAND": "DARY NATURY",
+    "NAME": "Polecana przy alergii EKO 40g",
+    "SIZE": "40g",
+    "CASE_CT": 10,
+    "CASE_PRICE": 16.9,
+    "UNIT_PRICE": 1.69,
+    "CATEGORY": "Herbaty i Zioła Lecznicze / Herbal Teas"
+  },
+  {
+    "CODE": "1219",
+    "BRAND": "DARY NATURY",
+    "NAME": "Przeciwreumatyczna LUMBAGO EKO 50g",
+    "SIZE": "50g",
+    "CASE_CT": 10,
+    "CASE_PRICE": 25.0,
+    "UNIT_PRICE": 2.5,
+    "CATEGORY": "Herbaty i Zioła Lecznicze / Herbal Teas"
+  },
+  {
+    "CODE": "1219",
+    "BRAND": "DARY NATURY",
+    "NAME": "Przeciwreumatyczna LUMBAGO EKO 50g",
+    "SIZE": "50g",
+    "CASE_CT": 10,
+    "CASE_PRICE": 17.5,
+    "UNIT_PRICE": 1.75,
+    "CATEGORY": "Herbaty i Zioła Lecznicze / Herbal Teas"
+  },
+  {
+    "CODE": "1456",
+    "BRAND": "DARY NATURY",
+    "NAME": "Przy odtruwaniu EKO 2gx10",
+    "SIZE": "",
+    "CASE_CT": 25,
+    "CASE_PRICE": 56.25,
+    "UNIT_PRICE": 2.25,
+    "CATEGORY": "Herbaty i Zioła Lecznicze / Herbal Teas"
+  },
+  {
+    "CODE": "1930",
+    "BRAND": "DARY NATURY",
+    "NAME": "Roza owoc EKO 100g",
+    "SIZE": "100g",
+    "CASE_CT": 10,
+    "CASE_PRICE": 30.0,
+    "UNIT_PRICE": 3.0,
+    "CATEGORY": "Herbaty i Zioła Lecznicze / Herbal Teas"
+  },
+  {
+    "CODE": "1929",
+    "BRAND": "DARY NATURY",
+    "NAME": "Roza owoc EKO 50g",
+    "SIZE": "50g",
+    "CASE_CT": 10,
+    "CASE_PRICE": 22.5,
+    "UNIT_PRICE": 2.25,
+    "CATEGORY": "Herbaty i Zioła Lecznicze / Herbal Teas"
+  },
+  {
+    "CODE": "1442",
+    "BRAND": "DARY NATURY",
+    "NAME": "Skrzyp ziele EKO 1,5g",
+    "SIZE": "",
+    "CASE_CT": 25,
+    "CASE_PRICE": 48.75,
+    "UNIT_PRICE": 1.95,
+    "CATEGORY": "Herbaty i Zioła Lecznicze / Herbal Teas"
+  },
+  {
+    "CODE": "2000",
+    "BRAND": "DARY NATURY",
+    "NAME": "Sosna paczki EKO 50g",
+    "SIZE": "50g",
+    "CASE_CT": 10,
+    "CASE_PRICE": 14.9,
+    "UNIT_PRICE": 1.49,
+    "CATEGORY": "Herbaty i Zioła Lecznicze / Herbal Teas"
+  },
+  {
+    "CODE": "1733",
+    "BRAND": "DARY NATURY",
+    "NAME": "Szałwia liść Eko 25g",
+    "SIZE": "25g",
+    "CASE_CT": 10,
+    "CASE_PRICE": 15.9,
+    "UNIT_PRICE": 1.59,
+    "CATEGORY": "Herbaty i Zioła Lecznicze / Herbal Teas"
+  },
+  {
+    "CODE": "2133",
+    "BRAND": "DARY NATURY",
+    "NAME": "Słoneczna polana EKO 2,5g",
+    "SIZE": "",
+    "CASE_CT": 5,
+    "CASE_PRICE": 40.0,
+    "UNIT_PRICE": 8.0,
+    "CATEGORY": "Herbaty i Zioła Lecznicze / Herbal Teas"
+  },
+  {
+    "CODE": "2033",
+    "BRAND": "DARY NATURY",
+    "NAME": "Tarnina kwiat EKO 25g",
+    "SIZE": "25g",
+    "CASE_CT": 10,
+    "CASE_PRICE": 29.5,
+    "UNIT_PRICE": 2.95,
+    "CATEGORY": "Herbaty i Zioła Lecznicze / Herbal Teas"
+  },
+  {
+    "CODE": "2134",
+    "BRAND": "DARY NATURY",
+    "NAME": "Trzy Mięty EKO 1,5g",
+    "SIZE": "",
+    "CASE_CT": 5,
+    "CASE_PRICE": 40.0,
+    "UNIT_PRICE": 8.0,
+    "CATEGORY": "Herbaty i Zioła Lecznicze / Herbal Teas"
+  },
+  {
+    "CODE": "1943",
+    "BRAND": "DARY NATURY",
+    "NAME": "Witaminka EKO 100g",
+    "SIZE": "100g",
+    "CASE_CT": 10,
+    "CASE_PRICE": 27.5,
+    "UNIT_PRICE": 2.75,
+    "CATEGORY": "Herbaty i Zioła Lecznicze / Herbal Teas"
+  },
+  {
+    "CODE": "2036",
+    "BRAND": "DARY NATURY",
+    "NAME": "Yerba Mate EKO 50g",
+    "SIZE": "50g",
+    "CASE_CT": 10,
+    "CASE_PRICE": 27.5,
+    "UNIT_PRICE": 2.75,
+    "CATEGORY": "Herbaty i Zioła Lecznicze / Herbal Teas"
+  },
+  {
+    "CODE": "1459",
+    "BRAND": "DARY NATURY",
+    "NAME": "Zdrowe płuca EKO 50g",
+    "SIZE": "50g",
+    "CASE_CT": 10,
+    "CASE_PRICE": 28.5,
+    "UNIT_PRICE": 2.85,
+    "CATEGORY": "Herbaty i Zioła Lecznicze / Herbal Teas"
+  },
+  {
+    "CODE": "1461",
+    "BRAND": "DARY NATURY",
+    "NAME": "Zgagoherbs EKO 2gx10",
+    "SIZE": "",
+    "CASE_CT": 25,
+    "CASE_PRICE": 56.25,
+    "UNIT_PRICE": 2.25,
+    "CATEGORY": "Herbaty i Zioła Lecznicze / Herbal Teas"
+  },
+  {
+    "CODE": "839",
+    "BRAND": "JUTRZENKA / KRAS",
+    "NAME": "KRAS BANANKO W CZEKOLADZIE",
+    "SIZE": "30g",
+    "CASE_CT": 36,
+    "CASE_PRICE": 24.84,
+    "UNIT_PRICE": 0.69,
+    "CATEGORY": "Herbaty i Zioła Lecznicze / Herbal Teas"
+  },
+  {
+    "CODE": "838",
+    "BRAND": "JUTRZENKA / KRAS",
+    "NAME": "NAPOLITANKA CZEKOLADOWY KREM",
+    "SIZE": "420g",
+    "CASE_CT": 16,
+    "CASE_PRICE": 74.4,
+    "UNIT_PRICE": 4.65,
+    "CATEGORY": "Herbaty i Zioła Lecznicze / Herbal Teas"
+  },
+  {
+    "CODE": "O88",
+    "BRAND": "PATE",
+    "NAME": "TEA TIME PATE/",
+    "SIZE": "0.95g",
+    "CASE_CT": 60,
+    "CASE_PRICE": 99.0,
+    "UNIT_PRICE": 1.65,
+    "CATEGORY": "Herbaty i Zioła Lecznicze / Herbal Teas"
+  },
+  {
+    "CODE": "1519",
+    "BRAND": "RUNOLAND",
+    "NAME": "Ciśnienie krwi EKO",
+    "SIZE": "50g",
+    "CASE_CT": 10,
+    "CASE_PRICE": 16.9,
+    "UNIT_PRICE": 1.69,
+    "CATEGORY": "Herbaty i Zioła Lecznicze / Herbal Teas"
+  },
+  {
+    "CODE": "1230",
+    "BRAND": "RUNOLAND",
+    "NAME": "DN Kawa żołędziówka EKO",
+    "SIZE": "200g",
+    "CASE_CT": 10,
+    "CASE_PRICE": 70.0,
+    "UNIT_PRICE": 7.0,
+    "CATEGORY": "Herbaty i Zioła Lecznicze / Herbal Teas"
+  },
+  {
+    "CODE": "1507",
+    "BRAND": "RUNOLAND",
+    "NAME": "Gripoherbs EKO",
+    "SIZE": "50g",
+    "CASE_CT": 10,
+    "CASE_PRICE": 16.9,
+    "UNIT_PRICE": 1.69,
+    "CATEGORY": "Herbaty i Zioła Lecznicze / Herbal Teas"
+  },
+  {
+    "CODE": "1507",
+    "BRAND": "RUNOLAND",
+    "NAME": "Gripoherbs EKO",
+    "SIZE": "50g",
+    "CASE_CT": 10,
+    "CASE_PRICE": 16.9,
+    "UNIT_PRICE": 1.69,
+    "CATEGORY": "Herbaty i Zioła Lecznicze / Herbal Teas"
+  },
+  {
+    "CODE": "1384",
+    "BRAND": "RUNOLAND",
+    "NAME": "Polecana przy cukrzycy EKO",
+    "SIZE": "50g",
+    "CASE_CT": 10,
+    "CASE_PRICE": 16.9,
+    "UNIT_PRICE": 1.69,
+    "CATEGORY": "Herbaty i Zioła Lecznicze / Herbal Teas"
+  },
+  {
+    "CODE": "1381",
+    "BRAND": "RUNOLAND",
+    "NAME": "Polecana przy nadmiarze cholesterolu EKO",
+    "SIZE": "50g",
+    "CASE_CT": 10,
+    "CASE_PRICE": 16.9,
+    "UNIT_PRICE": 1.69,
+    "CATEGORY": "Herbaty i Zioła Lecznicze / Herbal Teas"
+  },
+  {
+    "CODE": "1521",
+    "BRAND": "RUNOLAND",
+    "NAME": "Polecana przy zaparciach EKO",
+    "SIZE": "50g",
+    "CASE_CT": 10,
+    "CASE_PRICE": 16.9,
+    "UNIT_PRICE": 1.69,
+    "CATEGORY": "Herbaty i Zioła Lecznicze / Herbal Teas"
+  },
+  {
+    "CODE": "1520",
+    "BRAND": "RUNOLAND",
+    "NAME": "Regulujaca trawienie EKO",
+    "SIZE": "50g",
+    "CASE_CT": 10,
+    "CASE_PRICE": 29.5,
+    "UNIT_PRICE": 2.95,
+    "CATEGORY": "Herbaty i Zioła Lecznicze / Herbal Teas"
+  },
+  {
+    "CODE": "1520",
+    "BRAND": "RUNOLAND",
+    "NAME": "Regulujaca trawienie EKO",
+    "SIZE": "50g",
+    "CASE_CT": 10,
+    "CASE_PRICE": 16.9,
+    "UNIT_PRICE": 1.69,
+    "CATEGORY": "Herbaty i Zioła Lecznicze / Herbal Teas"
+  },
+  {
+    "CODE": "1518",
+    "BRAND": "RUNOLAND",
+    "NAME": "Wspomagajaca krazenie EKO",
+    "SIZE": "50g",
+    "CASE_CT": 10,
+    "CASE_PRICE": 16.9,
+    "UNIT_PRICE": 1.69,
+    "CATEGORY": "Herbaty i Zioła Lecznicze / Herbal Teas"
+  },
+  {
+    "CODE": "1509",
+    "BRAND": "RUNOLAND",
+    "NAME": "Wspomagajaca prace watroby EKO",
+    "SIZE": "50g",
+    "CASE_CT": 10,
+    "CASE_PRICE": 16.9,
+    "UNIT_PRICE": 1.69,
+    "CATEGORY": "Herbaty i Zioła Lecznicze / Herbal Teas"
+  },
+  {
+    "CODE": "1450",
+    "BRAND": "RUNOLAND",
+    "NAME": "Zaparcia 2g",
+    "SIZE": "",
+    "CASE_CT": 25,
+    "CASE_PRICE": 62.5,
+    "UNIT_PRICE": 2.5,
+    "CATEGORY": "Herbaty i Zioła Lecznicze / Herbal Teas"
+  },
+  {
+    "CODE": "1508",
+    "BRAND": "RUNOLAND",
+    "NAME": "Zdrowe nerki EKO",
+    "SIZE": "50g",
+    "CASE_CT": 10,
+    "CASE_PRICE": 16.9,
+    "UNIT_PRICE": 1.69,
+    "CATEGORY": "Herbaty i Zioła Lecznicze / Herbal Teas"
+  },
+  {
+    "CODE": "1565",
+    "BRAND": "RUNOLAND",
+    "NAME": "Zdrowe tetnice EKO",
+    "SIZE": "50g",
+    "CASE_CT": 10,
+    "CASE_PRICE": 16.9,
+    "UNIT_PRICE": 1.69,
+    "CATEGORY": "Herbaty i Zioła Lecznicze / Herbal Teas"
+  },
+  {
+    "CODE": "2021",
+    "BRAND": "WAFER / OBLATUM",
+    "NAME": "Wafle przekladane czekoladowe",
+    "SIZE": "450g",
+    "CASE_CT": 16,
+    "CASE_PRICE": 104.0,
+    "UNIT_PRICE": 6.5,
+    "CATEGORY": "Herbaty i Zioła Lecznicze / Herbal Teas"
+  },
+  {
+    "CODE": "O51",
+    "BRAND": "ARGETA",
+    "NAME": "ARGETA CHICKEN SPREAD 48/95g",
+    "SIZE": "0.95g",
+    "CASE_CT": 1,
+    "CASE_PRICE": "",
+    "UNIT_PRICE": 2.59,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "O52",
+    "BRAND": "ARGETA",
+    "NAME": "ARGETA CHICKEN SPREAD SPICY 48/95g",
+    "SIZE": "0.95g",
+    "CASE_CT": 1,
+    "CASE_PRICE": "",
+    "UNIT_PRICE": 2.59,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "O53",
+    "BRAND": "ARGETA",
+    "NAME": "ARGETA TUNA SPREAD 14/95g",
+    "SIZE": "0.95g",
+    "CASE_CT": 1,
+    "CASE_PRICE": "",
+    "UNIT_PRICE": 2.79,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "405",
+    "BRAND": "BAKING",
+    "NAME": "DR. OETKER ZELATYNA",
+    "SIZE": "20g",
+    "CASE_CT": 40,
+    "CASE_PRICE": 38.0,
+    "UNIT_PRICE": 0.95,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "503",
+    "BRAND": "BAKING",
+    "NAME": "GELLWE KAKO HOLELENDERSKIE",
+    "SIZE": "80g",
+    "CASE_CT": 10,
+    "CASE_PRICE": 23.5,
+    "UNIT_PRICE": 2.35,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "502",
+    "BRAND": "BAKING",
+    "NAME": "GELLWE PROSZEK DO PIECZENIA",
+    "SIZE": "30g",
+    "CASE_CT": 60,
+    "CASE_PRICE": 23.4,
+    "UNIT_PRICE": 0.39,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "852",
+    "BRAND": "JUTRZENKA / KRAS",
+    "NAME": "EUROVAFEL W/EUROCREAM",
+    "SIZE": "180g",
+    "CASE_CT": 12,
+    "CASE_PRICE": 27.48,
+    "UNIT_PRICE": 2.29,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "447",
+    "BRAND": "KAWA",
+    "NAME": "DELEKTA KAWA ZBOZOWA ANATOL",
+    "SIZE": "85g",
+    "CASE_CT": 15,
+    "CASE_PRICE": 20.25,
+    "UNIT_PRICE": 1.35,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "479",
+    "BRAND": "KAWA",
+    "NAME": "KAWA INKA PUSZKA",
+    "SIZE": "200g",
+    "CASE_CT": 6,
+    "CASE_PRICE": 17.94,
+    "UNIT_PRICE": 2.99,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "1702",
+    "BRAND": "MUSZTARDA",
+    "NAME": "BACOWKA MUSZTARDA CHLOPSKA",
+    "SIZE": "250g",
+    "CASE_CT": 10,
+    "CASE_PRICE": 18.5,
+    "UNIT_PRICE": 1.85,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "1700",
+    "BRAND": "MUSZTARDA",
+    "NAME": "BACOWKA MUSZTARDA JASNIE PANA",
+    "SIZE": "250g",
+    "CASE_CT": 10,
+    "CASE_PRICE": 19.5,
+    "UNIT_PRICE": 1.95,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "1701",
+    "BRAND": "MUSZTARDA",
+    "NAME": "BACOWKA MUSZTARDA PLEBANA",
+    "SIZE": "250g",
+    "CASE_CT": 10,
+    "CASE_PRICE": 18.5,
+    "UNIT_PRICE": 1.85,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "727",
+    "BRAND": "MUSZTARDA",
+    "NAME": "KAMIS MUSZTARDA SAREPSKA",
+    "SIZE": "185g",
+    "CASE_CT": 8,
+    "CASE_PRICE": 11.12,
+    "UNIT_PRICE": 1.39,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "O50",
+    "BRAND": "MUSZTARDA",
+    "NAME": "PULASKI Babci Jadzi OSTRA TESCIOWA",
+    "SIZE": "206g",
+    "CASE_CT": 12,
+    "CASE_PRICE": 18.0,
+    "UNIT_PRICE": 1.5,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "O47",
+    "BRAND": "MUSZTARDA",
+    "NAME": "PULASKI MUSZTARDA",
+    "SIZE": "206g",
+    "CASE_CT": 12,
+    "CASE_PRICE": 18.0,
+    "UNIT_PRICE": 1.5,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "O89",
+    "BRAND": "PATE",
+    "NAME": "PATE PASTETA",
+    "SIZE": "0.50g",
+    "CASE_CT": 30,
+    "CASE_PRICE": 37.5,
+    "UNIT_PRICE": 1.25,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "O93",
+    "BRAND": "PATE",
+    "NAME": "PODRAWKA CHICKEN PATE",
+    "SIZE": "0.95g",
+    "CASE_CT": 48,
+    "CASE_PRICE": 119.52,
+    "UNIT_PRICE": 2.49,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "247",
+    "BRAND": "PATE",
+    "NAME": "PORK PATE/LIVER PATE",
+    "SIZE": "0.95g",
+    "CASE_CT": 60,
+    "CASE_PRICE": 99.0,
+    "UNIT_PRICE": 1.65,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "1029",
+    "BRAND": "PROFI",
+    "NAME": "PROFI WIEJSKI FIRMOWY",
+    "SIZE": "130g",
+    "CASE_CT": 12,
+    "CASE_PRICE": 23.88,
+    "UNIT_PRICE": 1.99,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "681",
+    "BRAND": "RUNOLAND",
+    "NAME": "ASTERIX RYZ PREPAROWANY",
+    "SIZE": "120g",
+    "CASE_CT": 50,
+    "CASE_PRICE": 87.5,
+    "UNIT_PRICE": 1.75,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "1236",
+    "BRAND": "RUNOLAND",
+    "NAME": "Bazylia 25g",
+    "SIZE": "",
+    "CASE_CT": 10,
+    "CASE_PRICE": 25.0,
+    "UNIT_PRICE": 2.5,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "1893",
+    "BRAND": "RUNOLAND",
+    "NAME": "Bomba witaminowa piramidki 3g",
+    "SIZE": "45g",
+    "CASE_CT": 15,
+    "CASE_PRICE": 48.75,
+    "UNIT_PRICE": 3.25,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "1238",
+    "BRAND": "RUNOLAND",
+    "NAME": "Chilli 60g",
+    "SIZE": "",
+    "CASE_CT": 10,
+    "CASE_PRICE": 22.5,
+    "UNIT_PRICE": 2.25,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "2110",
+    "BRAND": "RUNOLAND",
+    "NAME": "Curing salt sól peklująca",
+    "SIZE": "200g",
+    "CASE_CT": 10,
+    "CASE_PRICE": 15.0,
+    "UNIT_PRICE": 1.5,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "1529",
+    "BRAND": "RUNOLAND",
+    "NAME": "Czaber 20g",
+    "SIZE": "",
+    "CASE_CT": 10,
+    "CASE_PRICE": 22.5,
+    "UNIT_PRICE": 2.25,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "1228",
+    "BRAND": "RUNOLAND",
+    "NAME": "DN KAWA DLA DIABETYKOW (Topinambur)",
+    "SIZE": "200g",
+    "CASE_CT": 10,
+    "CASE_PRICE": 78.0,
+    "UNIT_PRICE": 7.8,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "1229",
+    "BRAND": "RUNOLAND",
+    "NAME": "DN KAWA Z MNISZKA LEKARSKIEGO ECO",
+    "SIZE": "200g",
+    "CASE_CT": 10,
+    "CASE_PRICE": 106.0,
+    "UNIT_PRICE": 10.6,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "1387",
+    "BRAND": "RUNOLAND",
+    "NAME": "Durawiec ziele 50g",
+    "SIZE": "50g",
+    "CASE_CT": 1,
+    "CASE_PRICE": "",
+    "UNIT_PRICE": 2.25,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "1573",
+    "BRAND": "RUNOLAND",
+    "NAME": "ELDERBERRY MOUSE",
+    "SIZE": "230g",
+    "CASE_CT": 12,
+    "CASE_PRICE": 35.4,
+    "UNIT_PRICE": 2.95,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "105",
+    "BRAND": "RUNOLAND",
+    "NAME": "FOREST BLUEBERRYJAGODA LES. W SYR/12",
+    "SIZE": "900g",
+    "CASE_CT": 1,
+    "CASE_PRICE": "",
+    "UNIT_PRICE": 5.75,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "2285",
+    "BRAND": "RUNOLAND",
+    "NAME": "GOZDZIKI CALE CLOVES WHOLE 5oz/141.7g",
+    "SIZE": "141.7g",
+    "CASE_CT": 12,
+    "CASE_PRICE": 71.88,
+    "UNIT_PRICE": 5.99,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "2173",
+    "BRAND": "RUNOLAND",
+    "NAME": "GRYCZANA NIE PRAZONA BIALA LUZ 25kg",
+    "SIZE": "55lb",
+    "CASE_CT": 1,
+    "CASE_PRICE": "",
+    "UNIT_PRICE": 55.0,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "NEW",
+    "BRAND": "RUNOLAND",
+    "NAME": "GUSTO",
+    "SIZE": "NEW",
+    "CASE_CT": 1,
+    "CASE_PRICE": "",
+    "UNIT_PRICE": "",
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "1247",
+    "BRAND": "RUNOLAND",
+    "NAME": "Galka muszkatalowa cala 30g",
+    "SIZE": "",
+    "CASE_CT": 10,
+    "CASE_PRICE": 37.5,
+    "UNIT_PRICE": 3.75,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "1248",
+    "BRAND": "RUNOLAND",
+    "NAME": "Galka muszkatalowa mielona 30g",
+    "SIZE": "",
+    "CASE_CT": 10,
+    "CASE_PRICE": 38.5,
+    "UNIT_PRICE": 3.85,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "1249",
+    "BRAND": "RUNOLAND",
+    "NAME": "Gorczyca biala 90g",
+    "SIZE": "",
+    "CASE_CT": 10,
+    "CASE_PRICE": 25.0,
+    "UNIT_PRICE": 2.5,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "1170",
+    "BRAND": "RUNOLAND",
+    "NAME": "H. Tarczyca Bajkalska korzen",
+    "SIZE": "100g",
+    "CASE_CT": 10,
+    "CASE_PRICE": 59.5,
+    "UNIT_PRICE": 5.95,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "1173",
+    "BRAND": "RUNOLAND",
+    "NAME": "Her. Piolun Ziele",
+    "SIZE": "50g",
+    "CASE_CT": 10,
+    "CASE_PRICE": 27.5,
+    "UNIT_PRICE": 2.75,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "2103",
+    "BRAND": "RUNOLAND",
+    "NAME": "KARKOWKA I SASZLYK",
+    "SIZE": "150g",
+    "CASE_CT": 7,
+    "CASE_PRICE": 13.65,
+    "UNIT_PRICE": 1.95,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "1228",
+    "BRAND": "RUNOLAND",
+    "NAME": "KAWA DLA DIABETYKOW (Topinambur)",
+    "SIZE": "200g",
+    "CASE_CT": 10,
+    "CASE_PRICE": 37.5,
+    "UNIT_PRICE": 3.75,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "1256",
+    "BRAND": "RUNOLAND",
+    "NAME": "KAWA ORKISZOWA",
+    "SIZE": "200g",
+    "CASE_CT": 10,
+    "CASE_PRICE": 29.5,
+    "UNIT_PRICE": 2.95,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "1230",
+    "BRAND": "RUNOLAND",
+    "NAME": "KAWA ZOLEDZOWKA",
+    "SIZE": "200g",
+    "CASE_CT": 10,
+    "CASE_PRICE": 29.5,
+    "UNIT_PRICE": 2.95,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "816",
+    "BRAND": "RUNOLAND",
+    "NAME": "Klodawska sol do przetworow niejodowana",
+    "SIZE": "1KG",
+    "CASE_CT": 10,
+    "CASE_PRICE": 12.5,
+    "UNIT_PRICE": 1.25,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "1260",
+    "BRAND": "RUNOLAND",
+    "NAME": "Kolendra mielona/LISC 30g",
+    "SIZE": "",
+    "CASE_CT": 10,
+    "CASE_PRICE": 22.5,
+    "UNIT_PRICE": 2.25,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "1264",
+    "BRAND": "RUNOLAND",
+    "NAME": "Kozieradka mielona 60g",
+    "SIZE": "",
+    "CASE_CT": 10,
+    "CASE_PRICE": 24.0,
+    "UNIT_PRICE": 2.4,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "1265",
+    "BRAND": "RUNOLAND",
+    "NAME": "Kurkuma 50g",
+    "SIZE": "",
+    "CASE_CT": 10,
+    "CASE_PRICE": 19.5,
+    "UNIT_PRICE": 1.95,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "1845",
+    "BRAND": "RUNOLAND",
+    "NAME": "Lubczyk 20g",
+    "SIZE": "",
+    "CASE_CT": 10,
+    "CASE_PRICE": 14.9,
+    "UNIT_PRICE": 1.49,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "231",
+    "BRAND": "RUNOLAND",
+    "NAME": "MALOSOLNE BECZOLKA Z SERWETKA",
+    "SIZE": "680g",
+    "CASE_CT": 9,
+    "CASE_PRICE": 31.41,
+    "UNIT_PRICE": 3.49,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "939",
+    "BRAND": "KUBUŚ",
+    "NAME": "MARCHEW-BANAN -JABLKO",
+    "SIZE": "0.9L",
+    "CASE_CT": 6,
+    "CASE_PRICE": 10.5,
+    "UNIT_PRICE": 1.75,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "936",
+    "BRAND": "KUBUŚ",
+    "NAME": "MARCHEW-BANAN -JABLKO",
+    "SIZE": "0.3L",
+    "CASE_CT": 20,
+    "CASE_PRICE": 22.0,
+    "UNIT_PRICE": 1.1,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "936",
+    "BRAND": "KUBUŚ",
+    "NAME": "MARCHEW-MALINA-JABLKO",
+    "SIZE": "0.3L",
+    "CASE_CT": 20,
+    "CASE_PRICE": 22.0,
+    "UNIT_PRICE": 1.1,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "939",
+    "BRAND": "KUBUŚ",
+    "NAME": "MARCHEW-POMARANCZ -JABLKO",
+    "SIZE": "0.9L",
+    "CASE_CT": 6,
+    "CASE_PRICE": 10.5,
+    "UNIT_PRICE": 1.75,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "586",
+    "BRAND": "RUNOLAND",
+    "NAME": "MILANOWEK KROWKA MLECZNA/WANIL",
+    "SIZE": "300g",
+    "CASE_CT": 24,
+    "CASE_PRICE": 47.76,
+    "UNIT_PRICE": 1.99,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "2012",
+    "BRAND": "RUNOLAND",
+    "NAME": "Mieszanka kompotowa wigilijna",
+    "SIZE": "250g",
+    "CASE_CT": 24,
+    "CASE_PRICE": 94.8,
+    "UNIT_PRICE": 3.95,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "1271",
+    "BRAND": "RUNOLAND",
+    "NAME": "Natka pietruszki 20g x",
+    "SIZE": "",
+    "CASE_CT": 10,
+    "CASE_PRICE": 19.9,
+    "UNIT_PRICE": 1.99,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "1271",
+    "BRAND": "RUNOLAND",
+    "NAME": "Natka pietruszki 20g x",
+    "SIZE": "",
+    "CASE_CT": 10,
+    "CASE_PRICE": 14.9,
+    "UNIT_PRICE": 1.49,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "1017",
+    "BRAND": "RUNOLAND",
+    "NAME": "ORGANIC BLACKCURRANT & CHIA JAM",
+    "SIZE": "200g",
+    "CASE_CT": 12,
+    "CASE_PRICE": 35.88,
+    "UNIT_PRICE": 2.99,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "1994",
+    "BRAND": "RUNOLAND",
+    "NAME": "Ocet kielecki 10%",
+    "SIZE": "0.5L",
+    "CASE_CT": 10,
+    "CASE_PRICE": 12.5,
+    "UNIT_PRICE": 1.25,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "1994",
+    "BRAND": "RUNOLAND",
+    "NAME": "Ocet kielecki 10%",
+    "SIZE": "0.5L",
+    "CASE_CT": 10,
+    "CASE_PRICE": 12.5,
+    "UNIT_PRICE": 1.25,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "223",
+    "BRAND": "RUNOLAND",
+    "NAME": "PARYKA MARYNOWANA ZOL- CZER.",
+    "SIZE": "720ml",
+    "CASE_CT": 12,
+    "CASE_PRICE": 35.4,
+    "UNIT_PRICE": 2.95,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "238",
+    "BRAND": "RUNOLAND",
+    "NAME": "PODRAWKA SWEET PAPRIKA",
+    "SIZE": "100g",
+    "CASE_CT": 16,
+    "CASE_PRICE": 52.0,
+    "UNIT_PRICE": 3.25,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "2201",
+    "BRAND": "RUNOLAND",
+    "NAME": "PRAZONY NIESOLONY CZARNY",
+    "SIZE": "300g",
+    "CASE_CT": 10,
+    "CASE_PRICE": 34.9,
+    "UNIT_PRICE": 3.49,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "2202",
+    "BRAND": "RUNOLAND",
+    "NAME": "PRAZONY NIESOLONY CZARNY",
+    "SIZE": "400g",
+    "CASE_CT": 10,
+    "CASE_PRICE": 49.9,
+    "UNIT_PRICE": 4.99,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "2288",
+    "BRAND": "RUNOLAND",
+    "NAME": "PRAZONY SOLONY CZARNY",
+    "SIZE": "300g",
+    "CASE_CT": 10,
+    "CASE_PRICE": 34.9,
+    "UNIT_PRICE": 3.49,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "2206",
+    "BRAND": "RUNOLAND",
+    "NAME": "PRAZONY SOLONY CZARNY",
+    "SIZE": "100g",
+    "CASE_CT": 24,
+    "CASE_PRICE": 35.76,
+    "UNIT_PRICE": 1.49,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "2287",
+    "BRAND": "RUNOLAND",
+    "NAME": "PRAZONY SOLONY STRIPED czarno/bialy",
+    "SIZE": "300g",
+    "CASE_CT": 10,
+    "CASE_PRICE": 47.9,
+    "UNIT_PRICE": 4.79,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "1318",
+    "BRAND": "RUNOLAND",
+    "NAME": "Podl. Prz. Do zupy Pomidorowej 40g",
+    "SIZE": "",
+    "CASE_CT": 10,
+    "CASE_PRICE": 23.5,
+    "UNIT_PRICE": 2.35,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "1590",
+    "BRAND": "RUNOLAND",
+    "NAME": "Podl. prz. Do szarlotki 60g",
+    "SIZE": "",
+    "CASE_CT": 10,
+    "CASE_PRICE": 22.5,
+    "UNIT_PRICE": 2.25,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "1590",
+    "BRAND": "RUNOLAND",
+    "NAME": "Podl. prz. Do szarlotki 60g",
+    "SIZE": "",
+    "CASE_CT": 10,
+    "CASE_PRICE": 16.9,
+    "UNIT_PRICE": 1.69,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "1313",
+    "BRAND": "RUNOLAND",
+    "NAME": "Podl. prz. Do zapiekanek 30g",
+    "SIZE": "",
+    "CASE_CT": 10,
+    "CASE_PRICE": 14.9,
+    "UNIT_PRICE": 1.49,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "1295",
+    "BRAND": "RUNOLAND",
+    "NAME": "Podl. prz. Grill Klasyczny 30g",
+    "SIZE": "",
+    "CASE_CT": 10,
+    "CASE_PRICE": 14.9,
+    "UNIT_PRICE": 1.49,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "1295",
+    "BRAND": "RUNOLAND",
+    "NAME": "Podl. prz. Grill Klasyczny 50g",
+    "SIZE": "",
+    "CASE_CT": 10,
+    "CASE_PRICE": 23.5,
+    "UNIT_PRICE": 2.35,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "1296",
+    "BRAND": "RUNOLAND",
+    "NAME": "Podl. prz. Grill wegetariański 30g",
+    "SIZE": "",
+    "CASE_CT": 10,
+    "CASE_PRICE": 14.9,
+    "UNIT_PRICE": 1.49,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "1289",
+    "BRAND": "RUNOLAND",
+    "NAME": "Podl. prz. do dań z fasoli 30g",
+    "SIZE": "",
+    "CASE_CT": 10,
+    "CASE_PRICE": 25.0,
+    "UNIT_PRICE": 2.5,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "1289",
+    "BRAND": "RUNOLAND",
+    "NAME": "Podl. prz. do dań z fasoli 30g",
+    "SIZE": "",
+    "CASE_CT": 10,
+    "CASE_PRICE": 16.9,
+    "UNIT_PRICE": 1.69,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "1292",
+    "BRAND": "RUNOLAND",
+    "NAME": "Podl. prz. do flakow 50g",
+    "SIZE": "",
+    "CASE_CT": 10,
+    "CASE_PRICE": 25.5,
+    "UNIT_PRICE": 2.55,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "1292",
+    "BRAND": "RUNOLAND",
+    "NAME": "Podl. prz. do flakow 50g",
+    "SIZE": "",
+    "CASE_CT": 10,
+    "CASE_PRICE": 16.9,
+    "UNIT_PRICE": 1.69,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "1297",
+    "BRAND": "RUNOLAND",
+    "NAME": "Podl. prz. do gulaszu 50g",
+    "SIZE": "",
+    "CASE_CT": 10,
+    "CASE_PRICE": 16.9,
+    "UNIT_PRICE": 1.69,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "1588",
+    "BRAND": "RUNOLAND",
+    "NAME": "Podl. prz. do karkówki 40g",
+    "SIZE": "",
+    "CASE_CT": 10,
+    "CASE_PRICE": 25.0,
+    "UNIT_PRICE": 2.5,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "1588",
+    "BRAND": "RUNOLAND",
+    "NAME": "Podl. prz. do karkówki 40g",
+    "SIZE": "",
+    "CASE_CT": 10,
+    "CASE_PRICE": 14.9,
+    "UNIT_PRICE": 1.49,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "1298",
+    "BRAND": "RUNOLAND",
+    "NAME": "Podl. prz. do miesa pieczonego I sosow 50g",
+    "SIZE": "",
+    "CASE_CT": 10,
+    "CASE_PRICE": 25.0,
+    "UNIT_PRICE": 2.5,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "1298",
+    "BRAND": "RUNOLAND",
+    "NAME": "Podl. prz. do miesa pieczonego I sosow 50g",
+    "SIZE": "",
+    "CASE_CT": 10,
+    "CASE_PRICE": 17.9,
+    "UNIT_PRICE": 1.79,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "1299",
+    "BRAND": "RUNOLAND",
+    "NAME": "Podl. prz. do mięsa mielonego 50g",
+    "SIZE": "",
+    "CASE_CT": 10,
+    "CASE_PRICE": 16.9,
+    "UNIT_PRICE": 1.69,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "1300",
+    "BRAND": "RUNOLAND",
+    "NAME": "Podl. prz. do mięsa wieprzowego 50g",
+    "SIZE": "",
+    "CASE_CT": 10,
+    "CASE_PRICE": 14.9,
+    "UNIT_PRICE": 1.49,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "1301",
+    "BRAND": "RUNOLAND",
+    "NAME": "Podl. prz. do mięsa wolowego 50g",
+    "SIZE": "",
+    "CASE_CT": 10,
+    "CASE_PRICE": 22.5,
+    "UNIT_PRICE": 2.25,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "1305",
+    "BRAND": "RUNOLAND",
+    "NAME": "Podl. prz. do pasztetów 30g",
+    "SIZE": "",
+    "CASE_CT": 10,
+    "CASE_PRICE": 22.5,
+    "UNIT_PRICE": 2.25,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "1305",
+    "BRAND": "RUNOLAND",
+    "NAME": "Podl. prz. do pasztetów 30g",
+    "SIZE": "",
+    "CASE_CT": 10,
+    "CASE_PRICE": 14.9,
+    "UNIT_PRICE": 1.49,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "1306",
+    "BRAND": "RUNOLAND",
+    "NAME": "Podl. prz. do peklowania mięsa 40g",
+    "SIZE": "",
+    "CASE_CT": 10,
+    "CASE_PRICE": 25.5,
+    "UNIT_PRICE": 2.55,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "1306",
+    "BRAND": "RUNOLAND",
+    "NAME": "Podl. prz. do peklowania mięsa 40g",
+    "SIZE": "",
+    "CASE_CT": 10,
+    "CASE_PRICE": 15.9,
+    "UNIT_PRICE": 1.59,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "1849",
+    "BRAND": "RUNOLAND",
+    "NAME": "Podl. prz. do rosołu 50g",
+    "SIZE": "",
+    "CASE_CT": 10,
+    "CASE_PRICE": 26.5,
+    "UNIT_PRICE": 2.65,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "1293",
+    "BRAND": "RUNOLAND",
+    "NAME": "Podl. prz. do ryba z Grilla 0g",
+    "SIZE": "",
+    "CASE_CT": 10,
+    "CASE_PRICE": 14.9,
+    "UNIT_PRICE": 1.49,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "1311",
+    "BRAND": "RUNOLAND",
+    "NAME": "Podl. prz. do salatek 50g",
+    "SIZE": "",
+    "CASE_CT": 10,
+    "CASE_PRICE": 14.9,
+    "UNIT_PRICE": 1.49,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "2150",
+    "BRAND": "RUNOLAND",
+    "NAME": "Podl. prz. do sledzia 40g",
+    "SIZE": "40g",
+    "CASE_CT": 1,
+    "CASE_PRICE": "",
+    "UNIT_PRICE": 2.35,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "1312",
+    "BRAND": "RUNOLAND",
+    "NAME": "Podl. prz. do szaszlykow 50g",
+    "SIZE": "",
+    "CASE_CT": 10,
+    "CASE_PRICE": 14.9,
+    "UNIT_PRICE": 1.49,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "2151",
+    "BRAND": "RUNOLAND",
+    "NAME": "Podl. prz. do twarogu 30g",
+    "SIZE": "30g",
+    "CASE_CT": 1,
+    "CASE_PRICE": "",
+    "UNIT_PRICE": 1.99,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "1314",
+    "BRAND": "RUNOLAND",
+    "NAME": "Podl. prz. do ziemiakow 30g",
+    "SIZE": "",
+    "CASE_CT": 10,
+    "CASE_PRICE": 22.5,
+    "UNIT_PRICE": 2.25,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "1314",
+    "BRAND": "RUNOLAND",
+    "NAME": "Podl. prz. do ziemiakow 30g",
+    "SIZE": "",
+    "CASE_CT": 10,
+    "CASE_PRICE": 14.9,
+    "UNIT_PRICE": 1.49,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "1589",
+    "BRAND": "RUNOLAND",
+    "NAME": "Podl. prz. do żeberek 40g",
+    "SIZE": "",
+    "CASE_CT": 10,
+    "CASE_PRICE": 14.9,
+    "UNIT_PRICE": 1.49,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "1310",
+    "BRAND": "RUNOLAND",
+    "NAME": "Prz. Do ryby",
+    "SIZE": "50g",
+    "CASE_CT": 10,
+    "CASE_PRICE": 25.0,
+    "UNIT_PRICE": 2.5,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "1291",
+    "BRAND": "RUNOLAND",
+    "NAME": "Przyp. Do drobiu 50g",
+    "SIZE": "",
+    "CASE_CT": 1,
+    "CASE_PRICE": "",
+    "UNIT_PRICE": 2.5,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "328",
+    "BRAND": "RUNOLAND",
+    "NAME": "ROSTOCZYNSKI PODPLOMYKI ORG.",
+    "SIZE": "175g",
+    "CASE_CT": 20,
+    "CASE_PRICE": 53.0,
+    "UNIT_PRICE": 2.65,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "150",
+    "BRAND": "RUNOLAND",
+    "NAME": "SZCZAW KONSERWOWY",
+    "SIZE": "300g",
+    "CASE_CT": 12,
+    "CASE_PRICE": 21.0,
+    "UNIT_PRICE": 1.75,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "1334",
+    "BRAND": "RUNOLAND",
+    "NAME": "Susz warzywny z dodatkiem ziół 100g",
+    "SIZE": "100g",
+    "CASE_CT": 20,
+    "CASE_PRICE": 67.0,
+    "UNIT_PRICE": 3.35,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "2102",
+    "BRAND": "RUNOLAND",
+    "NAME": "UDKO PIECZONE",
+    "SIZE": "100g",
+    "CASE_CT": 10,
+    "CASE_PRICE": 15.0,
+    "UNIT_PRICE": 1.5,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "NEW",
+    "BRAND": "RUNOLAND",
+    "NAME": "WAFER MAJSTER WEWIORKA",
+    "SIZE": "",
+    "CASE_CT": 1,
+    "CASE_PRICE": "",
+    "UNIT_PRICE": "",
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "1734",
+    "BRAND": "RUNOLAND",
+    "NAME": "Wierzbownica drobnokwiatowa (na prostate)",
+    "SIZE": "50g",
+    "CASE_CT": 10,
+    "CASE_PRICE": 25.0,
+    "UNIT_PRICE": 2.5,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "1734",
+    "BRAND": "RUNOLAND",
+    "NAME": "Wierzbownica drobnokwiatowa (na prostate)",
+    "SIZE": "50g",
+    "CASE_CT": 10,
+    "CASE_PRICE": 25.0,
+    "UNIT_PRICE": 2.5,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "2105",
+    "BRAND": "RUNOLAND",
+    "NAME": "ZIOLA PROWANSALSKIE",
+    "SIZE": "50g",
+    "CASE_CT": 6,
+    "CASE_PRICE": 7.5,
+    "UNIT_PRICE": 1.25,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "2104",
+    "BRAND": "RUNOLAND",
+    "NAME": "ZLOTY GRILL",
+    "SIZE": "100g",
+    "CASE_CT": 10,
+    "CASE_PRICE": 17.5,
+    "UNIT_PRICE": 1.75,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "1459",
+    "BRAND": "RUNOLAND",
+    "NAME": "Zdrowe Płuca 2g",
+    "SIZE": "",
+    "CASE_CT": 25,
+    "CASE_PRICE": 62.5,
+    "UNIT_PRICE": 2.5,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "1284",
+    "BRAND": "RUNOLAND",
+    "NAME": "Ziele angielskie 50g",
+    "SIZE": "",
+    "CASE_CT": 10,
+    "CASE_PRICE": 22.5,
+    "UNIT_PRICE": 2.25,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "1243",
+    "BRAND": "SKOLEJ",
+    "NAME": "Czarnuszka 50g",
+    "SIZE": "",
+    "CASE_CT": 10,
+    "CASE_PRICE": 27.5,
+    "UNIT_PRICE": 2.75,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "1074",
+    "BRAND": "SKOLEJ",
+    "NAME": "Oil Olej czarnuszka 0,1L pcs SKOLEJ",
+    "SIZE": "0.1l",
+    "CASE_CT": 12,
+    "CASE_PRICE": 95.4,
+    "UNIT_PRICE": 7.95,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "1073",
+    "BRAND": "SKOLEJ",
+    "NAME": "Oil Olej lniany 250ml pcs SKOLEJ",
+    "SIZE": "250ml",
+    "CASE_CT": 12,
+    "CASE_PRICE": 47.4,
+    "UNIT_PRICE": 3.95,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "1078",
+    "BRAND": "SKOLEJ",
+    "NAME": "Olej z wiesiolka 0.1L SKOLEJ",
+    "SIZE": "0.1l",
+    "CASE_CT": 10,
+    "CASE_PRICE": 99.5,
+    "UNIT_PRICE": 9.95,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "559",
+    "BRAND": "SOLIDARNOSC",
+    "NAME": "SOLIDARNOSC Sliwka Naleczowska 350g",
+    "SIZE": "350g",
+    "CASE_CT": 12,
+    "CASE_PRICE": 81.0,
+    "UNIT_PRICE": 6.75,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "599",
+    "BRAND": "SOUPS",
+    "NAME": "ADAMBA CREAM OF MUSHROOM",
+    "SIZE": "1.5 oz",
+    "CASE_CT": 24,
+    "CASE_PRICE": 22.8,
+    "UNIT_PRICE": 0.95,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "602",
+    "BRAND": "SOUPS",
+    "NAME": "ADAMBA RED BORSCH",
+    "SIZE": "1.5 oz",
+    "CASE_CT": 24,
+    "CASE_PRICE": 22.8,
+    "UNIT_PRICE": 0.95,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "959",
+    "BRAND": "SOUPS",
+    "NAME": "ADAMBA WHITE BORSCH ZUREK",
+    "SIZE": "1.5 oz",
+    "CASE_CT": 24,
+    "CASE_PRICE": 22.8,
+    "UNIT_PRICE": 0.95,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "699",
+    "BRAND": "SOUPS",
+    "NAME": "KRAKUS BARSZCZ CZERWONY",
+    "SIZE": "1L",
+    "CASE_CT": 8,
+    "CASE_PRICE": 23.12,
+    "UNIT_PRICE": 2.89,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "160",
+    "BRAND": "SOUPS",
+    "NAME": "KRAKUS ZUREK KONCENTRAT",
+    "SIZE": "300ml",
+    "CASE_CT": 6,
+    "CASE_PRICE": 11.34,
+    "UNIT_PRICE": 1.89,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "1023",
+    "BRAND": "SOUPS",
+    "NAME": "ORGANIC ZUREK",
+    "SIZE": "300g",
+    "CASE_CT": 12,
+    "CASE_PRICE": 23.4,
+    "UNIT_PRICE": 1.95,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "2010",
+    "BRAND": "SUSKA SECHLONSKA",
+    "NAME": "Sliwka suszona podwedzana bez pestki",
+    "SIZE": "200g",
+    "CASE_CT": 25,
+    "CASE_PRICE": 98.75,
+    "UNIT_PRICE": 3.95,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "2011",
+    "BRAND": "SUSKA SECHLONSKA",
+    "NAME": "Tradycyjny susz owocowy wigilijny",
+    "SIZE": "250g",
+    "CASE_CT": 25,
+    "CASE_PRICE": 98.75,
+    "UNIT_PRICE": 3.95,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "241",
+    "BRAND": "VEGETA",
+    "NAME": "VEGETA NO MSG TOREBKA",
+    "SIZE": "500g",
+    "CASE_CT": 12,
+    "CASE_PRICE": 71.88,
+    "UNIT_PRICE": 5.99,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "234",
+    "BRAND": "VEGETA",
+    "NAME": "VEGETA NO MSG TOREBKA",
+    "SIZE": "250g",
+    "CASE_CT": 16,
+    "CASE_PRICE": 54.24,
+    "UNIT_PRICE": 3.39,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "244",
+    "BRAND": "VEGETA",
+    "NAME": "VEGETA TIN PUSZKA",
+    "SIZE": "250g",
+    "CASE_CT": 12,
+    "CASE_PRICE": 47.88,
+    "UNIT_PRICE": 3.99,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "246",
+    "BRAND": "VEGETA",
+    "NAME": "VEGETA TIN PUSZKA",
+    "SIZE": "500g",
+    "CASE_CT": 24,
+    "CASE_PRICE": 158.16,
+    "UNIT_PRICE": 6.59,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "243",
+    "BRAND": "VEGETA",
+    "NAME": "VEGETA TOREBKA",
+    "SIZE": "2KG",
+    "CASE_CT": 8,
+    "CASE_PRICE": 127.92,
+    "UNIT_PRICE": 15.99,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "242",
+    "BRAND": "VEGETA",
+    "NAME": "VEGETA TOREBKA",
+    "SIZE": "1KG",
+    "CASE_CT": 10,
+    "CASE_PRICE": 85.0,
+    "UNIT_PRICE": 8.5,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "245",
+    "BRAND": "VEGETA",
+    "NAME": "VEGETA TOREBKA",
+    "SIZE": "500g",
+    "CASE_CT": 12,
+    "CASE_PRICE": 57.48,
+    "UNIT_PRICE": 4.79,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "239",
+    "BRAND": "VEGETA",
+    "NAME": "VEGETA TOREBKA",
+    "SIZE": "250g",
+    "CASE_CT": 12,
+    "CASE_PRICE": 33.48,
+    "UNIT_PRICE": 2.79,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "374",
+    "BRAND": "VORTUMNUS",
+    "NAME": "CEBULKA PERLOWA",
+    "SIZE": "220g",
+    "CASE_CT": 6,
+    "CASE_PRICE": 11.94,
+    "UNIT_PRICE": 1.99,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "367",
+    "BRAND": "VORTUMNUS",
+    "NAME": "SELER KONSERWOWY",
+    "SIZE": "300g",
+    "CASE_CT": 12,
+    "CASE_PRICE": 15.0,
+    "UNIT_PRICE": 1.25,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "370",
+    "BRAND": "VORTUMNUS",
+    "NAME": "SELER KONSERWOWY",
+    "SIZE": "840g",
+    "CASE_CT": 12,
+    "CASE_PRICE": 35.88,
+    "UNIT_PRICE": 2.99,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "363",
+    "BRAND": "VORTUMNUS",
+    "NAME": "ZUR PASTERYZOWANY GESTY CONCENTRAT12",
+    "SIZE": "290g",
+    "CASE_CT": 1,
+    "CASE_PRICE": "",
+    "UNIT_PRICE": 0.99,
+    "CATEGORY": "Inne / Other"
+  },
+  {
+    "CODE": "596",
+    "BRAND": "JANEX",
+    "NAME": "ADAMBA BARLEY",
+    "SIZE": "1.5 oz",
+    "CASE_CT": 24,
+    "CASE_PRICE": 22.8,
+    "UNIT_PRICE": 0.95,
+    "CATEGORY": "Kaszę, Zboża i Mąki / Grains & Flours"
+  },
+  {
+    "CODE": "2178",
+    "BRAND": "JANEX",
+    "NAME": "BARLEY KASZA JECZMIENNA PECZAK",
+    "SIZE": "400g",
+    "CASE_CT": 16,
+    "CASE_PRICE": 15.84,
+    "UNIT_PRICE": 0.99,
+    "CATEGORY": "Kaszę, Zboża i Mąki / Grains & Flours"
+  },
+  {
+    "CODE": "2177",
+    "BRAND": "JANEX",
+    "NAME": "BARLEY KASZA JECZMIENNA SREDNIA",
+    "SIZE": "400g",
+    "CASE_CT": 16,
+    "CASE_PRICE": 15.84,
+    "UNIT_PRICE": 0.99,
+    "CATEGORY": "Kaszę, Zboża i Mąki / Grains & Flours"
+  },
+  {
+    "CODE": "2176",
+    "BRAND": "JANEX",
+    "NAME": "BUCKWHEAT GRYCZANA BIALA",
+    "SIZE": "500g",
+    "CASE_CT": 16,
+    "CASE_PRICE": 24.0,
+    "UNIT_PRICE": 1.5,
+    "CATEGORY": "Kaszę, Zboża i Mąki / Grains & Flours"
+  },
+  {
+    "CODE": "2188",
+    "BRAND": "JANEX",
+    "NAME": "BUCKWHEAT GRYCZANA BIALA 100*",
+    "SIZE": "400g",
+    "CASE_CT": 4,
+    "CASE_PRICE": 5.96,
+    "UNIT_PRICE": 1.49,
+    "CATEGORY": "Kaszę, Zboża i Mąki / Grains & Flours"
+  },
+  {
+    "CODE": "2174",
+    "BRAND": "JANEX",
+    "NAME": "BUCKWHEAT GRYCZANA PRAZONA",
+    "SIZE": "400g",
+    "CASE_CT": 16,
+    "CASE_PRICE": 21.6,
+    "UNIT_PRICE": 1.35,
+    "CATEGORY": "Kaszę, Zboża i Mąki / Grains & Flours"
+  },
+  {
+    "CODE": "2175",
+    "BRAND": "JANEX",
+    "NAME": "BUCKWHEAT GRYCZANA PRAZONA",
+    "SIZE": "1KG",
+    "CASE_CT": 10,
+    "CASE_PRICE": 25.0,
+    "UNIT_PRICE": 2.5,
+    "CATEGORY": "Kaszę, Zboża i Mąki / Grains & Flours"
+  },
+  {
+    "CODE": "2187",
+    "BRAND": "JANEX",
+    "NAME": "BUCKWHEAT GRYCZANA PRAZONA 100*",
+    "SIZE": "400g",
+    "CASE_CT": 4,
+    "CASE_PRICE": 5.4,
+    "UNIT_PRICE": 1.35,
+    "CATEGORY": "Kaszę, Zboża i Mąki / Grains & Flours"
+  },
+  {
+    "CODE": "2179",
+    "BRAND": "JANEX",
+    "NAME": "Cereal Kasza jaglana",
+    "SIZE": "500g",
+    "CASE_CT": 16,
+    "CASE_PRICE": 21.6,
+    "UNIT_PRICE": 1.35,
+    "CATEGORY": "Kaszę, Zboża i Mąki / Grains & Flours"
+  },
+  {
+    "CODE": "2180",
+    "BRAND": "JANEX",
+    "NAME": "FARINA KASZA MANNA",
+    "SIZE": "500g",
+    "CASE_CT": 16,
+    "CASE_PRICE": 20.0,
+    "UNIT_PRICE": 1.25,
+    "CATEGORY": "Kaszę, Zboża i Mąki / Grains & Flours"
+  },
+  {
+    "CODE": "2182",
+    "BRAND": "JANEX",
+    "NAME": "FASOLA PIEKNY JAS KARLOWY",
+    "SIZE": "400g",
+    "CASE_CT": 16,
+    "CASE_PRICE": 36.0,
+    "UNIT_PRICE": 2.25,
+    "CATEGORY": "Kaszę, Zboża i Mąki / Grains & Flours"
+  },
+  {
+    "CODE": "2183",
+    "BRAND": "JANEX",
+    "NAME": "FASOLA PIEKNY JAS TYCZNY",
+    "SIZE": "400g",
+    "CASE_CT": 16,
+    "CASE_PRICE": 52.0,
+    "UNIT_PRICE": 3.25,
+    "CATEGORY": "Kaszę, Zboża i Mąki / Grains & Flours"
+  },
+  {
+    "CODE": "2184",
+    "BRAND": "JANEX",
+    "NAME": "GROCH LUSKANY POLOWKI",
+    "SIZE": "500g",
+    "CASE_CT": 16,
+    "CASE_PRICE": 20.0,
+    "UNIT_PRICE": 1.25,
+    "CATEGORY": "Kaszę, Zboża i Mąki / Grains & Flours"
+  },
+  {
+    "CODE": "2194",
+    "BRAND": "JANEX",
+    "NAME": "LINSEED SIEMIE LNIANE 250g",
+    "SIZE": "250g",
+    "CASE_CT": 24,
+    "CASE_PRICE": 23.76,
+    "UNIT_PRICE": 0.99,
+    "CATEGORY": "Kaszę, Zboża i Mąki / Grains & Flours"
+  },
+  {
+    "CODE": "2185",
+    "BRAND": "JANEX",
+    "NAME": "MAKA ZIEMIACZANA",
+    "SIZE": "1kg",
+    "CASE_CT": 10,
+    "CASE_PRICE": 27.5,
+    "UNIT_PRICE": 2.75,
+    "CATEGORY": "Kaszę, Zboża i Mąki / Grains & Flours"
+  },
+  {
+    "CODE": "2181",
+    "BRAND": "JANEX",
+    "NAME": "PLATKI OWSIANE GORSKIE",
+    "SIZE": "400g",
+    "CASE_CT": 16,
+    "CASE_PRICE": 20.0,
+    "UNIT_PRICE": 1.25,
+    "CATEGORY": "Kaszę, Zboża i Mąki / Grains & Flours"
+  },
+  {
+    "CODE": "418",
+    "BRAND": "PZZ KRAKOW",
+    "NAME": "MAKA KROLOWA KUCHNI",
+    "SIZE": "25KG",
+    "CASE_CT": 1,
+    "CASE_PRICE": "",
+    "UNIT_PRICE": 29.0,
+    "CATEGORY": "Kaszę, Zboża i Mąki / Grains & Flours"
+  },
+  {
+    "CODE": "2172",
+    "BRAND": "RUNOLAND",
+    "NAME": "GRYCZANA PRAZONA NA KASZANKE LUZ 25kg",
+    "SIZE": "55lb",
+    "CASE_CT": 1,
+    "CASE_PRICE": "",
+    "UNIT_PRICE": 55.0,
+    "CATEGORY": "Kaszę, Zboża i Mąki / Grains & Flours"
+  },
+  {
+    "CODE": "OPL",
+    "BRAND": "WAFER / OBLATUM",
+    "NAME": "OPLATKI 3 DUZE +2 MALE x",
+    "SIZE": "",
+    "CASE_CT": 1,
+    "CASE_PRICE": "",
+    "UNIT_PRICE": 0.95,
+    "CATEGORY": "Kaszę, Zboża i Mąki / Grains & Flours"
+  },
+  {
+    "CODE": "1571",
+    "BRAND": "DARY NATURY",
+    "NAME": "Czosnek niedźwiedzi EKO 100g",
+    "SIZE": "",
+    "CASE_CT": 10,
+    "CASE_PRICE": 77.5,
+    "UNIT_PRICE": 7.75,
+    "CATEGORY": "Kiszonki i Przetwory / Pickles & Preserves"
+  },
+  {
+    "CODE": "1233",
+    "BRAND": "DARY NATURY",
+    "NAME": "Czosnek niedźwiedzi EKO 25g",
+    "SIZE": "",
+    "CASE_CT": 10,
+    "CASE_PRICE": 32.5,
+    "UNIT_PRICE": 3.25,
+    "CATEGORY": "Kiszonki i Przetwory / Pickles & Preserves"
+  },
+  {
+    "CODE": "235",
+    "BRAND": "DARY NATURY",
+    "NAME": "ECO OGORKI MALOSOLNE",
+    "SIZE": "900g",
+    "CASE_CT": 12,
+    "CASE_PRICE": 45.48,
+    "UNIT_PRICE": 3.79,
+    "CATEGORY": "Kiszonki i Przetwory / Pickles & Preserves"
+  },
+  {
+    "CODE": "2283",
+    "BRAND": "FRUBEX",
+    "NAME": "BURACZKI OBIADOWE",
+    "SIZE": "500g",
+    "CASE_CT": 12,
+    "CASE_PRICE": 16.68,
+    "UNIT_PRICE": 1.39,
+    "CATEGORY": "Kiszonki i Przetwory / Pickles & Preserves"
+  },
+  {
+    "CODE": "229",
+    "BRAND": "RUNOLAND",
+    "NAME": "BURACZKI TARTE",
+    "SIZE": "336ml",
+    "CASE_CT": 12,
+    "CASE_PRICE": 21.0,
+    "UNIT_PRICE": 1.75,
+    "CATEGORY": "Kiszonki i Przetwory / Pickles & Preserves"
+  },
+  {
+    "CODE": "2284",
+    "BRAND": "RUNOLAND",
+    "NAME": "BURACZKI WIORKI Z PAPRYKA",
+    "SIZE": "500g",
+    "CASE_CT": 12,
+    "CASE_PRICE": 16.68,
+    "UNIT_PRICE": 1.39,
+    "CATEGORY": "Kiszonki i Przetwory / Pickles & Preserves"
+  },
+  {
+    "CODE": "227",
+    "BRAND": "RUNOLAND",
+    "NAME": "CHRZAN TARTY EXTRA",
+    "SIZE": "180ml",
+    "CASE_CT": 24,
+    "CASE_PRICE": 42.0,
+    "UNIT_PRICE": 1.75,
+    "CATEGORY": "Kiszonki i Przetwory / Pickles & Preserves"
+  },
+  {
+    "CODE": "122",
+    "BRAND": "RUNOLAND",
+    "NAME": "CHRZAN TARTY OST. SMIETANKOWY",
+    "SIZE": "260g",
+    "CASE_CT": 12,
+    "CASE_PRICE": 25.08,
+    "UNIT_PRICE": 2.09,
+    "CATEGORY": "Kiszonki i Przetwory / Pickles & Preserves"
+  },
+  {
+    "CODE": "130",
+    "BRAND": "RUNOLAND",
+    "NAME": "CHRZAN TARTY OSTRY",
+    "SIZE": "260g",
+    "CASE_CT": 12,
+    "CASE_PRICE": 23.4,
+    "UNIT_PRICE": 1.95,
+    "CATEGORY": "Kiszonki i Przetwory / Pickles & Preserves"
+  },
+  {
+    "CODE": "228",
+    "BRAND": "RUNOLAND",
+    "NAME": "CWIKLA Z CHRZANEM",
+    "SIZE": "336ml",
+    "CASE_CT": 12,
+    "CASE_PRICE": 21.0,
+    "UNIT_PRICE": 1.75,
+    "CATEGORY": "Kiszonki i Przetwory / Pickles & Preserves"
+  },
+  {
+    "CODE": "123",
+    "BRAND": "RUNOLAND",
+    "NAME": "CWIKLA Z CHRZANEM",
+    "SIZE": "900g",
+    "CASE_CT": 12,
+    "CASE_PRICE": 35.4,
+    "UNIT_PRICE": 2.95,
+    "CATEGORY": "Kiszonki i Przetwory / Pickles & Preserves"
+  },
+  {
+    "CODE": "371",
+    "BRAND": "RUNOLAND",
+    "NAME": "CWIKLA Z CHRZANEM",
+    "SIZE": "300g",
+    "CASE_CT": 12,
+    "CASE_PRICE": 13.8,
+    "UNIT_PRICE": 1.15,
+    "CATEGORY": "Kiszonki i Przetwory / Pickles & Preserves"
+  },
+  {
+    "CODE": "127",
+    "BRAND": "RUNOLAND",
+    "NAME": "CZOSNEK MARYNOWANY",
+    "SIZE": "190g",
+    "CASE_CT": 12,
+    "CASE_PRICE": 28.68,
+    "UNIT_PRICE": 2.39,
+    "CATEGORY": "Kiszonki i Przetwory / Pickles & Preserves"
+  },
+  {
+    "CODE": "129",
+    "BRAND": "RUNOLAND",
+    "NAME": "CZOSNEK Z PAPRYKA W OLEJU",
+    "SIZE": "190g",
+    "CASE_CT": 12,
+    "CASE_PRICE": 28.68,
+    "UNIT_PRICE": 2.39,
+    "CATEGORY": "Kiszonki i Przetwory / Pickles & Preserves"
+  },
+  {
+    "CODE": "128",
+    "BRAND": "RUNOLAND",
+    "NAME": "CZOSNEK Z ZIOLAMI W OLEJU",
+    "SIZE": "190g",
+    "CASE_CT": 12,
+    "CASE_PRICE": 28.68,
+    "UNIT_PRICE": 2.39,
+    "CATEGORY": "Kiszonki i Przetwory / Pickles & Preserves"
+  },
+  {
+    "CODE": "1242",
+    "BRAND": "RUNOLAND",
+    "NAME": "Czosnek mielony 50g",
+    "SIZE": "",
+    "CASE_CT": 10,
+    "CASE_PRICE": 27.5,
+    "UNIT_PRICE": 2.75,
+    "CATEGORY": "Kiszonki i Przetwory / Pickles & Preserves"
+  },
+  {
+    "CODE": "1301",
+    "BRAND": "RUNOLAND",
+    "NAME": "Do ogorkow konserwowych 100g",
+    "SIZE": "",
+    "CASE_CT": 20,
+    "CASE_PRICE": 33.0,
+    "UNIT_PRICE": 1.65,
+    "CATEGORY": "Kiszonki i Przetwory / Pickles & Preserves"
+  },
+  {
+    "CODE": "2001",
+    "BRAND": "RUNOLAND",
+    "NAME": "KAPUSTA KIMCHI HOT",
+    "SIZE": "300g",
+    "CASE_CT": 12,
+    "CASE_PRICE": 33.0,
+    "UNIT_PRICE": 2.75,
+    "CATEGORY": "Kiszonki i Przetwory / Pickles & Preserves"
+  },
+  {
+    "CODE": "2002",
+    "BRAND": "RUNOLAND",
+    "NAME": "KAPUSTA KIMCHI HOT WEGAN",
+    "SIZE": "300g",
+    "CASE_CT": 12,
+    "CASE_PRICE": 33.0,
+    "UNIT_PRICE": 2.75,
+    "CATEGORY": "Kiszonki i Przetwory / Pickles & Preserves"
+  },
+  {
+    "CODE": "225",
+    "BRAND": "RUNOLAND",
+    "NAME": "KAPUSTA KISZONA BIALA",
+    "SIZE": "936ml",
+    "CASE_CT": 12,
+    "CASE_PRICE": 35.4,
+    "UNIT_PRICE": 2.95,
+    "CATEGORY": "Kiszonki i Przetwory / Pickles & Preserves"
+  },
+  {
+    "CODE": "226",
+    "BRAND": "RUNOLAND",
+    "NAME": "KAPUSTA KISZONA Z MARCHEWKA",
+    "SIZE": "936ml",
+    "CASE_CT": 12,
+    "CASE_PRICE": 35.4,
+    "UNIT_PRICE": 2.95,
+    "CATEGORY": "Kiszonki i Przetwory / Pickles & Preserves"
+  },
+  {
+    "CODE": "220",
+    "BRAND": "RUNOLAND",
+    "NAME": "OGORKI KISZONE",
+    "SIZE": "936ml",
+    "CASE_CT": 12,
+    "CASE_PRICE": 40.68,
+    "UNIT_PRICE": 3.39,
+    "CATEGORY": "Kiszonki i Przetwory / Pickles & Preserves"
+  },
+  {
+    "CODE": "221",
+    "BRAND": "RUNOLAND",
+    "NAME": "OGORKI KONSERWOWE",
+    "SIZE": "936ml",
+    "CASE_CT": 12,
+    "CASE_PRICE": 40.68,
+    "UNIT_PRICE": 3.39,
+    "CATEGORY": "Kiszonki i Przetwory / Pickles & Preserves"
+  },
+  {
+    "CODE": "236",
+    "BRAND": "RUNOLAND",
+    "NAME": "OGORKI MALOSOLNE Z SERWETKA",
+    "SIZE": "900g",
+    "CASE_CT": 12,
+    "CASE_PRICE": 43.08,
+    "UNIT_PRICE": 3.59,
+    "CATEGORY": "Kiszonki i Przetwory / Pickles & Preserves"
+  },
+  {
+    "CODE": "230",
+    "BRAND": "RUNOLAND",
+    "NAME": "OGORKI SWEET Z PAPRYKA",
+    "SIZE": "936ml",
+    "CASE_CT": 12,
+    "CASE_PRICE": 46.68,
+    "UNIT_PRICE": 3.89,
+    "CATEGORY": "Kiszonki i Przetwory / Pickles & Preserves"
+  },
+  {
+    "CODE": "218",
+    "BRAND": "RUNOLAND",
+    "NAME": "PAPRYKA MARYNOWANA",
+    "SIZE": "900g",
+    "CASE_CT": 12,
+    "CASE_PRICE": 35.4,
+    "UNIT_PRICE": 2.95,
+    "CATEGORY": "Kiszonki i Przetwory / Pickles & Preserves"
+  },
+  {
+    "CODE": "153",
+    "BRAND": "RUNOLAND",
+    "NAME": "PRZECIER OGORKOWY",
+    "SIZE": "300g",
+    "CASE_CT": 12,
+    "CASE_PRICE": 19.8,
+    "UNIT_PRICE": 1.65,
+    "CATEGORY": "Kiszonki i Przetwory / Pickles & Preserves"
+  },
+  {
+    "CODE": "1302",
+    "BRAND": "RUNOLAND",
+    "NAME": "Podl. prz. Do ogorkow kiszonych 100g",
+    "SIZE": "",
+    "CASE_CT": 20,
+    "CASE_PRICE": 37.0,
+    "UNIT_PRICE": 1.85,
+    "CATEGORY": "Kiszonki i Przetwory / Pickles & Preserves"
+  },
+  {
+    "CODE": "1287",
+    "BRAND": "RUNOLAND",
+    "NAME": "Podlaska przyprawa do bigosu 50g",
+    "SIZE": "",
+    "CASE_CT": 10,
+    "CASE_PRICE": 14.9,
+    "UNIT_PRICE": 1.49,
+    "CATEGORY": "Kiszonki i Przetwory / Pickles & Preserves"
+  },
+  {
+    "CODE": "201",
+    "BRAND": "RUNOLAND",
+    "NAME": "SALATKA GRECKA",
+    "SIZE": "900g",
+    "CASE_CT": 12,
+    "CASE_PRICE": 28.68,
+    "UNIT_PRICE": 2.39,
+    "CATEGORY": "Kiszonki i Przetwory / Pickles & Preserves"
+  },
+  {
+    "CODE": "138",
+    "BRAND": "RUNOLAND",
+    "NAME": "SALATKA OBIADOWA",
+    "SIZE": "900g",
+    "CASE_CT": 12,
+    "CASE_PRICE": 28.68,
+    "UNIT_PRICE": 2.39,
+    "CATEGORY": "Kiszonki i Przetwory / Pickles & Preserves"
+  },
+  {
+    "CODE": "200",
+    "BRAND": "RUNOLAND",
+    "NAME": "SALATKA UKRAINSKA",
+    "SIZE": "900g",
+    "CASE_CT": 12,
+    "CASE_PRICE": 28.68,
+    "UNIT_PRICE": 2.39,
+    "CATEGORY": "Kiszonki i Przetwory / Pickles & Preserves"
+  },
+  {
+    "CODE": "141",
+    "BRAND": "RUNOLAND",
+    "NAME": "SALATKA WIEJSKA",
+    "SIZE": "900g",
+    "CASE_CT": 12,
+    "CASE_PRICE": 28.68,
+    "UNIT_PRICE": 2.39,
+    "CATEGORY": "Kiszonki i Przetwory / Pickles & Preserves"
+  },
+  {
+    "CODE": "135",
+    "BRAND": "RUNOLAND",
+    "NAME": "SALATKA Z BURACZKOW CZ. Z CEBULA",
+    "SIZE": "500g",
+    "CASE_CT": 12,
+    "CASE_PRICE": 23.88,
+    "UNIT_PRICE": 1.99,
+    "CATEGORY": "Kiszonki i Przetwory / Pickles & Preserves"
+  },
+  {
+    "CODE": "1587",
+    "BRAND": "RUNOLAND",
+    "NAME": "SALATKA Z CZER. KAPUSTY Z JABLKIEM",
+    "SIZE": "680g",
+    "CASE_CT": 12,
+    "CASE_PRICE": 27.0,
+    "UNIT_PRICE": 2.25,
+    "CATEGORY": "Kiszonki i Przetwory / Pickles & Preserves"
+  },
+  {
+    "CODE": "1586",
+    "BRAND": "RUNOLAND",
+    "NAME": "SALATKA Z CZERWONEJ KAPUSTY",
+    "SIZE": "680g",
+    "CASE_CT": 12,
+    "CASE_PRICE": 27.0,
+    "UNIT_PRICE": 2.25,
+    "CATEGORY": "Kiszonki i Przetwory / Pickles & Preserves"
+  },
+  {
+    "CODE": "2108",
+    "BRAND": "RUNOLAND",
+    "NAME": "SLOIKI Z WIECZ. NA OGORKI KISZONE",
+    "SIZE": "900ml",
+    "CASE_CT": 6,
+    "CASE_PRICE": 4.5,
+    "UNIT_PRICE": 0.75,
+    "CATEGORY": "Kiszonki i Przetwory / Pickles & Preserves"
+  },
+  {
+    "CODE": "2014",
+    "BRAND": "RUNOLAND",
+    "NAME": "SUROWKA Z BIALEJ KAPUSTY VEGAN",
+    "SIZE": "500g",
+    "CASE_CT": 12,
+    "CASE_PRICE": 23.88,
+    "UNIT_PRICE": 1.99,
+    "CATEGORY": "Kiszonki i Przetwory / Pickles & Preserves"
+  },
+  {
+    "CODE": "2008",
+    "BRAND": "RUNOLAND",
+    "NAME": "WHITE KAPUSTA KIMCHI HOT WEGAN",
+    "SIZE": "300g",
+    "CASE_CT": 12,
+    "CASE_PRICE": 33.0,
+    "UNIT_PRICE": 2.75,
+    "CATEGORY": "Kiszonki i Przetwory / Pickles & Preserves"
+  },
+  {
+    "CODE": "1502",
+    "BRAND": "RUNOLAND",
+    "NAME": "pomidorowo- z czosnek niedzwiedzi 40gpc",
+    "SIZE": "40g",
+    "CASE_CT": 10,
+    "CASE_PRICE": 34.5,
+    "UNIT_PRICE": 3.45,
+    "CATEGORY": "Kiszonki i Przetwory / Pickles & Preserves"
+  },
+  {
+    "CODE": "373",
+    "BRAND": "VORTUMNUS",
+    "NAME": "BURACZKI KONSERWOWE WIORKI",
+    "SIZE": "460g",
+    "CASE_CT": 12,
+    "CASE_PRICE": 21.0,
+    "UNIT_PRICE": 1.75,
+    "CATEGORY": "Kiszonki i Przetwory / Pickles & Preserves"
+  },
+  {
+    "CODE": "1052",
+    "BRAND": "BARTOLINI",
+    "NAME": "ECO FARM KIDS ZWIERZ. PIECIOSMAK.",
+    "SIZE": "250g",
+    "CASE_CT": 12,
+    "CASE_PRICE": 21.0,
+    "UNIT_PRICE": 1.75,
+    "CATEGORY": "Makarony / Pasta"
+  },
+  {
+    "CODE": "1048",
+    "BRAND": "BARTOLINI",
+    "NAME": "ECO ORKISZOWY GNIAZDA",
+    "SIZE": "250g",
+    "CASE_CT": 10,
+    "CASE_PRICE": 19.5,
+    "UNIT_PRICE": 1.95,
+    "CATEGORY": "Makarony / Pasta"
+  },
+  {
+    "CODE": "1654",
+    "BRAND": "BARTOLINI",
+    "NAME": "ECO ORKISZOWY Swiderek",
+    "SIZE": "250g",
+    "CASE_CT": 10,
+    "CASE_PRICE": 19.5,
+    "UNIT_PRICE": 1.95,
+    "CATEGORY": "Makarony / Pasta"
+  },
+  {
+    "CODE": "1041",
+    "BRAND": "BARTOLINI",
+    "NAME": "FARM KIDS ZWIERZ. PIECIOSMAK.",
+    "SIZE": "250g",
+    "CASE_CT": 12,
+    "CASE_PRICE": 19.8,
+    "UNIT_PRICE": 1.65,
+    "CATEGORY": "Makarony / Pasta"
+  },
+  {
+    "CODE": "446",
+    "BRAND": "BARTOLINI",
+    "NAME": "GMI FO.Makaron szpetzle Lane Kluski 400g",
+    "SIZE": "400g",
+    "CASE_CT": 12,
+    "CASE_PRICE": 35.4,
+    "UNIT_PRICE": 2.95,
+    "CATEGORY": "Makarony / Pasta"
+  },
+  {
+    "CODE": "1051",
+    "BRAND": "BARTOLINI",
+    "NAME": "KIDS KORALIKI PIECIOSMAKOWE",
+    "SIZE": "250g",
+    "CASE_CT": 12,
+    "CASE_PRICE": 19.8,
+    "UNIT_PRICE": 1.65,
+    "CATEGORY": "Makarony / Pasta"
+  },
+  {
+    "CODE": "1042",
+    "BRAND": "BARTOLINI",
+    "NAME": "KIDS MOTOMANIAKI PIECIOSMAKOWE",
+    "SIZE": "250g",
+    "CASE_CT": 12,
+    "CASE_PRICE": 19.8,
+    "UNIT_PRICE": 1.65,
+    "CATEGORY": "Makarony / Pasta"
+  },
+  {
+    "CODE": "1046",
+    "BRAND": "BARTOLINI",
+    "NAME": "KIDS SWDRZAKI PIECIOSMAKOWE",
+    "SIZE": "250g",
+    "CASE_CT": 12,
+    "CASE_PRICE": 19.8,
+    "UNIT_PRICE": 1.65,
+    "CATEGORY": "Makarony / Pasta"
+  },
+  {
+    "CODE": "514",
+    "BRAND": "BARTOLINI",
+    "NAME": "KRAJANKA CIENKA",
+    "SIZE": "400g",
+    "CASE_CT": 10,
+    "CASE_PRICE": 19.5,
+    "UNIT_PRICE": 1.95,
+    "CATEGORY": "Makarony / Pasta"
+  },
+  {
+    "CODE": "515",
+    "BRAND": "BARTOLINI",
+    "NAME": "KRAJANKA SREDNIA",
+    "SIZE": "400g",
+    "CASE_CT": 10,
+    "CASE_PRICE": 19.5,
+    "UNIT_PRICE": 1.95,
+    "CATEGORY": "Makarony / Pasta"
+  },
+  {
+    "CODE": "2116",
+    "BRAND": "BARTOLINI",
+    "NAME": "Makaron 4 jajeczny Krajanka 250g",
+    "SIZE": "250g",
+    "CASE_CT": 24,
+    "CASE_PRICE": 23.76,
+    "UNIT_PRICE": 0.99,
+    "CATEGORY": "Makarony / Pasta"
+  },
+  {
+    "CODE": "2117",
+    "BRAND": "POLMAK",
+    "NAME": "Makaron 4 jajeczny Kluski do zupy 250g",
+    "SIZE": "250g",
+    "CASE_CT": 20,
+    "CASE_PRICE": 35.0,
+    "UNIT_PRICE": 1.75,
+    "CATEGORY": "Makarony / Pasta"
+  },
+  {
+    "CODE": "2115",
+    "BRAND": "POLMAK",
+    "NAME": "Makaron 4 jajeczny Łazanka 250g",
+    "SIZE": "250g",
+    "CASE_CT": 16,
+    "CASE_PRICE": 28.0,
+    "UNIT_PRICE": 1.75,
+    "CATEGORY": "Makarony / Pasta"
+  },
+  {
+    "CODE": "2148",
+    "BRAND": "POLMAK",
+    "NAME": "Makaron Niski Indeks Glikemiczny Fusilli 250g",
+    "SIZE": "250g",
+    "CASE_CT": 14,
+    "CASE_PRICE": 40.46,
+    "UNIT_PRICE": 2.89,
+    "CATEGORY": "Makarony / Pasta"
+  },
+  {
+    "CODE": "2120",
+    "BRAND": "POLMAK",
+    "NAME": "Makaron dla dzieci Wesołe Literki 250g",
+    "SIZE": "250g",
+    "CASE_CT": 16,
+    "CASE_PRICE": 28.0,
+    "UNIT_PRICE": 1.75,
+    "CATEGORY": "Makarony / Pasta"
+  },
+  {
+    "CODE": "2149",
+    "BRAND": "POLMAK",
+    "NAME": "Makaron nierówno siekany 250g",
+    "SIZE": "250g",
+    "CASE_CT": 25,
+    "CASE_PRICE": 24.75,
+    "UNIT_PRICE": 0.99,
+    "CATEGORY": "Makarony / Pasta"
+  },
+  {
+    "CODE": "2118",
+    "BRAND": "RUNOLAND",
+    "NAME": "Makaron 4jajeczny świderek 250g",
+    "SIZE": "250g",
+    "CASE_CT": 14,
+    "CASE_PRICE": 24.5,
+    "UNIT_PRICE": 1.75,
+    "CATEGORY": "Makarony / Pasta"
+  },
+  {
+    "CODE": "1171",
+    "BRAND": "HAPPY FARM",
+    "NAME": "H. Miodunka Ziele",
+    "SIZE": "25g",
+    "CASE_CT": 10,
+    "CASE_PRICE": 35.0,
+    "UNIT_PRICE": 3.5,
+    "CATEGORY": "Miody / Honey"
+  },
+  {
+    "CODE": "2203",
+    "BRAND": "HAPPY FARM",
+    "NAME": "HAPPY FARM MIOD LIPOWY",
+    "SIZE": "1000g",
+    "CASE_CT": 6,
+    "CASE_PRICE": 65.94,
+    "UNIT_PRICE": 10.99,
+    "CATEGORY": "Miody / Honey"
+  },
+  {
+    "CODE": "261",
+    "BRAND": "HAPPY FARM",
+    "NAME": "MIOD AKACJOWY",
+    "SIZE": "1200g",
+    "CASE_CT": 6,
+    "CASE_PRICE": 101.7,
+    "UNIT_PRICE": 16.95,
+    "CATEGORY": "Miody / Honey"
+  },
+  {
+    "CODE": "2276",
+    "BRAND": "HAPPY FARM",
+    "NAME": "MIOD AKACJOWY",
+    "SIZE": "1000g",
+    "CASE_CT": 6,
+    "CASE_PRICE": 71.94,
+    "UNIT_PRICE": 11.99,
+    "CATEGORY": "Miody / Honey"
+  },
+  {
+    "CODE": "253",
+    "BRAND": "HAPPY FARM",
+    "NAME": "MIOD AKACJOWY",
+    "SIZE": "380g",
+    "CASE_CT": 12,
+    "CASE_PRICE": 75.0,
+    "UNIT_PRICE": 6.25,
+    "CATEGORY": "Miody / Honey"
+  },
+  {
+    "CODE": "2278",
+    "BRAND": "HAPPY FARM",
+    "NAME": "MIOD AKACJOWY Black label",
+    "SIZE": "400g",
+    "CASE_CT": 12,
+    "CASE_PRICE": 64.68,
+    "UNIT_PRICE": 5.39,
+    "CATEGORY": "Miody / Honey"
+  },
+  {
+    "CODE": "260",
+    "BRAND": "HAPPY FARM",
+    "NAME": "MIOD LIPOWY",
+    "SIZE": "1200g",
+    "CASE_CT": 6,
+    "CASE_PRICE": 101.7,
+    "UNIT_PRICE": 16.95,
+    "CATEGORY": "Miody / Honey"
+  },
+  {
+    "CODE": "254",
+    "BRAND": "HAPPY FARM",
+    "NAME": "MIOD LIPOWY",
+    "SIZE": "380g",
+    "CASE_CT": 12,
+    "CASE_PRICE": 75.0,
+    "UNIT_PRICE": 6.25,
+    "CATEGORY": "Miody / Honey"
+  },
+  {
+    "CODE": "2279",
+    "BRAND": "HAPPY FARM",
+    "NAME": "MIOD LIPOWY Black Label",
+    "SIZE": "400g",
+    "CASE_CT": 12,
+    "CASE_PRICE": 64.68,
+    "UNIT_PRICE": 5.39,
+    "CATEGORY": "Miody / Honey"
+  },
+  {
+    "CODE": "259",
+    "BRAND": "HAPPY FARM",
+    "NAME": "MIOD SPADZIOWY",
+    "SIZE": "1200g",
+    "CASE_CT": 6,
+    "CASE_PRICE": 113.7,
+    "UNIT_PRICE": 18.95,
+    "CATEGORY": "Miody / Honey"
+  },
+  {
+    "CODE": "256",
+    "BRAND": "HAPPY FARM",
+    "NAME": "MIOD SPADZIOWY",
+    "SIZE": "380g",
+    "CASE_CT": 12,
+    "CASE_PRICE": 88.2,
+    "UNIT_PRICE": 7.35,
+    "CATEGORY": "Miody / Honey"
+  },
+  {
+    "CODE": "2280",
+    "BRAND": "HAPPY FARM",
+    "NAME": "MIOD WIELOK. Teddy Bear black Label",
+    "SIZE": "340g",
+    "CASE_CT": 18,
+    "CASE_PRICE": 66.42,
+    "UNIT_PRICE": 3.69,
+    "CATEGORY": "Miody / Honey"
+  },
+  {
+    "CODE": "2275",
+    "BRAND": "HAPPY FARM",
+    "NAME": "MIOD WIELOKWIATOWY Yellow Label",
+    "SIZE": "1000g",
+    "CASE_CT": 6,
+    "CASE_PRICE": 47.94,
+    "UNIT_PRICE": 7.99,
+    "CATEGORY": "Miody / Honey"
+  },
+  {
+    "CODE": "2204",
+    "BRAND": "HAPPY FARM",
+    "NAME": "MIOD WIELOKWIATOWY black Label",
+    "SIZE": "1000g",
+    "CASE_CT": 6,
+    "CASE_PRICE": 47.94,
+    "UNIT_PRICE": 7.99,
+    "CATEGORY": "Miody / Honey"
+  },
+  {
+    "CODE": "2277",
+    "BRAND": "HAPPY FARM",
+    "NAME": "MIOD WIELOKWIATOWY black Label",
+    "SIZE": "400g",
+    "CASE_CT": 12,
+    "CASE_PRICE": 47.88,
+    "UNIT_PRICE": 3.99,
+    "CATEGORY": "Miody / Honey"
+  },
+  {
+    "CODE": "2281",
+    "BRAND": "HAPPY FARM",
+    "NAME": "MIOD WIELOKWIATOWY black Label",
+    "SIZE": "2000g",
+    "CASE_CT": 4,
+    "CASE_PRICE": 63.96,
+    "UNIT_PRICE": 15.99,
+    "CATEGORY": "Miody / Honey"
+  },
+  {
+    "CODE": "2282",
+    "BRAND": "HAPPY FARM",
+    "NAME": "MIOD WIELOKWIATOWY black Label 7kg",
+    "SIZE": "7000g",
+    "CASE_CT": 1,
+    "CASE_PRICE": "",
+    "UNIT_PRICE": 47.99,
+    "CATEGORY": "Miody / Honey"
+  },
+  {
+    "CODE": "2244",
+    "BRAND": "AMBRA PICCOLO",
+    "NAME": "PICCOLO ARBUZ",
+    "SIZE": "0.75L",
+    "CASE_CT": 6,
+    "CASE_PRICE": 19.5,
+    "UNIT_PRICE": 3.25,
+    "CATEGORY": "Napoje / Beverages"
+  },
+  {
+    "CODE": "611",
+    "BRAND": "AMBRA PICCOLO",
+    "NAME": "PICCOLO BRZOSKWINIOWE",
+    "SIZE": "0.75L",
+    "CASE_CT": 6,
+    "CASE_PRICE": 19.5,
+    "UNIT_PRICE": 3.25,
+    "CATEGORY": "Napoje / Beverages"
+  },
+  {
+    "CODE": "2245",
+    "BRAND": "AMBRA PICCOLO",
+    "NAME": "PICCOLO JAGODA",
+    "SIZE": "0.75L",
+    "CASE_CT": 6,
+    "CASE_PRICE": 19.5,
+    "UNIT_PRICE": 3.25,
+    "CATEGORY": "Napoje / Beverages"
+  },
+  {
+    "CODE": "2246",
+    "BRAND": "AMBRA PICCOLO",
+    "NAME": "PICCOLO MANGO",
+    "SIZE": "0.75L",
+    "CASE_CT": 6,
+    "CASE_PRICE": 19.5,
+    "UNIT_PRICE": 3.25,
+    "CATEGORY": "Napoje / Beverages"
+  },
+  {
+    "CODE": "610",
+    "BRAND": "AMBRA PICCOLO",
+    "NAME": "PICCOLO TRUSKAWKOWE",
+    "SIZE": "0.75L",
+    "CASE_CT": 6,
+    "CASE_PRICE": 19.5,
+    "UNIT_PRICE": 3.25,
+    "CATEGORY": "Napoje / Beverages"
+  },
+  {
+    "CODE": "612",
+    "BRAND": "AMBRA PICCOLO",
+    "NAME": "PICCOLO WISNIOWE",
+    "SIZE": "0.75L",
+    "CASE_CT": 6,
+    "CASE_PRICE": 19.5,
+    "UNIT_PRICE": 3.25,
+    "CATEGORY": "Napoje / Beverages"
+  },
+  {
+    "CODE": "1004",
+    "BRAND": "DARY NATURY",
+    "NAME": "SOK Z CZARNEGO BZU ECO 100%",
+    "SIZE": "270ml",
+    "CASE_CT": 10,
+    "CASE_PRICE": 35.0,
+    "UNIT_PRICE": 3.5,
+    "CATEGORY": "Napoje / Beverages"
+  },
+  {
+    "CODE": "939",
+    "BRAND": "KUBUŚ",
+    "NAME": "KUBUŚ MARCHEW-MALINA-JABLKO",
+    "SIZE": "0.9L",
+    "CASE_CT": 6,
+    "CASE_PRICE": 10.5,
+    "UNIT_PRICE": 1.75,
+    "CATEGORY": "Napoje / Beverages"
+  },
+  {
+    "CODE": "2251",
+    "BRAND": "MUSZYNIANKA",
+    "NAME": "CECHNI MUSZYNA PET/PLAST GAZ WYSO.",
+    "SIZE": "1.75L",
+    "CASE_CT": 6,
+    "CASE_PRICE": 9.9,
+    "UNIT_PRICE": 1.65,
+    "CATEGORY": "Napoje / Beverages"
+  },
+  {
+    "CODE": "2251",
+    "BRAND": "MUSZYNIANKA",
+    "NAME": "CECHNI MUSZYNA PET/PLAST NIEGAZ .",
+    "SIZE": "1.75L",
+    "CASE_CT": 6,
+    "CASE_PRICE": 9.9,
+    "UNIT_PRICE": 1.65,
+    "CATEGORY": "Napoje / Beverages"
+  },
+  {
+    "CODE": "2250",
+    "BRAND": "MUSZYNIANKA",
+    "NAME": "CECHNI MUSZYNA PET/PLAST NIEGAZ.",
+    "SIZE": "1.5L",
+    "CASE_CT": 6,
+    "CASE_PRICE": 9.9,
+    "UNIT_PRICE": 1.65,
+    "CATEGORY": "Napoje / Beverages"
+  },
+  {
+    "CODE": "2114",
+    "BRAND": "MUSZYNIANKA",
+    "NAME": "CECHNI MUSZYNA SZKLO GAZ WYSO.",
+    "SIZE": "0.7L",
+    "CASE_CT": 6,
+    "CASE_PRICE": 9.9,
+    "UNIT_PRICE": 1.65,
+    "CATEGORY": "Napoje / Beverages"
+  },
+  {
+    "CODE": "2114",
+    "BRAND": "MUSZYNIANKA",
+    "NAME": "CECHNI MUSZYNA SZKLO NIEGAZ WYSO.",
+    "SIZE": "0.7L",
+    "CASE_CT": 6,
+    "CASE_PRICE": 9.9,
+    "UNIT_PRICE": 1.65,
+    "CATEGORY": "Napoje / Beverages"
+  },
+  {
+    "CODE": "MU",
+    "BRAND": "MUSZYNIANKA",
+    "NAME": "MUSZYNIANKA NIEGAZOWANA",
+    "SIZE": "1.5L",
+    "CASE_CT": 6,
+    "CASE_PRICE": 10.74,
+    "UNIT_PRICE": 1.79,
+    "CATEGORY": "Napoje / Beverages"
+  },
+  {
+    "CODE": "161",
+    "BRAND": "RUNOLAND",
+    "NAME": "SOK Z KISZONEJ KAPUSTY",
+    "SIZE": "900g",
+    "CASE_CT": 12,
+    "CASE_PRICE": 21.0,
+    "UNIT_PRICE": 1.75,
+    "CATEGORY": "Napoje / Beverages"
+  },
+  {
+    "CODE": "1275",
+    "BRAND": "DARY NATURY",
+    "NAME": "Eco Papryka wedzona słodka 50g",
+    "SIZE": "",
+    "CASE_CT": 10,
+    "CASE_PRICE": 48.5,
+    "UNIT_PRICE": 4.85,
+    "CATEGORY": "Przyprawy i Zioła / Spices & Herbs"
+  },
+  {
+    "CODE": "2137",
+    "BRAND": "DARY NATURY",
+    "NAME": "H. Ziołowy Zakątek EKO 80g",
+    "SIZE": "",
+    "CASE_CT": 8,
+    "CASE_PRICE": 22.0,
+    "UNIT_PRICE": 2.75,
+    "CATEGORY": "Przyprawy i Zioła / Spices & Herbs"
+  },
+  {
+    "CODE": "1093",
+    "BRAND": "DARY NATURY",
+    "NAME": "KSYLITOL",
+    "SIZE": "400g",
+    "CASE_CT": 10,
+    "CASE_PRICE": 79.5,
+    "UNIT_PRICE": 7.95,
+    "CATEGORY": "Przyprawy i Zioła / Spices & Herbs"
+  },
+  {
+    "CODE": "2205",
+    "BRAND": "DARY NATURY",
+    "NAME": "KSYLITOL FINSKI SPECIAL PRICE",
+    "SIZE": "500g",
+    "CASE_CT": 10,
+    "CASE_PRICE": 69.9,
+    "UNIT_PRICE": 6.99,
+    "CATEGORY": "Przyprawy i Zioła / Spices & Herbs"
+  },
+  {
+    "CODE": "2205",
+    "BRAND": "DARY NATURY",
+    "NAME": "KSYLITOL FINSKI SPECIAL PRICE",
+    "SIZE": "500g",
+    "CASE_CT": 10,
+    "CASE_PRICE": 59.9,
+    "UNIT_PRICE": 5.99,
+    "CATEGORY": "Przyprawy i Zioła / Spices & Herbs"
+  },
+  {
+    "CODE": "1075",
+    "BRAND": "DARY NATURY",
+    "NAME": "Oil Olej z ostropestu 0.1L pcs SKOLEJ",
+    "SIZE": "0.1L",
+    "CASE_CT": 12,
+    "CASE_PRICE": 59.4,
+    "UNIT_PRICE": 4.95,
+    "CATEGORY": "Przyprawy i Zioła / Spices & Herbs"
+  },
+  {
+    "CODE": "1510",
+    "BRAND": "DARY NATURY",
+    "NAME": "Ostropest plamisty ZIARNO",
+    "SIZE": "100g",
+    "CASE_CT": 10,
+    "CASE_PRICE": 25.0,
+    "UNIT_PRICE": 2.5,
+    "CATEGORY": "Przyprawy i Zioła / Spices & Herbs"
+  },
+  {
+    "CODE": "1505",
+    "BRAND": "DARY NATURY",
+    "NAME": "Ostropest plamisty ZIARNO",
+    "SIZE": "200g",
+    "CASE_CT": 10,
+    "CASE_PRICE": 49.9,
+    "UNIT_PRICE": 4.99,
+    "CATEGORY": "Przyprawy i Zioła / Spices & Herbs"
+  },
+  {
+    "CODE": "1511",
+    "BRAND": "DARY NATURY",
+    "NAME": "Ostropest plamisty mielony",
+    "SIZE": "100g",
+    "CASE_CT": 10,
+    "CASE_PRICE": 32.5,
+    "UNIT_PRICE": 3.25,
+    "CATEGORY": "Przyprawy i Zioła / Spices & Herbs"
+  },
+  {
+    "CODE": "1091",
+    "BRAND": "DARY NATURY",
+    "NAME": "Ostropest plamisty mielony",
+    "SIZE": "200g",
+    "CASE_CT": 10,
+    "CASE_PRICE": 55.0,
+    "UNIT_PRICE": 5.5,
+    "CATEGORY": "Przyprawy i Zioła / Spices & Herbs"
+  },
+  {
+    "CODE": "1511",
+    "BRAND": "DARY NATURY",
+    "NAME": "Ostropest plamisty mielony",
+    "SIZE": "100g",
+    "CASE_CT": 10,
+    "CASE_PRICE": 25.0,
+    "UNIT_PRICE": 2.5,
+    "CATEGORY": "Przyprawy i Zioła / Spices & Herbs"
+  },
+  {
+    "CODE": "1091",
+    "BRAND": "DARY NATURY",
+    "NAME": "Ostropest plamisty mielony",
+    "SIZE": "200g",
+    "CASE_CT": 10,
+    "CASE_PRICE": 40.0,
+    "UNIT_PRICE": 4.0,
+    "CATEGORY": "Przyprawy i Zioła / Spices & Herbs"
+  },
+  {
+    "CODE": "1329",
+    "BRAND": "DARY NATURY",
+    "NAME": "Pieprz ziołowy 200g",
+    "SIZE": "",
+    "CASE_CT": 10,
+    "CASE_PRICE": 57.5,
+    "UNIT_PRICE": 5.75,
+    "CATEGORY": "Przyprawy i Zioła / Spices & Herbs"
+  },
+  {
+    "CODE": "1329",
+    "BRAND": "DARY NATURY",
+    "NAME": "Pieprz ziołowy 200g",
+    "SIZE": "",
+    "CASE_CT": 10,
+    "CASE_PRICE": 39.5,
+    "UNIT_PRICE": 3.95,
+    "CATEGORY": "Przyprawy i Zioła / Spices & Herbs"
+  },
+  {
+    "CODE": "1328",
+    "BRAND": "DARY NATURY",
+    "NAME": "Pieprz ziołowy 60g",
+    "SIZE": "",
+    "CASE_CT": 10,
+    "CASE_PRICE": 28.5,
+    "UNIT_PRICE": 2.85,
+    "CATEGORY": "Przyprawy i Zioła / Spices & Herbs"
+  },
+  {
+    "CODE": "1328",
+    "BRAND": "DARY NATURY",
+    "NAME": "Pieprz ziołowy 60g",
+    "SIZE": "",
+    "CASE_CT": 10,
+    "CASE_PRICE": 17.9,
+    "UNIT_PRICE": 1.79,
+    "CATEGORY": "Przyprawy i Zioła / Spices & Herbs"
+  },
+  {
+    "CODE": "1102",
+    "BRAND": "DARY NATURY",
+    "NAME": "Przyprawa Eko ogrod warzywny 230g",
+    "SIZE": "230g",
+    "CASE_CT": 6,
+    "CASE_PRICE": 41.7,
+    "UNIT_PRICE": 6.95,
+    "CATEGORY": "Przyprawy i Zioła / Spices & Herbs"
+  },
+  {
+    "CODE": "1105",
+    "BRAND": "DARY NATURY",
+    "NAME": "Przyprawa Eko susz Zielony ogrod 150g",
+    "SIZE": "150g",
+    "CASE_CT": 10,
+    "CASE_PRICE": 32.5,
+    "UNIT_PRICE": 3.25,
+    "CATEGORY": "Przyprawy i Zioła / Spices & Herbs"
+  },
+  {
+    "CODE": "1104",
+    "BRAND": "DARY NATURY",
+    "NAME": "Przyprawa Eko susz warzywny 190g",
+    "SIZE": "190g",
+    "CASE_CT": 10,
+    "CASE_PRICE": 37.5,
+    "UNIT_PRICE": 3.75,
+    "CATEGORY": "Przyprawy i Zioła / Spices & Herbs"
+  },
+  {
+    "CODE": "1996",
+    "BRAND": "DARY NATURY",
+    "NAME": "Przyprawa Porcja smakow eko 120g",
+    "SIZE": "120g",
+    "CASE_CT": 20,
+    "CASE_PRICE": 55.0,
+    "UNIT_PRICE": 2.75,
+    "CATEGORY": "Przyprawy i Zioła / Spices & Herbs"
+  },
+  {
+    "CODE": "1995",
+    "BRAND": "DARY NATURY",
+    "NAME": "Przyprawa lyzka smakow eko 150g",
+    "SIZE": "150g",
+    "CASE_CT": 10,
+    "CASE_PRICE": 59.5,
+    "UNIT_PRICE": 5.95,
+    "CATEGORY": "Przyprawy i Zioła / Spices & Herbs"
+  },
+  {
+    "CODE": "1995",
+    "BRAND": "DARY NATURY",
+    "NAME": "Przyprawa lyzka smakow eko 150g",
+    "SIZE": "150g",
+    "CASE_CT": 10,
+    "CASE_PRICE": 35.0,
+    "UNIT_PRICE": 3.5,
+    "CATEGORY": "Przyprawy i Zioła / Spices & Herbs"
+  },
+  {
+    "CODE": "1333",
+    "BRAND": "DARY NATURY",
+    "NAME": "Sól ziołowa 90g",
+    "SIZE": "",
+    "CASE_CT": 10,
+    "CASE_PRICE": 27.5,
+    "UNIT_PRICE": 2.75,
+    "CATEGORY": "Przyprawy i Zioła / Spices & Herbs"
+  },
+  {
+    "CODE": "2216",
+    "BRAND": "INTERSNACK",
+    "NAME": "CHIPSY W KOTLE PRAZONE PAPRYKA",
+    "SIZE": "125g",
+    "CASE_CT": 10,
+    "CASE_PRICE": 26.5,
+    "UNIT_PRICE": 2.65,
+    "CATEGORY": "Przyprawy i Zioła / Spices & Herbs"
+  },
+  {
+    "CODE": "198",
+    "BRAND": "MAGGI",
+    "NAME": "PRZYPRAWA MAGGI W PLYNIE",
+    "SIZE": "1L",
+    "CASE_CT": 6,
+    "CASE_PRICE": 29.7,
+    "UNIT_PRICE": 4.95,
+    "CATEGORY": "Przyprawy i Zioła / Spices & Herbs"
+  },
+  {
+    "CODE": "199",
+    "BRAND": "MAGGI",
+    "NAME": "PRZYPRAWA MAGGI W PLYNIE",
+    "SIZE": "200g",
+    "CASE_CT": 20,
+    "CASE_PRICE": 25.0,
+    "UNIT_PRICE": 1.25,
+    "CATEGORY": "Przyprawy i Zioła / Spices & Herbs"
+  },
+  {
+    "CODE": "1241",
+    "BRAND": "RUNOLAND",
+    "NAME": "Cynamon laska 40g",
+    "SIZE": "",
+    "CASE_CT": 10,
+    "CASE_PRICE": 35.0,
+    "UNIT_PRICE": 3.5,
+    "CATEGORY": "Przyprawy i Zioła / Spices & Herbs"
+  },
+  {
+    "CODE": "2286",
+    "BRAND": "RUNOLAND",
+    "NAME": "Cynamon laska CINAMON STICKS 3oz/85g",
+    "SIZE": "85g",
+    "CASE_CT": 12,
+    "CASE_PRICE": 47.88,
+    "UNIT_PRICE": 3.99,
+    "CATEGORY": "Przyprawy i Zioła / Spices & Herbs"
+  },
+  {
+    "CODE": "1240",
+    "BRAND": "RUNOLAND",
+    "NAME": "Cynamon mielony 60g",
+    "SIZE": "",
+    "CASE_CT": 10,
+    "CASE_PRICE": 25.0,
+    "UNIT_PRICE": 2.5,
+    "CATEGORY": "Przyprawy i Zioła / Spices & Herbs"
+  },
+  {
+    "CODE": "2287",
+    "BRAND": "RUNOLAND",
+    "NAME": "Cynamon mielony CINAMON GROUN. 9oz/255g",
+    "SIZE": "255g",
+    "CASE_CT": 12,
+    "CASE_PRICE": 66.0,
+    "UNIT_PRICE": 5.5,
+    "CATEGORY": "Przyprawy i Zioła / Spices & Herbs"
+  },
+  {
+    "CODE": "1251",
+    "BRAND": "RUNOLAND",
+    "NAME": "Goździki 30g",
+    "SIZE": "",
+    "CASE_CT": 10,
+    "CASE_PRICE": 32.5,
+    "UNIT_PRICE": 3.25,
+    "CATEGORY": "Przyprawy i Zioła / Spices & Herbs"
+  },
+  {
+    "CODE": "369",
+    "BRAND": "RUNOLAND",
+    "NAME": "JABLKA PRA.SZAR. RODZYNKI/CYNAMON",
+    "SIZE": "780g",
+    "CASE_CT": 12,
+    "CASE_PRICE": 35.88,
+    "UNIT_PRICE": 2.99,
+    "CATEGORY": "Przyprawy i Zioła / Spices & Herbs"
+  },
+  {
+    "CODE": "1255",
+    "BRAND": "RUNOLAND",
+    "NAME": "Kardamon mielony 50g",
+    "SIZE": "",
+    "CASE_CT": 10,
+    "CASE_PRICE": 83.5,
+    "UNIT_PRICE": 8.35,
+    "CATEGORY": "Przyprawy i Zioła / Spices & Herbs"
+  },
+  {
+    "CODE": "1502",
+    "BRAND": "RUNOLAND",
+    "NAME": "Kminek mielony 60g",
+    "SIZE": "",
+    "CASE_CT": 10,
+    "CASE_PRICE": 22.5,
+    "UNIT_PRICE": 2.25,
+    "CATEGORY": "Przyprawy i Zioła / Spices & Herbs"
+  },
+  {
+    "CODE": "1502",
+    "BRAND": "RUNOLAND",
+    "NAME": "Kminek ziarno/ 60g",
+    "SIZE": "",
+    "CASE_CT": 10,
+    "CASE_PRICE": 22.5,
+    "UNIT_PRICE": 2.25,
+    "CATEGORY": "Przyprawy i Zioła / Spices & Herbs"
+  },
+  {
+    "CODE": "2101",
+    "BRAND": "RUNOLAND",
+    "NAME": "Kompletna MARYNATA BOCZEK",
+    "SIZE": "500g",
+    "CASE_CT": 6,
+    "CASE_PRICE": 18.0,
+    "UNIT_PRICE": 3.0,
+    "CATEGORY": "Przyprawy i Zioła / Spices & Herbs"
+  },
+  {
+    "CODE": "2100",
+    "BRAND": "RUNOLAND",
+    "NAME": "Kompletna MARYNATA SZYNKA WIEJSKA",
+    "SIZE": "500g",
+    "CASE_CT": 6,
+    "CASE_PRICE": 18.0,
+    "UNIT_PRICE": 3.0,
+    "CATEGORY": "Przyprawy i Zioła / Spices & Herbs"
+  },
+  {
+    "CODE": "1261",
+    "BRAND": "RUNOLAND",
+    "NAME": "Koper ogrodowy nasiona 30g",
+    "SIZE": "",
+    "CASE_CT": 10,
+    "CASE_PRICE": 25.0,
+    "UNIT_PRICE": 2.5,
+    "CATEGORY": "Przyprawy i Zioła / Spices & Herbs"
+  },
+  {
+    "CODE": "1843",
+    "BRAND": "RUNOLAND",
+    "NAME": "Koperek 30g",
+    "SIZE": "",
+    "CASE_CT": 10,
+    "CASE_PRICE": 27.5,
+    "UNIT_PRICE": 2.75,
+    "CATEGORY": "Przyprawy i Zioła / Spices & Herbs"
+  },
+  {
+    "CODE": "1266",
+    "BRAND": "RUNOLAND",
+    "NAME": "Liść laurowy 10g",
+    "SIZE": "",
+    "CASE_CT": 10,
+    "CASE_PRICE": 19.9,
+    "UNIT_PRICE": 1.99,
+    "CATEGORY": "Przyprawy i Zioła / Spices & Herbs"
+  },
+  {
+    "CODE": "1266",
+    "BRAND": "RUNOLAND",
+    "NAME": "Liść laurowy 10g",
+    "SIZE": "",
+    "CASE_CT": 10,
+    "CASE_PRICE": 14.9,
+    "UNIT_PRICE": 1.49,
+    "CATEGORY": "Przyprawy i Zioła / Spices & Herbs"
+  },
+  {
+    "CODE": "1267",
+    "BRAND": "RUNOLAND",
+    "NAME": "Liść laurowy 70g",
+    "SIZE": "",
+    "CASE_CT": 10,
+    "CASE_PRICE": 42.5,
+    "UNIT_PRICE": 4.25,
+    "CATEGORY": "Przyprawy i Zioła / Spices & Herbs"
+  },
+  {
+    "CODE": "1267",
+    "BRAND": "RUNOLAND",
+    "NAME": "Liść laurowy 70g",
+    "SIZE": "",
+    "CASE_CT": 10,
+    "CASE_PRICE": 35.0,
+    "UNIT_PRICE": 3.5,
+    "CATEGORY": "Przyprawy i Zioła / Spices & Herbs"
+  },
+  {
+    "CODE": "1270",
+    "BRAND": "RUNOLAND",
+    "NAME": "Majeranek 100g",
+    "SIZE": "",
+    "CASE_CT": 10,
+    "CASE_PRICE": 42.5,
+    "UNIT_PRICE": 4.25,
+    "CATEGORY": "Przyprawy i Zioła / Spices & Herbs"
+  },
+  {
+    "CODE": "1270",
+    "BRAND": "RUNOLAND",
+    "NAME": "Majeranek 100g",
+    "SIZE": "",
+    "CASE_CT": 10,
+    "CASE_PRICE": 35.0,
+    "UNIT_PRICE": 3.5,
+    "CATEGORY": "Przyprawy i Zioła / Spices & Herbs"
+  },
+  {
+    "CODE": "1269",
+    "BRAND": "RUNOLAND",
+    "NAME": "Majeranek 15g",
+    "SIZE": "",
+    "CASE_CT": 10,
+    "CASE_PRICE": 19.9,
+    "UNIT_PRICE": 1.99,
+    "CATEGORY": "Przyprawy i Zioła / Spices & Herbs"
+  },
+  {
+    "CODE": "1269",
+    "BRAND": "RUNOLAND",
+    "NAME": "Majeranek 15g",
+    "SIZE": "",
+    "CASE_CT": 10,
+    "CASE_PRICE": 14.9,
+    "UNIT_PRICE": 1.49,
+    "CATEGORY": "Przyprawy i Zioła / Spices & Herbs"
+  },
+  {
+    "CODE": "1272",
+    "BRAND": "RUNOLAND",
+    "NAME": "Oregano 20g",
+    "SIZE": "",
+    "CASE_CT": 10,
+    "CASE_PRICE": 22.5,
+    "UNIT_PRICE": 2.25,
+    "CATEGORY": "Przyprawy i Zioła / Spices & Herbs"
+  },
+  {
+    "CODE": "1272",
+    "BRAND": "RUNOLAND",
+    "NAME": "Oregano 20g",
+    "SIZE": "",
+    "CASE_CT": 10,
+    "CASE_PRICE": 14.9,
+    "UNIT_PRICE": 1.49,
+    "CATEGORY": "Przyprawy i Zioła / Spices & Herbs"
+  },
+  {
+    "CODE": "2106",
+    "BRAND": "RUNOLAND",
+    "NAME": "PRZYPRAWA DO ROSOLU PREMIUM",
+    "SIZE": "100g",
+    "CASE_CT": 10,
+    "CASE_PRICE": 17.5,
+    "UNIT_PRICE": 1.75,
+    "CATEGORY": "Przyprawy i Zioła / Spices & Herbs"
+  },
+  {
+    "CODE": "1273",
+    "BRAND": "RUNOLAND",
+    "NAME": "Papryka ostra 60g",
+    "SIZE": "",
+    "CASE_CT": 10,
+    "CASE_PRICE": 14.9,
+    "UNIT_PRICE": 1.49,
+    "CATEGORY": "Przyprawy i Zioła / Spices & Herbs"
+  },
+  {
+    "CODE": "1274",
+    "BRAND": "RUNOLAND",
+    "NAME": "Papryka słodka 60g",
+    "SIZE": "",
+    "CASE_CT": 10,
+    "CASE_PRICE": 27.5,
+    "UNIT_PRICE": 2.75,
+    "CATEGORY": "Przyprawy i Zioła / Spices & Herbs"
+  },
+  {
+    "CODE": "1274",
+    "BRAND": "RUNOLAND",
+    "NAME": "Papryka słodka 60g",
+    "SIZE": "",
+    "CASE_CT": 10,
+    "CASE_PRICE": 17.9,
+    "UNIT_PRICE": 1.79,
+    "CATEGORY": "Przyprawy i Zioła / Spices & Herbs"
+  },
+  {
+    "CODE": "1281",
+    "BRAND": "RUNOLAND",
+    "NAME": "Pieprz czarny cytrynowy 50g",
+    "SIZE": "",
+    "CASE_CT": 10,
+    "CASE_PRICE": 29.5,
+    "UNIT_PRICE": 2.95,
+    "CATEGORY": "Przyprawy i Zioła / Spices & Herbs"
+  },
+  {
+    "CODE": "1278",
+    "BRAND": "RUNOLAND",
+    "NAME": "Pieprz czarny mielony 50g",
+    "SIZE": "",
+    "CASE_CT": 10,
+    "CASE_PRICE": 19.5,
+    "UNIT_PRICE": 1.95,
+    "CATEGORY": "Przyprawy i Zioła / Spices & Herbs"
+  },
+  {
+    "CODE": "1279",
+    "BRAND": "RUNOLAND",
+    "NAME": "Pieprz czarny ziarnisty 50g",
+    "SIZE": "",
+    "CASE_CT": 10,
+    "CASE_PRICE": 32.5,
+    "UNIT_PRICE": 3.25,
+    "CATEGORY": "Przyprawy i Zioła / Spices & Herbs"
+  },
+  {
+    "CODE": "1279",
+    "BRAND": "RUNOLAND",
+    "NAME": "Pieprz czarny ziarnisty 50g",
+    "SIZE": "",
+    "CASE_CT": 10,
+    "CASE_PRICE": 32.5,
+    "UNIT_PRICE": 3.25,
+    "CATEGORY": "Przyprawy i Zioła / Spices & Herbs"
+  },
+  {
+    "CODE": "1279",
+    "BRAND": "RUNOLAND",
+    "NAME": "Pieprz czarny ziarnisty 50g",
+    "SIZE": "",
+    "CASE_CT": 10,
+    "CASE_PRICE": 22.5,
+    "UNIT_PRICE": 2.25,
+    "CATEGORY": "Przyprawy i Zioła / Spices & Herbs"
+  },
+  {
+    "CODE": "1301",
+    "BRAND": "RUNOLAND",
+    "NAME": "Przyprawa do miesa wolowego",
+    "SIZE": "50g",
+    "CASE_CT": 10,
+    "CASE_PRICE": 14.9,
+    "UNIT_PRICE": 1.49,
+    "CATEGORY": "Przyprawy i Zioła / Spices & Herbs"
+  },
+  {
+    "CODE": "1253",
+    "BRAND": "RUNOLAND",
+    "NAME": "Przyprawa imbir",
+    "SIZE": "60g",
+    "CASE_CT": 10,
+    "CASE_PRICE": 28.5,
+    "UNIT_PRICE": 2.85,
+    "CATEGORY": "Przyprawy i Zioła / Spices & Herbs"
+  },
+  {
+    "CODE": "1282",
+    "BRAND": "RUNOLAND",
+    "NAME": "Rozmaryn 30g",
+    "SIZE": "",
+    "CASE_CT": 10,
+    "CASE_PRICE": 14.9,
+    "UNIT_PRICE": 1.49,
+    "CATEGORY": "Przyprawy i Zioła / Spices & Herbs"
+  },
+  {
+    "CODE": "1283",
+    "BRAND": "RUNOLAND",
+    "NAME": "Tymianek 20g",
+    "SIZE": "",
+    "CASE_CT": 10,
+    "CASE_PRICE": 22.5,
+    "UNIT_PRICE": 2.25,
+    "CATEGORY": "Przyprawy i Zioła / Spices & Herbs"
+  },
+  {
+    "CODE": "1283",
+    "BRAND": "RUNOLAND",
+    "NAME": "Tymianek 20g",
+    "SIZE": "",
+    "CASE_CT": 10,
+    "CASE_PRICE": 14.9,
+    "UNIT_PRICE": 1.49,
+    "CATEGORY": "Przyprawy i Zioła / Spices & Herbs"
+  },
+  {
+    "CODE": "O54",
+    "BRAND": "ARGETA",
+    "NAME": "ARGETA SALMON SPREAD14/95g",
+    "SIZE": "0.95g",
+    "CASE_CT": 1,
+    "CASE_PRICE": "",
+    "UNIT_PRICE": 2.79,
+    "CATEGORY": "Ryby / Fish"
+  },
+  {
+    "CODE": "210",
+    "BRAND": "BALTIC GOLD",
+    "NAME": "BALTIC RIGA SPRATS IN OIL",
+    "SIZE": "240g",
+    "CASE_CT": 24,
+    "CASE_PRICE": 69.36,
+    "UNIT_PRICE": 2.89,
+    "CATEGORY": "Ryby / Fish"
+  },
+  {
+    "CODE": "219",
+    "BRAND": "BALTIC GOLD",
+    "NAME": "BALTIC SPRATS IN TOMATO",
+    "SIZE": "240g",
+    "CASE_CT": 24,
+    "CASE_PRICE": 69.36,
+    "UNIT_PRICE": 2.89,
+    "CATEGORY": "Ryby / Fish"
+  },
+  {
+    "CODE": "209",
+    "BRAND": "BALTIC GOLD",
+    "NAME": "BRISLING SARDINES IN OIL GLASS JAR",
+    "SIZE": "250g",
+    "CASE_CT": 12,
+    "CASE_PRICE": 47.88,
+    "UNIT_PRICE": 3.99,
+    "CATEGORY": "Ryby / Fish"
+  },
+  {
+    "CODE": "215",
+    "BRAND": "BALTIC GOLD",
+    "NAME": "COD LIVER / WATROBKA Z DORSZA",
+    "SIZE": "121g",
+    "CASE_CT": 12,
+    "CASE_PRICE": 31.8,
+    "UNIT_PRICE": 2.65,
+    "CATEGORY": "Ryby / Fish"
+  },
+  {
+    "CODE": "2241",
+    "BRAND": "BALTIC GOLD",
+    "NAME": "D-SMOKED SPRATS IN OIL",
+    "SIZE": "100g",
+    "CASE_CT": 12,
+    "CASE_PRICE": 23.88,
+    "UNIT_PRICE": 1.99,
+    "CATEGORY": "Ryby / Fish"
+  },
+  {
+    "CODE": "205",
+    "BRAND": "BALTIC GOLD",
+    "NAME": "MAKREL IN OIL 240g",
+    "SIZE": "240g",
+    "CASE_CT": 24,
+    "CASE_PRICE": 64.56,
+    "UNIT_PRICE": 2.69,
+    "CATEGORY": "Ryby / Fish"
+  },
+  {
+    "CODE": "204",
+    "BRAND": "BALTIC GOLD",
+    "NAME": "MAKREL IN TOMATOE SAUCE 190g",
+    "SIZE": "190g",
+    "CASE_CT": 36,
+    "CASE_PRICE": 135.0,
+    "UNIT_PRICE": 3.75,
+    "CATEGORY": "Ryby / Fish"
+  },
+  {
+    "CODE": "217",
+    "BRAND": "BALTIC GOLD",
+    "NAME": "RIGA SZPROTS IN OIL CLEAR LID E/O",
+    "SIZE": "160g",
+    "CASE_CT": 36,
+    "CASE_PRICE": 107.64,
+    "UNIT_PRICE": 2.99,
+    "CATEGORY": "Ryby / Fish"
+  },
+  {
+    "CODE": "207",
+    "BRAND": "BALTIC GOLD",
+    "NAME": "RIGA SZPROTS IN OIL E/O",
+    "SIZE": "160g",
+    "CASE_CT": 36,
+    "CASE_PRICE": 93.24,
+    "UNIT_PRICE": 2.59,
+    "CATEGORY": "Ryby / Fish"
+  },
+  {
+    "CODE": "2240",
+    "BRAND": "BALTIC GOLD",
+    "NAME": "SALMON IN BRINE",
+    "SIZE": "120g",
+    "CASE_CT": 11,
+    "CASE_PRICE": 30.69,
+    "UNIT_PRICE": 2.79,
+    "CATEGORY": "Ryby / Fish"
+  },
+  {
+    "CODE": "2238",
+    "BRAND": "BALTIC GOLD",
+    "NAME": "SALMON IN KETCHUP SAUCE",
+    "SIZE": "120g",
+    "CASE_CT": 11,
+    "CASE_PRICE": 28.49,
+    "UNIT_PRICE": 2.59,
+    "CATEGORY": "Ryby / Fish"
+  },
+  {
+    "CODE": "2007",
+    "BRAND": "BALTIC GOLD",
+    "NAME": "SALMON IN MUSTARD SAUCE",
+    "SIZE": "120g",
+    "CASE_CT": 11,
+    "CASE_PRICE": 28.49,
+    "UNIT_PRICE": 2.59,
+    "CATEGORY": "Ryby / Fish"
+  },
+  {
+    "CODE": "2004",
+    "BRAND": "BALTIC GOLD",
+    "NAME": "SALMON IN OIL",
+    "SIZE": "120g",
+    "CASE_CT": 11,
+    "CASE_PRICE": 28.49,
+    "UNIT_PRICE": 2.59,
+    "CATEGORY": "Ryby / Fish"
+  },
+  {
+    "CODE": "2003",
+    "BRAND": "BALTIC GOLD",
+    "NAME": "SALMON IN OIL W/LEMON",
+    "SIZE": "120g",
+    "CASE_CT": 11,
+    "CASE_PRICE": 28.49,
+    "UNIT_PRICE": 2.59,
+    "CATEGORY": "Ryby / Fish"
+  },
+  {
+    "CODE": "2239",
+    "BRAND": "BALTIC GOLD",
+    "NAME": "SALMON IN OLIVE OIL",
+    "SIZE": "120g",
+    "CASE_CT": 11,
+    "CASE_PRICE": 30.69,
+    "UNIT_PRICE": 2.79,
+    "CATEGORY": "Ryby / Fish"
+  },
+  {
+    "CODE": "2237",
+    "BRAND": "BALTIC GOLD",
+    "NAME": "SALMON IN TERYAKI SAUCE",
+    "SIZE": "120g",
+    "CASE_CT": 11,
+    "CASE_PRICE": 30.69,
+    "UNIT_PRICE": 2.79,
+    "CATEGORY": "Ryby / Fish"
+  },
+  {
+    "CODE": "212",
+    "BRAND": "BALTIC GOLD",
+    "NAME": "SARDINES IN TOMATO GLASS JAR",
+    "SIZE": "175g",
+    "CASE_CT": 12,
+    "CASE_PRICE": 40.68,
+    "UNIT_PRICE": 3.39,
+    "CATEGORY": "Ryby / Fish"
+  },
+  {
+    "CODE": "203",
+    "BRAND": "BALTIC GOLD",
+    "NAME": "SPRATS IN TOMATO GLASS JAR",
+    "SIZE": "250g",
+    "CASE_CT": 12,
+    "CASE_PRICE": 47.88,
+    "UNIT_PRICE": 3.99,
+    "CATEGORY": "Ryby / Fish"
+  },
+  {
+    "CODE": "211",
+    "BRAND": "BALTIC GOLD",
+    "NAME": "SZPROTS IN OIL GLASS JAR 175g",
+    "SIZE": "175g",
+    "CASE_CT": 12,
+    "CASE_PRICE": 40.68,
+    "UNIT_PRICE": 3.39,
+    "CATEGORY": "Ryby / Fish"
+  },
+  {
+    "CODE": "216",
+    "BRAND": "BALTIC GOLD",
+    "NAME": "SZPROTS IN OIL W/GARLICK E/O",
+    "SIZE": "160g",
+    "CASE_CT": 36,
+    "CASE_PRICE": 96.84,
+    "UNIT_PRICE": 2.69,
+    "CATEGORY": "Ryby / Fish"
+  },
+  {
+    "CODE": "214",
+    "BRAND": "BALTIC GOLD",
+    "NAME": "SZPROTS IN OIL W/LEMON E/O",
+    "SIZE": "160g",
+    "CASE_CT": 36,
+    "CASE_PRICE": 96.84,
+    "UNIT_PRICE": 2.69,
+    "CATEGORY": "Ryby / Fish"
+  },
+  {
+    "CODE": "2006",
+    "BRAND": "BALTIC GOLD",
+    "NAME": "SZPROTS PATE W/ONION N/SPICES",
+    "SIZE": "160g",
+    "CASE_CT": 36,
+    "CASE_PRICE": 57.24,
+    "UNIT_PRICE": 1.59,
+    "CATEGORY": "Ryby / Fish"
+  },
+  {
+    "CODE": "2005",
+    "BRAND": "RUNOLAND",
+    "NAME": "SALMON WITH CHILLY SPICY/",
+    "SIZE": "120g",
+    "CASE_CT": 11,
+    "CASE_PRICE": 28.49,
+    "UNIT_PRICE": 2.59,
+    "CATEGORY": "Ryby / Fish"
+  },
+  {
+    "CODE": "1998",
+    "BRAND": "DARY NATURY",
+    "NAME": "SYROP Z CZARNEGO BZU ECO 100%",
+    "SIZE": "270ml",
+    "CASE_CT": 10,
+    "CASE_PRICE": 42.5,
+    "UNIT_PRICE": 4.25,
+    "CATEGORY": "Syropy, Dżemy i Owoce / Syrups, Jams & Fruits"
+  },
+  {
+    "CODE": "939",
+    "BRAND": "KUBUŚ",
+    "NAME": "KUBUŚ MAR.-BRZOSKWINIA -JABLKO",
+    "SIZE": "0.9L",
+    "CASE_CT": 6,
+    "CASE_PRICE": 10.5,
+    "UNIT_PRICE": 1.75,
+    "CATEGORY": "Syropy, Dżemy i Owoce / Syrups, Jams & Fruits"
+  },
+  {
+    "CODE": "142",
+    "BRAND": "RUNOLAND",
+    "NAME": "MARMOLADE MULTIFRUIT/",
+    "SIZE": "1050g",
+    "CASE_CT": 12,
+    "CASE_PRICE": 54.0,
+    "UNIT_PRICE": 4.5,
+    "CATEGORY": "Syropy, Dżemy i Owoce / Syrups, Jams & Fruits"
+  },
+  {
+    "CODE": "1016",
+    "BRAND": "RUNOLAND",
+    "NAME": "ORGANIC BLUEBERRY JAM ''PYCHOTKA''",
+    "SIZE": "200g",
+    "CASE_CT": 12,
+    "CASE_PRICE": 42.0,
+    "UNIT_PRICE": 3.5,
+    "CATEGORY": "Syropy, Dżemy i Owoce / Syrups, Jams & Fruits"
+  },
+  {
+    "CODE": "1060",
+    "BRAND": "RUNOLAND",
+    "NAME": "ORGANIC PLUM BUTTER \"PYCHOTKA\"",
+    "SIZE": "200g",
+    "CASE_CT": 12,
+    "CASE_PRICE": 33.0,
+    "UNIT_PRICE": 2.75,
+    "CATEGORY": "Syropy, Dżemy i Owoce / Syrups, Jams & Fruits"
+  },
+  {
+    "CODE": "1027",
+    "BRAND": "RUNOLAND",
+    "NAME": "ORGANIC RASPSBERRY JAM''PYCHOTKA''",
+    "SIZE": "200g",
+    "CASE_CT": 12,
+    "CASE_PRICE": 42.0,
+    "UNIT_PRICE": 3.5,
+    "CATEGORY": "Syropy, Dżemy i Owoce / Syrups, Jams & Fruits"
+  },
+  {
+    "CODE": "1022",
+    "BRAND": "RUNOLAND",
+    "NAME": "ORGANIC STROWBERRY JAM \"PYCHOTKA\"",
+    "SIZE": "200g",
+    "CASE_CT": 12,
+    "CASE_PRICE": 34.2,
+    "UNIT_PRICE": 2.85,
+    "CATEGORY": "Syropy, Dżemy i Owoce / Syrups, Jams & Fruits"
+  },
+  {
+    "CODE": "266",
+    "BRAND": "RUNOLAND",
+    "NAME": "PLUM BUTTER POWIDLO WEGIERKOWE",
+    "SIZE": "1000g",
+    "CASE_CT": 12,
+    "CASE_PRICE": 66.0,
+    "UNIT_PRICE": 5.5,
+    "CATEGORY": "Syropy, Dżemy i Owoce / Syrups, Jams & Fruits"
+  },
+  {
+    "CODE": "106",
+    "BRAND": "RUNOLAND",
+    "NAME": "PLUM BUTTER POWIDLO WEGIERKOWE",
+    "SIZE": "230g",
+    "CASE_CT": 12,
+    "CASE_PRICE": 27.0,
+    "UNIT_PRICE": 2.25,
+    "CATEGORY": "Syropy, Dżemy i Owoce / Syrups, Jams & Fruits"
+  },
+  {
+    "CODE": "171",
+    "BRAND": "RUNOLAND",
+    "NAME": "PLUM IN VINEGAR/ SLIWKA W OCCIE",
+    "SIZE": "500g",
+    "CASE_CT": 12,
+    "CASE_PRICE": 30.0,
+    "UNIT_PRICE": 2.5,
+    "CATEGORY": "Syropy, Dżemy i Owoce / Syrups, Jams & Fruits"
+  },
+  {
+    "CODE": "149",
+    "BRAND": "RUNOLAND",
+    "NAME": "SYROP CZ. PORZECZKA",
+    "SIZE": "1L",
+    "CASE_CT": 12,
+    "CASE_PRICE": 59.88,
+    "UNIT_PRICE": 4.99,
+    "CATEGORY": "Syropy, Dżemy i Owoce / Syrups, Jams & Fruits"
+  },
+  {
+    "CODE": "143",
+    "BRAND": "RUNOLAND",
+    "NAME": "SYROP MALINOWY",
+    "SIZE": "1L",
+    "CASE_CT": 12,
+    "CASE_PRICE": 59.88,
+    "UNIT_PRICE": 4.99,
+    "CATEGORY": "Syropy, Dżemy i Owoce / Syrups, Jams & Fruits"
+  },
+  {
+    "CODE": "146",
+    "BRAND": "RUNOLAND",
+    "NAME": "SYROP POZIOMKOWY",
+    "SIZE": "1L",
+    "CASE_CT": 12,
+    "CASE_PRICE": 59.88,
+    "UNIT_PRICE": 4.99,
+    "CATEGORY": "Syropy, Dżemy i Owoce / Syrups, Jams & Fruits"
+  },
+  {
+    "CODE": "147",
+    "BRAND": "RUNOLAND",
+    "NAME": "SYROP WISNIOWY",
+    "SIZE": "1L",
+    "CASE_CT": 12,
+    "CASE_PRICE": 59.88,
+    "UNIT_PRICE": 4.99,
+    "CATEGORY": "Syropy, Dżemy i Owoce / Syrups, Jams & Fruits"
+  },
+  {
+    "CODE": "196",
+    "BRAND": "VORTUMNUS",
+    "NAME": "BRZOSKWINIA OWOCE 80% BEZ CUKRU",
+    "SIZE": "300g",
+    "CASE_CT": 12,
+    "CASE_PRICE": 34.2,
+    "UNIT_PRICE": 2.85,
+    "CATEGORY": "Syropy, Dżemy i Owoce / Syrups, Jams & Fruits"
+  },
+  {
+    "CODE": "1867",
+    "BRAND": "VORTUMNUS",
+    "NAME": "Biscuits ''Słoneczniki'' z marmolada ow.",
+    "SIZE": "300g",
+    "CASE_CT": 12,
+    "CASE_PRICE": 21.0,
+    "UNIT_PRICE": 1.75,
+    "CATEGORY": "Syropy, Dżemy i Owoce / Syrups, Jams & Fruits"
+  },
+  {
+    "CODE": "1879",
+    "BRAND": "VORTUMNUS",
+    "NAME": "Biscuits ''Słoneczniki'' z marmolada ow. 750g",
+    "SIZE": "750g",
+    "CASE_CT": 12,
+    "CASE_PRICE": 53.4,
+    "UNIT_PRICE": 4.45,
+    "CATEGORY": "Syropy, Dżemy i Owoce / Syrups, Jams & Fruits"
+  },
+  {
+    "CODE": "102",
+    "BRAND": "VORTUMNUS",
+    "NAME": "CRANBERRY ZURAWINA DO MIES I SEROW",
+    "SIZE": "230g",
+    "CASE_CT": 12,
+    "CASE_PRICE": 30.0,
+    "UNIT_PRICE": 2.5,
+    "CATEGORY": "Syropy, Dżemy i Owoce / Syrups, Jams & Fruits"
+  },
+  {
+    "CODE": "366",
+    "BRAND": "VORTUMNUS",
+    "NAME": "JABLKA PRAZONE SZAR. Z BRZOSK.",
+    "SIZE": "780g",
+    "CASE_CT": 12,
+    "CASE_PRICE": 37.08,
+    "UNIT_PRICE": 3.09,
+    "CATEGORY": "Syropy, Dżemy i Owoce / Syrups, Jams & Fruits"
+  },
+  {
+    "CODE": "364",
+    "BRAND": "VORTUMNUS",
+    "NAME": "JABLKA PRAZONE SZARLOTKA",
+    "SIZE": "780g",
+    "CASE_CT": 12,
+    "CASE_PRICE": 35.88,
+    "UNIT_PRICE": 2.99,
+    "CATEGORY": "Syropy, Dżemy i Owoce / Syrups, Jams & Fruits"
+  },
+  {
+    "CODE": "166",
+    "BRAND": "VORTUMNUS",
+    "NAME": "JAGODY OWOCE DESEROWE",
+    "SIZE": "370g",
+    "CASE_CT": 12,
+    "CASE_PRICE": 57.0,
+    "UNIT_PRICE": 4.75,
+    "CATEGORY": "Syropy, Dżemy i Owoce / Syrups, Jams & Fruits"
+  },
+  {
+    "CODE": "182",
+    "BRAND": "VORTUMNUS",
+    "NAME": "KONFITURA Z MALIN PREMIUM",
+    "SIZE": "250g",
+    "CASE_CT": 6,
+    "CASE_PRICE": 15.0,
+    "UNIT_PRICE": 2.5,
+    "CATEGORY": "Syropy, Dżemy i Owoce / Syrups, Jams & Fruits"
+  },
+  {
+    "CODE": "184",
+    "BRAND": "VORTUMNUS",
+    "NAME": "KONFITURA Z MANGO PREMIUM",
+    "SIZE": "250g",
+    "CASE_CT": 6,
+    "CASE_PRICE": 11.94,
+    "UNIT_PRICE": 1.99,
+    "CATEGORY": "Syropy, Dżemy i Owoce / Syrups, Jams & Fruits"
+  },
+  {
+    "CODE": "936",
+    "BRAND": "KUBUŚ",
+    "NAME": "MARCHEW-BRZOSKWINIA-JABLKO",
+    "SIZE": "0.3L",
+    "CASE_CT": 20,
+    "CASE_PRICE": 22.0,
+    "UNIT_PRICE": 1.1,
+    "CATEGORY": "Syropy, Dżemy i Owoce / Syrups, Jams & Fruits"
+  },
+  {
+    "CODE": "1582",
+    "BRAND": "VORTUMNUS",
+    "NAME": "MARMOLADA WIELOOWOCOWA",
+    "SIZE": "260g",
+    "CASE_CT": 12,
+    "CASE_PRICE": 18.0,
+    "UNIT_PRICE": 1.5,
+    "CATEGORY": "Syropy, Dżemy i Owoce / Syrups, Jams & Fruits"
+  },
+  {
+    "CODE": "368",
+    "BRAND": "VORTUMNUS",
+    "NAME": "WISNIE DRAZONE DO CIAST I DESEROW",
+    "SIZE": "680ml",
+    "CASE_CT": 12,
+    "CASE_PRICE": 57.0,
+    "UNIT_PRICE": 4.75,
+    "CATEGORY": "Syropy, Dżemy i Owoce / Syrups, Jams & Fruits"
+  },
+  {
+    "CODE": "185",
+    "BRAND": "VORTUMNUS",
+    "NAME": "ZURAWINA DO MIES I SEROW",
+    "SIZE": "250g",
+    "CASE_CT": 6,
+    "CASE_PRICE": 13.5,
+    "UNIT_PRICE": 2.25,
+    "CATEGORY": "Syropy, Dżemy i Owoce / Syrups, Jams & Fruits"
+  },
+  {
+    "CODE": "2219",
+    "BRAND": "BORAMEX / GUSTO",
+    "NAME": "CHRUPKI KUKURYDZIANE LEKKO SOLONE",
+    "SIZE": "85g",
+    "CASE_CT": 26,
+    "CASE_PRICE": 32.5,
+    "UNIT_PRICE": 1.25,
+    "CATEGORY": "Słodycze i Przekąski / Sweets & Snacks"
+  },
+  {
+    "CODE": "2220",
+    "BRAND": "BORAMEX / GUSTO",
+    "NAME": "CHRUPKI KUKURYDZIANE O SM. SEROWYM",
+    "SIZE": "100g",
+    "CASE_CT": 18,
+    "CASE_PRICE": 22.5,
+    "UNIT_PRICE": 1.25,
+    "CATEGORY": "Słodycze i Przekąski / Sweets & Snacks"
+  },
+  {
+    "CODE": "2226",
+    "BRAND": "BORAMEX / GUSTO",
+    "NAME": "CHRUPKI KUKURYDZIANE Z NIESPODZIANKA",
+    "SIZE": "60g",
+    "CASE_CT": 20,
+    "CASE_PRICE": 35.0,
+    "UNIT_PRICE": 1.75,
+    "CATEGORY": "Słodycze i Przekąski / Sweets & Snacks"
+  },
+  {
+    "CODE": "O75",
+    "BRAND": "BORAMEX / GUSTO",
+    "NAME": "Chrupki Kukurydziane Tygryski Naturalne",
+    "SIZE": "230g",
+    "CASE_CT": 10,
+    "CASE_PRICE": 16.5,
+    "UNIT_PRICE": 1.65,
+    "CATEGORY": "Słodycze i Przekąski / Sweets & Snacks"
+  },
+  {
+    "CODE": "O83",
+    "BRAND": "BORAMEX / GUSTO",
+    "NAME": "Chrupki kukurydziane",
+    "SIZE": "80g ",
+    "CASE_CT": 20,
+    "CASE_PRICE": 17.0,
+    "UNIT_PRICE": 0.85,
+    "CATEGORY": "Słodycze i Przekąski / Sweets & Snacks"
+  },
+  {
+    "CODE": "O84",
+    "BRAND": "BORAMEX / GUSTO",
+    "NAME": "Chrupki kukurydziane warkocze",
+    "SIZE": "150g",
+    "CASE_CT": 20,
+    "CASE_PRICE": 33.0,
+    "UNIT_PRICE": 1.65,
+    "CATEGORY": "Słodycze i Przekąski / Sweets & Snacks"
+  },
+  {
+    "CODE": "1114",
+    "BRAND": "DELICPOL",
+    "NAME": "PIERNIKI SERCA GWIAZDY PREC./CZEK.",
+    "SIZE": "400g",
+    "CASE_CT": 10,
+    "CASE_PRICE": 35.9,
+    "UNIT_PRICE": 3.59,
+    "CATEGORY": "Słodycze i Przekąski / Sweets & Snacks"
+  },
+  {
+    "CODE": "352",
+    "BRAND": "FAMILY TREE",
+    "NAME": "COOKIE ORZESZKI DULCE DE LECHE",
+    "SIZE": "265g",
+    "CASE_CT": 10,
+    "CASE_PRICE": 42.5,
+    "UNIT_PRICE": 4.25,
+    "CATEGORY": "Słodycze i Przekąski / Sweets & Snacks"
+  },
+  {
+    "CODE": "2243",
+    "BRAND": "INTERSNACK",
+    "NAME": "CHIPSY SER GORSKI",
+    "SIZE": "130g",
+    "CASE_CT": 10,
+    "CASE_PRICE": 26.5,
+    "UNIT_PRICE": 2.65,
+    "CATEGORY": "Słodycze i Przekąski / Sweets & Snacks"
+  },
+  {
+    "CODE": "2242",
+    "BRAND": "INTERSNACK",
+    "NAME": "CHRUPKI REKSIO I RYSIO FROMAGE",
+    "SIZE": "90g",
+    "CASE_CT": 20,
+    "CASE_PRICE": 30.0,
+    "UNIT_PRICE": 1.5,
+    "CATEGORY": "Słodycze i Przekąski / Sweets & Snacks"
+  },
+  {
+    "CODE": "2214",
+    "BRAND": "INTERSNACK",
+    "NAME": "CHRUPKI REKSIO KECZUPOWE",
+    "SIZE": "90g",
+    "CASE_CT": 20,
+    "CASE_PRICE": 30.0,
+    "UNIT_PRICE": 1.5,
+    "CATEGORY": "Słodycze i Przekąski / Sweets & Snacks"
+  },
+  {
+    "CODE": "2215",
+    "BRAND": "INTERSNACK",
+    "NAME": "CHRUPKI REKSIO LEKKO SOLONE",
+    "SIZE": "95g",
+    "CASE_CT": 20,
+    "CASE_PRICE": 30.0,
+    "UNIT_PRICE": 1.5,
+    "CATEGORY": "Słodycze i Przekąski / Sweets & Snacks"
+  },
+  {
+    "CODE": "853",
+    "BRAND": "JUTRZENKA / KRAS",
+    "NAME": "NAPOLITANKA ORZECHOWA",
+    "SIZE": "420g",
+    "CASE_CT": 16,
+    "CASE_PRICE": 74.4,
+    "UNIT_PRICE": 4.65,
+    "CATEGORY": "Słodycze i Przekąski / Sweets & Snacks"
+  },
+  {
+    "CODE": "554",
+    "BRAND": "JUTRZENKA / KRAS",
+    "NAME": "PRINCE POLO CLASIC MINI",
+    "SIZE": "17.5g",
+    "CASE_CT": 21,
+    "CASE_PRICE": 6.93,
+    "UNIT_PRICE": 0.33,
+    "CATEGORY": "Słodycze i Przekąski / Sweets & Snacks"
+  },
+  {
+    "CODE": "523",
+    "BRAND": "JUTRZENKA / KRAS",
+    "NAME": "PRINCE POLO CLASIC XXL",
+    "SIZE": "45g",
+    "CASE_CT": 35,
+    "CASE_PRICE": 19.25,
+    "UNIT_PRICE": 0.55,
+    "CATEGORY": "Słodycze i Przekąski / Sweets & Snacks"
+  },
+  {
+    "CODE": "555",
+    "BRAND": "JUTRZENKA / KRAS",
+    "NAME": "PRINCE POLO ORZECHOWE XXL",
+    "SIZE": "45g",
+    "CASE_CT": 35,
+    "CASE_PRICE": 19.25,
+    "UNIT_PRICE": 0.55,
+    "CATEGORY": "Słodycze i Przekąski / Sweets & Snacks"
+  },
+  {
+    "CODE": "467",
+    "BRAND": "MAMBA",
+    "NAME": "Mamba Fantastic Mig",
+    "SIZE": "150g",
+    "CASE_CT": 150,
+    "CASE_PRICE": 253.5,
+    "UNIT_PRICE": 1.69,
+    "CATEGORY": "Słodycze i Przekąski / Sweets & Snacks"
+  },
+  {
+    "CODE": "466",
+    "BRAND": "MAMBA",
+    "NAME": "Mamba Fruit Surfer 150g",
+    "SIZE": "150g",
+    "CASE_CT": 24,
+    "CASE_PRICE": 40.56,
+    "UNIT_PRICE": 1.69,
+    "CATEGORY": "Słodycze i Przekąski / Sweets & Snacks"
+  },
+  {
+    "CODE": "475",
+    "BRAND": "MAMBA",
+    "NAME": "Mamba Magic Sticks 150g",
+    "SIZE": "150g",
+    "CASE_CT": 24,
+    "CASE_PRICE": 40.56,
+    "UNIT_PRICE": 1.69,
+    "CATEGORY": "Słodycze i Przekąski / Sweets & Snacks"
+  },
+  {
+    "CODE": "476",
+    "BRAND": "MAMBA",
+    "NAME": "Mamba Party 150g",
+    "SIZE": "150g",
+    "CASE_CT": 24,
+    "CASE_PRICE": 40.56,
+    "UNIT_PRICE": 1.69,
+    "CATEGORY": "Słodycze i Przekąski / Sweets & Snacks"
+  },
+  {
+    "CODE": "349",
+    "BRAND": "MARK",
+    "NAME": "SEKACZ DUZY 1.5-2 LB $11.50/plb",
+    "SIZE": "",
+    "CASE_CT": 12,
+    "CASE_PRICE": "",
+    "UNIT_PRICE": "",
+    "CATEGORY": "Słodycze i Przekąski / Sweets & Snacks"
+  },
+  {
+    "CODE": "351",
+    "BRAND": "MARK",
+    "NAME": "SEKACZ KRAZEK 0.5-0.75 LB $11.50/plb",
+    "SIZE": "",
+    "CASE_CT": 22,
+    "CASE_PRICE": "",
+    "UNIT_PRICE": "",
+    "CATEGORY": "Słodycze i Przekąski / Sweets & Snacks"
+  },
+  {
+    "CODE": "2247",
+    "BRAND": "RUNOLAND",
+    "NAME": "CHRUPKI KUKUR. O SM. KETCHUP",
+    "SIZE": "80g",
+    "CASE_CT": 18,
+    "CASE_PRICE": 22.5,
+    "UNIT_PRICE": 1.25,
+    "CATEGORY": "Słodycze i Przekąski / Sweets & Snacks"
+  },
+  {
+    "CODE": "2248",
+    "BRAND": "RUNOLAND",
+    "NAME": "CHRUPKI KUKUR. O SM. PIZZA",
+    "SIZE": "80g",
+    "CASE_CT": 18,
+    "CASE_PRICE": 22.5,
+    "UNIT_PRICE": 1.25,
+    "CATEGORY": "Słodycze i Przekąski / Sweets & Snacks"
+  },
+  {
+    "CODE": "2249",
+    "BRAND": "RUNOLAND",
+    "NAME": "CHRUPKI KUKUR. O SM. SLODKA KUKURYDZA18",
+    "SIZE": "80g",
+    "CASE_CT": 1,
+    "CASE_PRICE": "",
+    "UNIT_PRICE": 1.25,
+    "CATEGORY": "Słodycze i Przekąski / Sweets & Snacks"
+  },
+  {
+    "CODE": "1307",
+    "BRAND": "RUNOLAND",
+    "NAME": "Podl. prz. do piernikow 60g",
+    "SIZE": "",
+    "CASE_CT": 10,
+    "CASE_PRICE": 35.0,
+    "UNIT_PRICE": 3.5,
+    "CATEGORY": "Słodycze i Przekąski / Sweets & Snacks"
+  },
+  {
+    "CODE": "1307",
+    "BRAND": "RUNOLAND",
+    "NAME": "Podl. prz. do piernikow 60g",
+    "SIZE": "",
+    "CASE_CT": 10,
+    "CASE_PRICE": 25.0,
+    "UNIT_PRICE": 2.5,
+    "CATEGORY": "Słodycze i Przekąski / Sweets & Snacks"
+  },
+  {
+    "CODE": "183",
+    "BRAND": "WAFER / OBLATUM",
+    "NAME": "BASTEK Wafle Tortowe kwadrat",
+    "SIZE": "180g",
+    "CASE_CT": 26,
+    "CASE_PRICE": 38.74,
+    "UNIT_PRICE": 1.49,
+    "CATEGORY": "Słodycze i Przekąski / Sweets & Snacks"
+  },
+  {
+    "CODE": "2233",
+    "BRAND": "WAFER / OBLATUM",
+    "NAME": "RACHON WAFLE TORTOWE KWADRAT",
+    "SIZE": "170g",
+    "CASE_CT": 14,
+    "CASE_PRICE": 20.86,
+    "UNIT_PRICE": 1.49,
+    "CATEGORY": "Słodycze i Przekąski / Sweets & Snacks"
+  },
+  {
+    "CODE": "2274",
+    "BRAND": "WAFER / OBLATUM",
+    "NAME": "WAFLE TORTOWE KOLO",
+    "SIZE": "120g",
+    "CASE_CT": 14,
+    "CASE_PRICE": 18.06,
+    "UNIT_PRICE": 1.29,
+    "CATEGORY": "Słodycze i Przekąski / Sweets & Snacks"
+  },
+  {
+    "CODE": "2273",
+    "BRAND": "WAFER / OBLATUM",
+    "NAME": "WAFLE TORTOWE KWADRAT",
+    "SIZE": "170g",
+    "CASE_CT": 14,
+    "CASE_PRICE": 18.06,
+    "UNIT_PRICE": 1.29,
+    "CATEGORY": "Słodycze i Przekąski / Sweets & Snacks"
+  },
+  {
+    "CODE": "2022",
+    "BRAND": "WAFER / OBLATUM",
+    "NAME": "Wafle przekladane Krowkowe",
+    "SIZE": "400g",
+    "CASE_CT": 16,
+    "CASE_PRICE": 104.0,
+    "UNIT_PRICE": 6.5,
+    "CATEGORY": "Słodycze i Przekąski / Sweets & Snacks"
+  },
+  {
+    "CODE": "1872",
+    "BRAND": "ZLOTOKLOS",
+    "NAME": "Biscuits Ciastka MIg",
+    "SIZE": "700g",
+    "CASE_CT": 700,
+    "CASE_PRICE": 3115.0,
+    "UNIT_PRICE": 4.45,
+    "CATEGORY": "Słodycze i Przekąski / Sweets & Snacks"
+  },
+  {
+    "CODE": "1888",
+    "BRAND": "ZLOTOKLOS",
+    "NAME": "Biscuits Ciastka z orzechami 750g",
+    "SIZE": "750g",
+    "CASE_CT": 12,
+    "CASE_PRICE": 53.4,
+    "UNIT_PRICE": 4.45,
+    "CATEGORY": "Słodycze i Przekąski / Sweets & Snacks"
+  },
+  {
+    "CODE": "1871",
+    "BRAND": "ZLOTOKLOS",
+    "NAME": "Biscuits Z dynią i słonecznikiem 750g",
+    "SIZE": "750g",
+    "CASE_CT": 12,
+    "CASE_PRICE": 53.4,
+    "UNIT_PRICE": 4.45,
+    "CATEGORY": "Słodycze i Przekąski / Sweets & Snacks"
+  }
+]
